@@ -34,11 +34,7 @@ with row_space:
         file_name='app_category_dataset.csv',
         mime='text/csv',
         )
-    
-
-#analysis_col, settings_col = st.columns((3, 2))
-
-#analysis_col.subheader("Analysis :chart_with_upwards_trend:")
+ 
 
 if uploaded_file is not None:
     df = pd.read_csv(uploaded_file)
