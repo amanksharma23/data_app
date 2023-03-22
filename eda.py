@@ -26,12 +26,12 @@ with row_space:
     def convert_df(df):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
         return df.to_csv().encode('utf-8')
-    sample_data = pd.read_csv('sales_data_sample_.csv')
+    sample_data = pd.read_csv('app_category_dataset.csv')
     csv = convert_df(sample_data)
     row_space.download_button(
         label="Download sample data",
         data=csv,
-        file_name='sales_data_sample.csv',
+        file_name='app_category_dataset.csv',
         mime='text/csv',
         )
     
