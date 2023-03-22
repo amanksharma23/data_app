@@ -1,0 +1,2824 @@
+Orders,Units,Price/unit,Sales,Date,Status,Product Line,MSRP,City,State,Country
+10100,30,100,5151,1/6/2003,Shipped,Vintage Cars,170,Nashua,NH,USA
+10100,50,67.8,3390,1/6/2003,Shipped,Vintage Cars,60,Nashua,NH,USA
+10100,22,86.51,1903,1/6/2003,Shipped,Vintage Cars,92,Nashua,NH,USA
+10100,49,34.47,1689,1/6/2003,Shipped,Vintage Cars,41,Nashua,NH,USA
+10101,25,100,3782,1/9/2003,Shipped,Vintage Cars,127,Frankfurt,,Germany
+10101,26,100,3773,1/9/2003,Shipped,Vintage Cars,168,Frankfurt,,Germany
+10101,45,31.2,1404,1/9/2003,Shipped,Vintage Cars,33,Frankfurt,,Germany
+10101,46,53.76,2473,1/9/2003,Shipped,Vintage Cars,44,Frankfurt,,Germany
+10102,39,100,4808,1/10/2003,Shipped,Vintage Cars,102,NYC,NY,USA
+10102,41,50.14,2056,1/10/2003,Shipped,Vintage Cars,53,NYC,NY,USA
+10103,26,100,5405,1/29/2003,Shipped,Classic Cars,214,Stavern,,Norway
+10103,42,100,5398,1/29/2003,Shipped,Classic Cars,147,Stavern,,Norway
+10103,27,100,3395,1/29/2003,Shipped,Trucks and Buses,136,Stavern,,Norway
+10103,35,100,3920,1/29/2003,Shipped,Trucks and Buses,116,Stavern,,Norway
+10103,22,54.09,1190,1/29/2003,Shipped,Trucks and Buses,60,Stavern,,Norway
+10103,27,83.07,2243,1/29/2003,Shipped,Vintage Cars,101,Stavern,,Norway
+10103,35,57.46,2011,1/29/2003,Shipped,Vintage Cars,62,Stavern,,Norway
+10103,25,100,2540,1/29/2003,Shipped,Vintage Cars,104,Stavern,,Norway
+10103,46,100,4792,1/29/2003,Shipped,Vintage Cars,99,Stavern,,Norway
+10103,36,100,4228,1/29/2003,Shipped,Trucks and Buses,121,Stavern,,Norway
+10103,41,47.29,1939,1/29/2003,Shipped,Vintage Cars,50,Stavern,,Norway
+10103,36,100,3680,1/29/2003,Shipped,Trucks and Buses,127,Stavern,,Norway
+10103,25,100,2873,1/29/2003,Shipped,Vintage Cars,97,Stavern,,Norway
+10103,31,100,3224,1/29/2003,Shipped,Trucks and Buses,96,Stavern,,Norway
+10103,45,75.63,3403,1/29/2003,Shipped,Trucks and Buses,64,Stavern,,Norway
+10103,42,100,4461,1/29/2003,Shipped,Classic Cars,101,Stavern,,Norway
+10104,34,100,5959,1/31/2003,Shipped,Classic Cars,151,Madrid,,Spain
+10104,41,100,4616,1/31/2003,Shipped,Trucks and Buses,118,Madrid,,Spain
+10104,24,100,3458,1/31/2003,Shipped,Classic Cars,163,Madrid,,Spain
+10104,29,100,3773,1/31/2003,Shipped,Trucks and Buses,122,Madrid,,Spain
+10104,23,100,4557,1/31/2003,Shipped,Classic Cars,169,Madrid,,Spain
+10104,38,100,5349,1/31/2003,Shipped,Classic Cars,143,Madrid,,Spain
+10104,35,55.49,1942,1/31/2003,Shipped,Classic Cars,57,Madrid,,Spain
+10104,44,39.6,1742,1/31/2003,Shipped,Classic Cars,35,Madrid,,Spain
+10104,26,100,2922,1/31/2003,Shipped,Classic Cars,118,Madrid,,Spain
+10104,35,47.62,1667,1/31/2003,Shipped,Trucks and Buses,54,Madrid,,Spain
+10104,49,65.87,3228,1/31/2003,Shipped,Trains,62,Madrid,,Spain
+10104,33,100,3705,1/31/2003,Shipped,Trucks and Buses,115,Madrid,,Spain
+10104,32,53.31,1706,1/31/2003,Shipped,Trains,58,Madrid,,Spain
+10105,50,100,7208,2/11/2003,Shipped,Classic Cars,136,Kobenhavn,,Denmark
+10105,41,100,8690,2/11/2003,Shipped,Classic Cars,207,Kobenhavn,,Denmark
+10105,29,100,4566,2/11/2003,Shipped,Classic Cars,173,Kobenhavn,,Denmark
+10105,22,100,3065,2/11/2003,Shipped,Vintage Cars,136,Kobenhavn,,Denmark
+10105,38,100,4330,2/11/2003,Shipped,Trains,100,Kobenhavn,,Denmark
+10105,41,82.5,3383,2/11/2003,Shipped,Vintage Cars,87,Kobenhavn,,Denmark
+10105,43,100,6341,2/11/2003,Shipped,Ships,122,Kobenhavn,,Denmark
+10105,44,72.58,3194,2/11/2003,Shipped,Vintage Cars,88,Kobenhavn,,Denmark
+10105,50,79.67,3984,2/11/2003,Shipped,Vintage Cars,83,Kobenhavn,,Denmark
+10105,41,70.67,2897,2/11/2003,Shipped,Ships,66,Kobenhavn,,Denmark
+10105,29,70.15,2034,2/11/2003,Shipped,Ships,86,Kobenhavn,,Denmark
+10105,31,65.77,2039,2/11/2003,Shipped,Ships,72,Kobenhavn,,Denmark
+10105,39,81.14,3164,2/11/2003,Shipped,Ships,100,Kobenhavn,,Denmark
+10105,22,100,2556,2/11/2003,Shipped,Ships,99,Kobenhavn,,Denmark
+10105,25,56.78,1420,2/11/2003,Shipped,Ships,54,Kobenhavn,,Denmark
+10106,36,100,5279,2/17/2003,Shipped,Planes,157,Bergamo,,Italy
+10106,34,90.39,3073,2/17/2003,Shipped,Planes,84,Bergamo,,Italy
+10106,41,83.44,3421,2/17/2003,Shipped,Ships,86,Bergamo,,Italy
+10106,41,100,4775,2/17/2003,Shipped,Vintage Cars,105,Bergamo,,Italy
+10106,28,88.63,2482,2/17/2003,Shipped,Planes,109,Bergamo,,Italy
+10106,49,74.68,3659,2/17/2003,Shipped,Planes,68,Bergamo,,Italy
+10106,31,52.6,1631,2/17/2003,Shipped,Vintage Cars,65,Bergamo,,Italy
+10106,50,64.83,3242,2/17/2003,Shipped,Planes,68,Bergamo,,Italy
+10106,26,63.76,1658,2/17/2003,Shipped,Planes,72,Bergamo,,Italy
+10106,33,72.92,2406,2/17/2003,Shipped,Vintage Cars,68,Bergamo,,Italy
+10106,39,40.15,1566,2/17/2003,Shipped,Vintage Cars,43,Bergamo,,Italy
+10106,31,100,3313,2/17/2003,Shipped,Planes,91,Bergamo,,Italy
+10106,30,100,3177,2/17/2003,Shipped,Ships,90,Bergamo,,Italy
+10106,34,100,3763,2/17/2003,Shipped,Planes,99,Bergamo,,Italy
+10106,32,100,3987,2/17/2003,Shipped,Planes,118,Bergamo,,Italy
+10106,44,74.4,3274,2/17/2003,Shipped,Planes,80,Bergamo,,Italy
+10106,48,61.44,2949,2/17/2003,Shipped,Planes,74,Bergamo,,Italy
+10106,48,52.64,2527,2/17/2003,Shipped,Planes,49,Bergamo,,Italy
+10107,30,95.7,2871,2/24/2003,Shipped,Motorcycles,95,NYC,NY,USA
+10107,39,99.91,3896,2/24/2003,Shipped,Motorcycles,118,NYC,NY,USA
+10107,27,100,6066,2/24/2003,Shipped,Motorcycles,193,NYC,NY,USA
+10107,21,100,3037,2/24/2003,Shipped,Motorcycles,150,NYC,NY,USA
+10107,29,70.87,2055,2/24/2003,Shipped,Motorcycles,60,NYC,NY,USA
+10107,25,100,2846,2/24/2003,Shipped,Motorcycles,112,NYC,NY,USA
+10107,38,83.03,3155,2/24/2003,Shipped,Motorcycles,76,NYC,NY,USA
+10107,20,92.9,1858,2/24/2003,Shipped,Motorcycles,99,NYC,NY,USA
+10108,33,100,5265,3/3/2003,Shipped,Classic Cars,194,Makati City,,Philippines
+10108,45,100,6130,3/3/2003,Shipped,Classic Cars,117,Makati City,,Philippines
+10108,39,89.38,3486,3/3/2003,Shipped,Classic Cars,79,Makati City,,Philippines
+10108,36,100,3731,3/3/2003,Shipped,Classic Cars,115,Makati City,,Philippines
+10108,38,82.39,3131,3/3/2003,Shipped,Classic Cars,77,Makati City,,Philippines
+10108,26,68.35,1777,3/3/2003,Shipped,Classic Cars,80,Makati City,,Philippines
+10108,29,100,4050,3/3/2003,Shipped,Classic Cars,146,Makati City,,Philippines
+10108,43,67.77,2914,3/3/2003,Shipped,Motorcycles,62,Makati City,,Philippines
+10108,44,100,5565,3/3/2003,Shipped,Classic Cars,148,Makati City,,Philippines
+10108,35,58.87,2060,3/3/2003,Shipped,Motorcycles,69,Makati City,,Philippines
+10108,30,63.07,1892,3/3/2003,Shipped,Classic Cars,61,Makati City,,Philippines
+10108,40,100,5449,3/3/2003,Shipped,Classic Cars,140,Makati City,,Philippines
+10108,31,68.71,2130,3/3/2003,Shipped,Classic Cars,80,Makati City,,Philippines
+10108,27,43.45,1173,3/3/2003,Shipped,Motorcycles,40,Makati City,,Philippines
+10108,31,100,3670,3/3/2003,Shipped,Motorcycles,102,Makati City,,Philippines
+10108,34,82.99,2822,3/3/2003,Shipped,Motorcycles,81,Makati City,,Philippines
+10109,26,100,4379,3/10/2003,Shipped,Classic Cars,141,Philadelphia,PA,USA
+10109,38,100,4433,3/10/2003,Shipped,Classic Cars,142,Philadelphia,PA,USA
+10109,26,100,3157,3/10/2003,Shipped,Classic Cars,132,Philadelphia,PA,USA
+10109,46,100,8257,3/10/2003,Shipped,Classic Cars,169,Philadelphia,PA,USA
+10109,47,100,6242,3/10/2003,Shipped,Classic Cars,141,Philadelphia,PA,USA
+10109,29,32.1,931,3/10/2003,Shipped,Classic Cars,37,Philadelphia,PA,USA
+10110,37,100,5433,3/18/2003,Shipped,Classic Cars,124,Manchester,,UK
+10110,42,100,6069,3/18/2003,Shipped,Vintage Cars,170,Manchester,,UK
+10110,32,50.25,1608,3/18/2003,Shipped,Vintage Cars,60,Manchester,,UK
+10110,33,100,3860,3/18/2003,Shipped,Vintage Cars,127,Manchester,,UK
+10110,31,100,5074,3/18/2003,Shipped,Vintage Cars,168,Manchester,,UK
+10110,28,89.27,2500,3/18/2003,Shipped,Vintage Cars,92,Manchester,,UK
+10110,42,61.29,2574,3/18/2003,Shipped,Classic Cars,71,Manchester,,UK
+10110,36,85.25,3069,3/18/2003,Shipped,Classic Cars,73,Manchester,,UK
+10110,29,59.37,1722,3/18/2003,Shipped,Classic Cars,50,Manchester,,UK
+10110,20,35.51,710,3/18/2003,Shipped,Vintage Cars,33,Manchester,,UK
+10110,39,44.35,1730,3/18/2003,Shipped,Vintage Cars,44,Manchester,,UK
+10110,43,78.15,3360,3/18/2003,Shipped,Classic Cars,90,Manchester,,UK
+10110,46,100,5942,3/18/2003,Shipped,Classic Cars,117,Manchester,,UK
+10110,27,73.62,1988,3/18/2003,Shipped,Classic Cars,85,Manchester,,UK
+10110,37,100,3724,3/18/2003,Shipped,Classic Cars,107,Manchester,,UK
+10110,48,34.47,1655,3/18/2003,Shipped,Vintage Cars,41,Manchester,,UK
+10112,29,100,7209,3/24/2003,Shipped,Classic Cars,214,Lule,,Sweden
+10112,23,100,2540,3/24/2003,Shipped,Vintage Cars,101,Lule,,Sweden
+10111,33,99.66,3289,3/25/2003,Shipped,Vintage Cars,102,San Francisco,CA,USA
+10111,48,49.06,2355,3/25/2003,Shipped,Vintage Cars,53,San Francisco,CA,USA
+10111,28,64.33,1801,3/25/2003,Shipped,Vintage Cars,62,San Francisco,CA,USA
+10111,43,100,4818,3/25/2003,Shipped,Vintage Cars,104,San Francisco,CA,USA
+10111,39,100,4179,3/25/2003,Shipped,Vintage Cars,99,San Francisco,CA,USA
+10111,26,86.68,2254,3/25/2003,Shipped,Vintage Cars,97,San Francisco,CA,USA
+10113,21,100,3415,3/26/2003,Shipped,Trucks and Buses,136,San Rafael,CA,USA
+10113,49,100,4917,3/26/2003,Shipped,Trucks and Buses,116,San Rafael,CA,USA
+10113,50,49.81,2491,3/26/2003,Shipped,Vintage Cars,50,San Rafael,CA,USA
+10113,23,68.52,1576,3/26/2003,Shipped,Trucks and Buses,64,San Rafael,CA,USA
+10114,31,100,4305,4/1/2003,Shipped,Classic Cars,147,Paris,,France
+10114,39,100,4164,4/1/2003,Shipped,Trucks and Buses,122,Paris,,France
+10114,45,68.67,3090,4/1/2003,Shipped,Trucks and Buses,60,Paris,,France
+10114,48,100,8209,4/1/2003,Shipped,Classic Cars,169,Paris,,France
+10114,41,100,4815,4/1/2003,Shipped,Trucks and Buses,121,Paris,,France
+10114,21,100,2925,4/1/2003,Shipped,Trucks and Buses,127,Paris,,France
+10114,24,30.06,721,4/1/2003,Shipped,Classic Cars,35,Paris,,France
+10114,32,100,3668,4/1/2003,Shipped,Trucks and Buses,96,Paris,,France
+10114,28,55.73,1560,4/1/2003,Shipped,Trucks and Buses,54,Paris,,France
+10114,42,100,4758,4/1/2003,Shipped,Classic Cars,101,Paris,,France
+10115,46,100,5724,4/4/2003,Shipped,Trucks and Buses,118,NYC,NY,USA
+10115,46,100,7381,4/4/2003,Shipped,Classic Cars,163,NYC,NY,USA
+10115,47,69.36,3260,4/4/2003,Shipped,Classic Cars,57,NYC,NY,USA
+10115,44,100,5569,4/4/2003,Shipped,Classic Cars,118,NYC,NY,USA
+10115,27,100,2844,4/4/2003,Shipped,Trucks and Buses,115,NYC,NY,USA
+10116,27,63.38,1711,4/11/2003,Shipped,Trains,62,Charleroi,,Belgium
+10117,33,100,6034,4/16/2003,Shipped,Classic Cars,207,Singapore,,Singapore
+10117,43,100,5912,4/16/2003,Shipped,Classic Cars,151,Singapore,,Singapore
+10117,39,100,5938,4/16/2003,Shipped,Classic Cars,173,Singapore,,Singapore
+10117,26,100,3551,4/16/2003,Shipped,Vintage Cars,136,Singapore,,Singapore
+10117,21,95.8,2012,4/16/2003,Shipped,Trains,100,Singapore,,Singapore
+10117,22,100,2781,4/16/2003,Shipped,Classic Cars,143,Singapore,,Singapore
+10117,23,97.42,2241,4/16/2003,Shipped,Vintage Cars,87,Singapore,,Singapore
+10117,41,100,5190,4/16/2003,Shipped,Ships,122,Singapore,,Singapore
+10117,21,49.21,1033,4/16/2003,Shipped,Trains,58,Singapore,,Singapore
+10117,38,79.68,3028,4/16/2003,Shipped,Ships,86,Singapore,,Singapore
+10117,45,83.42,3754,4/16/2003,Shipped,Ships,99,Singapore,,Singapore
+10117,50,43.68,2184,4/16/2003,Shipped,Ships,54,Singapore,,Singapore
+10118,36,100,4219,4/21/2003,Shipped,Ships,100,Barcelona,,Spain
+10119,46,100,5005,4/28/2003,Shipped,Classic Cars,136,Salzburg,,Austria
+10119,43,100,6916,4/28/2003,Shipped,Planes,157,Salzburg,,Austria
+10119,21,89.46,1879,4/28/2003,Shipped,Ships,86,Salzburg,,Austria
+10119,27,99.52,2687,4/28/2003,Shipped,Vintage Cars,105,Salzburg,,Austria
+10119,41,59.6,2444,4/28/2003,Shipped,Planes,68,Salzburg,,Austria
+10119,35,87.62,3067,4/28/2003,Shipped,Vintage Cars,88,Salzburg,,Austria
+10119,20,72.98,1460,4/28/2003,Shipped,Vintage Cars,65,Salzburg,,Austria
+10119,35,90.57,3170,4/28/2003,Shipped,Vintage Cars,83,Salzburg,,Austria
+10119,28,70.29,1968,4/28/2003,Shipped,Planes,68,Salzburg,,Austria
+10119,25,76.67,1917,4/28/2003,Shipped,Ships,66,Salzburg,,Austria
+10119,29,94.14,2730,4/28/2003,Shipped,Ships,90,Salzburg,,Austria
+10119,38,65.77,2499,4/28/2003,Shipped,Ships,72,Salzburg,,Austria
+10119,26,59.22,1540,4/28/2003,Shipped,Planes,74,Salzburg,,Austria
+10119,28,48.17,1349,4/28/2003,Shipped,Planes,49,Salzburg,,Austria
+10120,29,96.34,2794,4/29/2003,Shipped,Motorcycles,118,Melbourne,Victoria,Australia
+10120,46,100,9265,4/29/2003,Shipped,Motorcycles,193,Melbourne,Victoria,Australia
+10120,29,71.81,2082,4/29/2003,Shipped,Planes,84,Melbourne,Victoria,Australia
+10120,46,58.15,2675,4/29/2003,Shipped,Motorcycles,60,Melbourne,Victoria,Australia
+10120,35,98.05,3432,4/29/2003,Shipped,Motorcycles,112,Melbourne,Victoria,Australia
+10120,39,100,4652,4/29/2003,Shipped,Planes,109,Melbourne,Victoria,Australia
+10120,34,83.79,2849,4/29/2003,Shipped,Motorcycles,76,Melbourne,Victoria,Australia
+10120,29,85.49,2479,4/29/2003,Shipped,Planes,72,Melbourne,Victoria,Australia
+10120,22,100,2461,4/29/2003,Shipped,Motorcycles,99,Melbourne,Victoria,Australia
+10120,29,72.23,2095,4/29/2003,Shipped,Vintage Cars,68,Melbourne,Victoria,Australia
+10120,49,50.62,2480,4/29/2003,Shipped,Vintage Cars,43,Melbourne,Victoria,Australia
+10120,47,82.21,3864,4/29/2003,Shipped,Planes,91,Melbourne,Victoria,Australia
+10120,24,100,2585,4/29/2003,Shipped,Planes,99,Melbourne,Victoria,Australia
+10120,24,100,3417,4/29/2003,Shipped,Planes,118,Melbourne,Victoria,Australia
+10120,43,76,3268,4/29/2003,Shipped,Planes,80,Melbourne,Victoria,Australia
+10121,34,81.35,2766,5/7/2003,Shipped,Motorcycles,95,Reims,,France
+10121,50,100,8284,5/7/2003,Shipped,Motorcycles,150,Reims,,France
+10121,32,76.88,2460,5/7/2003,Shipped,Motorcycles,69,Reims,,France
+10121,25,86.74,2169,5/7/2003,Shipped,Motorcycles,102,Reims,,France
+10121,44,74.85,3293,5/7/2003,Shipped,Motorcycles,81,Reims,,France
+10122,42,100,7600,5/8/2003,Shipped,Classic Cars,194,Marseille,,France
+10122,37,99.82,3693,5/8/2003,Shipped,Classic Cars,117,Marseille,,France
+10122,32,63.84,2043,5/8/2003,Shipped,Classic Cars,79,Marseille,,France
+10122,20,100,2142,5/8/2003,Shipped,Classic Cars,115,Marseille,,France
+10122,34,100,5005,5/8/2003,Shipped,Classic Cars,141,Marseille,,France
+10122,43,72.38,3112,5/8/2003,Shipped,Classic Cars,77,Marseille,,France
+10122,31,100,4101,5/8/2003,Shipped,Classic Cars,142,Marseille,,France
+10122,25,100,3599,5/8/2003,Shipped,Classic Cars,169,Marseille,,France
+10122,21,73.17,1537,5/8/2003,Shipped,Classic Cars,80,Marseille,,France
+10122,21,100,2469,5/8/2003,Shipped,Classic Cars,146,Marseille,,France
+10122,35,49.74,1741,5/8/2003,Shipped,Motorcycles,62,Marseille,,France
+10122,28,100,3583,5/8/2003,Shipped,Classic Cars,148,Marseille,,France
+10122,39,30.96,1207,5/8/2003,Shipped,Classic Cars,37,Marseille,,France
+10122,34,50.21,1707,5/8/2003,Shipped,Classic Cars,61,Marseille,,France
+10122,43,100,5495,5/8/2003,Shipped,Classic Cars,140,Marseille,,France
+10122,29,71.14,2063,5/8/2003,Shipped,Classic Cars,80,Marseille,,France
+10122,31,44.66,1384,5/8/2003,Shipped,Motorcycles,40,Marseille,,France
+10123,26,100,3074,5/20/2003,Shipped,Classic Cars,124,Nantes,,France
+10123,46,100,5161,5/20/2003,Shipped,Classic Cars,132,Nantes,,France
+10123,34,100,5332,5/20/2003,Shipped,Classic Cars,141,Nantes,,France
+10123,50,59.87,2994,5/20/2003,Shipped,Classic Cars,50,Nantes,,France
+10125,32,100,3255,5/21/2003,Shipped,Vintage Cars,102,Melbourne,Victoria,Australia
+10124,21,100,2856,5/21/2003,Shipped,Vintage Cars,170,Las Vegas,NV,USA
+10124,42,53.88,2263,5/21/2003,Shipped,Vintage Cars,60,Las Vegas,NV,USA
+10124,42,100,4432,5/21/2003,Shipped,Vintage Cars,127,Las Vegas,NV,USA
+10125,34,100,6483,5/21/2003,Shipped,Vintage Cars,168,Melbourne,Victoria,Australia
+10124,36,85.59,3081,5/21/2003,Shipped,Vintage Cars,92,Las Vegas,NV,USA
+10124,23,57.73,1328,5/21/2003,Shipped,Classic Cars,71,Las Vegas,NV,USA
+10124,22,77.9,1714,5/21/2003,Shipped,Classic Cars,73,Las Vegas,NV,USA
+10124,45,37.84,1703,5/21/2003,Shipped,Vintage Cars,33,Las Vegas,NV,USA
+10124,22,45.25,996,5/21/2003,Shipped,Vintage Cars,44,Las Vegas,NV,USA
+10124,32,72.7,2326,5/21/2003,Shipped,Classic Cars,90,Las Vegas,NV,USA
+10124,25,93.95,2349,5/21/2003,Shipped,Classic Cars,117,Las Vegas,NV,USA
+10124,49,83.04,4069,5/21/2003,Shipped,Classic Cars,85,Las Vegas,NV,USA
+10124,43,100,5203,5/21/2003,Shipped,Classic Cars,107,Las Vegas,NV,USA
+10124,46,33.23,1529,5/21/2003,Shipped,Vintage Cars,41,Las Vegas,NV,USA
+10126,38,100,7329,5/28/2003,Shipped,Classic Cars,214,Madrid,,Spain
+10126,22,100,3348,5/28/2003,Shipped,Classic Cars,147,Madrid,,Spain
+10126,21,100,2440,5/28/2003,Shipped,Trucks and Buses,136,Madrid,,Spain
+10126,38,100,3857,5/28/2003,Shipped,Trucks and Buses,116,Madrid,,Spain
+10126,42,54.99,2310,5/28/2003,Shipped,Vintage Cars,53,Madrid,,Spain
+10126,43,65.02,2796,5/28/2003,Shipped,Trucks and Buses,60,Madrid,,Spain
+10126,31,90.17,2795,5/28/2003,Shipped,Vintage Cars,101,Madrid,,Spain
+10126,46,73.7,3390,5/28/2003,Shipped,Vintage Cars,62,Madrid,,Spain
+10126,30,97.39,2922,5/28/2003,Shipped,Vintage Cars,104,Madrid,,Spain
+10126,38,82.34,3129,5/28/2003,Shipped,Vintage Cars,99,Madrid,,Spain
+10126,50,100,7083,5/28/2003,Shipped,Trucks and Buses,121,Madrid,,Spain
+10126,43,53.83,2315,5/28/2003,Shipped,Vintage Cars,50,Madrid,,Spain
+10126,27,100,3416,5/28/2003,Shipped,Trucks and Buses,127,Madrid,,Spain
+10126,34,100,3576,5/28/2003,Shipped,Vintage Cars,97,Madrid,,Spain
+10126,43,96.31,4141,5/28/2003,Shipped,Trucks and Buses,96,Madrid,,Spain
+10126,26,62.7,1630,5/28/2003,Shipped,Trucks and Buses,64,Madrid,,Spain
+10126,45,100,4597,5/28/2003,Shipped,Classic Cars,101,Madrid,,Spain
+10127,46,100,11279,6/3/2003,Shipped,Classic Cars,207,NYC,NY,USA
+10127,46,100,7366,6/3/2003,Shipped,Classic Cars,151,NYC,NY,USA
+10127,42,100,8139,6/3/2003,Shipped,Classic Cars,173,NYC,NY,USA
+10127,24,100,2560,6/3/2003,Shipped,Trucks and Buses,118,NYC,NY,USA
+10127,45,100,7147,6/3/2003,Shipped,Classic Cars,163,NYC,NY,USA
+10127,45,100,6296,6/3/2003,Shipped,Trucks and Buses,122,NYC,NY,USA
+10127,22,100,3837,6/3/2003,Shipped,Classic Cars,169,NYC,NY,USA
+10127,25,100,3447,6/3/2003,Shipped,Classic Cars,143,NYC,NY,USA
+10127,20,60.69,1214,6/3/2003,Shipped,Classic Cars,57,NYC,NY,USA
+10127,39,38.19,1489,6/3/2003,Shipped,Classic Cars,35,NYC,NY,USA
+10127,20,96.99,1940,6/3/2003,Shipped,Classic Cars,118,NYC,NY,USA
+10127,45,51.95,2338,6/3/2003,Shipped,Trucks and Buses,54,NYC,NY,USA
+10127,29,70.84,2054,6/3/2003,Shipped,Trains,62,NYC,NY,USA
+10127,46,100,6176,6/3/2003,Shipped,Trucks and Buses,115,NYC,NY,USA
+10127,46,69.12,3180,6/3/2003,Shipped,Trains,58,NYC,NY,USA
+10128,41,100,5544,6/6/2003,Shipped,Vintage Cars,136,Madrid,,Spain
+10128,41,100,4837,6/6/2003,Shipped,Trains,100,Madrid,,Spain
+10128,43,92.16,3963,6/6/2003,Shipped,Vintage Cars,87,Madrid,,Spain
+10128,32,97,3104,6/6/2003,Shipped,Ships,86,Madrid,,Spain
+10129,33,100,4398,6/12/2003,Shipped,Classic Cars,136,London,,UK
+10129,45,100,6028,6/12/2003,Shipped,Ships,122,London,,UK
+10129,41,94.71,3883,6/12/2003,Shipped,Vintage Cars,88,London,,UK
+10129,50,77.99,3900,6/12/2003,Shipped,Vintage Cars,83,London,,UK
+10129,31,60,1860,6/12/2003,Shipped,Ships,66,London,,UK
+10129,45,85.29,3838,6/12/2003,Shipped,Ships,72,London,,UK
+10129,42,91.15,3828,6/12/2003,Shipped,Ships,100,London,,UK
+10129,30,85.41,2562,6/12/2003,Shipped,Ships,99,London,,UK
+10129,32,64.97,2079,6/12/2003,Shipped,Ships,54,London,,UK
+10131,21,100,2782,6/16/2003,Shipped,Planes,157,Glendale,CT,USA
+10130,40,96.34,3854,6/16/2003,Shipped,Ships,86,Brickhaven,MA,USA
+10130,33,100,3424,6/16/2003,Shipped,Vintage Cars,105,Brickhaven,MA,USA
+10131,35,67.14,2350,6/16/2003,Shipped,Planes,68,Glendale,CT,USA
+10131,29,59.18,1716,6/16/2003,Shipped,Vintage Cars,65,Glendale,CT,USA
+10131,50,81.89,4095,6/16/2003,Shipped,Planes,68,Glendale,CT,USA
+10131,22,85.99,1892,6/16/2003,Shipped,Ships,90,Glendale,CT,USA
+10131,40,100,4428,6/16/2003,Shipped,Planes,99,Glendale,CT,USA
+10131,26,85.13,2213,6/16/2003,Shipped,Planes,74,Glendale,CT,USA
+10131,21,41.71,876,6/16/2003,Shipped,Planes,49,Glendale,CT,USA
+10133,49,69.27,3394,6/27/2003,Shipped,Planes,84,Madrid,,Spain
+10133,41,94.1,3858,6/27/2003,Shipped,Planes,109,Madrid,,Spain
+10133,46,77.52,3566,6/27/2003,Shipped,Planes,72,Madrid,,Spain
+10133,23,100,2642,6/27/2003,Shipped,Motorcycles,99,Madrid,,Spain
+10133,49,57.1,2798,6/27/2003,Shipped,Vintage Cars,68,Madrid,,Spain
+10133,27,50.19,1355,6/27/2003,Shipped,Vintage Cars,43,Madrid,,Spain
+10133,24,77.64,1863,6/27/2003,Shipped,Planes,91,Madrid,,Spain
+10133,27,99.67,2691,6/27/2003,Shipped,Planes,118,Madrid,,Spain
+10134,41,94.74,3884,7/1/2003,Shipped,Motorcycles,95,Paris,,France
+10134,27,100,3308,7/1/2003,Shipped,Motorcycles,118,Paris,,France
+10134,31,100,7024,7/1/2003,Shipped,Motorcycles,193,Paris,,France
+10134,20,100,2711,7/1/2003,Shipped,Motorcycles,150,Paris,,France
+10134,30,61.78,1853,7/1/2003,Shipped,Motorcycles,60,Paris,,France
+10134,35,93.54,3274,7/1/2003,Shipped,Motorcycles,112,Paris,,France
+10134,43,83.03,3570,7/1/2003,Shipped,Motorcycles,76,Paris,,France
+10135,42,100,8009,7/2/2003,Shipped,Classic Cars,194,San Rafael,CA,USA
+10135,48,100,6032,7/2/2003,Shipped,Classic Cars,117,San Rafael,CA,USA
+10135,24,75.01,1800,7/2/2003,Shipped,Classic Cars,79,San Rafael,CA,USA
+10135,29,97.89,2839,7/2/2003,Shipped,Classic Cars,115,San Rafael,CA,USA
+10135,48,79.31,3807,7/2/2003,Shipped,Classic Cars,77,San Rafael,CA,USA
+10135,45,78,3510,7/2/2003,Shipped,Classic Cars,80,San Rafael,CA,USA
+10135,42,100,5433,7/2/2003,Shipped,Classic Cars,146,San Rafael,CA,USA
+10135,45,50.36,2266,7/2/2003,Shipped,Motorcycles,62,San Rafael,CA,USA
+10135,31,100,4705,7/2/2003,Shipped,Classic Cars,148,San Rafael,CA,USA
+10135,29,61.64,1788,7/2/2003,Shipped,Motorcycles,69,San Rafael,CA,USA
+10135,20,35.87,717,7/2/2003,Shipped,Classic Cars,37,San Rafael,CA,USA
+10135,27,66.13,1786,7/2/2003,Shipped,Classic Cars,61,San Rafael,CA,USA
+10135,47,100,6336,7/2/2003,Shipped,Classic Cars,140,San Rafael,CA,USA
+10135,23,87.31,2008,7/2/2003,Shipped,Classic Cars,80,San Rafael,CA,USA
+10135,33,40.23,1328,7/2/2003,Shipped,Motorcycles,40,San Rafael,CA,USA
+10135,30,89.8,2694,7/2/2003,Shipped,Motorcycles,102,San Rafael,CA,USA
+10135,44,96,4224,7/2/2003,Shipped,Motorcycles,81,San Rafael,CA,USA
+10136,25,100,3645,7/4/2003,Shipped,Classic Cars,141,Toulouse,,France
+10136,36,100,5275,7/4/2003,Shipped,Classic Cars,142,Toulouse,,France
+10136,41,100,8332,7/4/2003,Shipped,Classic Cars,169,Toulouse,,France
+10137,44,99.55,4380,7/10/2003,Shipped,Classic Cars,124,Reims,,France
+10137,37,100,4347,7/10/2003,Shipped,Classic Cars,132,Reims,,France
+10137,31,100,5124,7/10/2003,Shipped,Classic Cars,141,Reims,,France
+10137,26,49.81,1295,7/10/2003,Shipped,Classic Cars,50,Reims,,France
+10139,31,100,3185,7/16/2003,Shipped,Vintage Cars,102,Chatswood,NSW,Australia
+10139,49,43.13,2113,7/16/2003,Shipped,Vintage Cars,53,Chatswood,NSW,Australia
+10139,41,100,7956,7/16/2003,Shipped,Vintage Cars,168,Chatswood,NSW,Australia
+10139,46,100,5546,7/16/2003,Shipped,Vintage Cars,101,Chatswood,NSW,Australia
+10139,20,71.2,1424,7/16/2003,Shipped,Vintage Cars,62,Chatswood,NSW,Australia
+10139,20,90.06,1801,7/16/2003,Shipped,Vintage Cars,104,Chatswood,NSW,Australia
+10139,30,100,3095,7/16/2003,Shipped,Vintage Cars,99,Chatswood,NSW,Australia
+10139,29,100,3276,7/16/2003,Shipped,Vintage Cars,97,Chatswood,NSW,Australia
+10140,37,100,7374,7/24/2003,Shipped,Classic Cars,214,Burlingame,CA,USA
+10140,26,100,3188,7/24/2003,Shipped,Classic Cars,147,Burlingame,CA,USA
+10140,38,100,4830,7/24/2003,Shipped,Trucks and Buses,136,Burlingame,CA,USA
+10140,32,100,4181,7/24/2003,Shipped,Trucks and Buses,116,Burlingame,CA,USA
+10140,46,61.99,2852,7/24/2003,Shipped,Trucks and Buses,60,Burlingame,CA,USA
+10140,40,100,4601,7/24/2003,Shipped,Trucks and Buses,121,Burlingame,CA,USA
+10140,29,43.27,1255,7/24/2003,Shipped,Vintage Cars,50,Burlingame,CA,USA
+10140,47,100,5105,7/24/2003,Shipped,Trucks and Buses,127,Burlingame,CA,USA
+10140,26,100,2830,7/24/2003,Shipped,Trucks and Buses,96,Burlingame,CA,USA
+10140,28,60.76,1701,7/24/2003,Shipped,Trucks and Buses,64,Burlingame,CA,USA
+10140,36,100,4115,7/24/2003,Shipped,Classic Cars,101,Burlingame,CA,USA
+10141,21,100,2140,8/1/2003,Shipped,Trucks and Buses,118,Espoo,,Finland
+10141,39,100,5939,8/1/2003,Shipped,Classic Cars,163,Espoo,,Finland
+10141,47,100,6288,8/1/2003,Shipped,Trucks and Buses,122,Espoo,,Finland
+10141,34,100,4837,8/1/2003,Shipped,Classic Cars,169,Espoo,,Finland
+10141,20,54.33,1087,8/1/2003,Shipped,Classic Cars,57,Espoo,,Finland
+10141,21,42.43,891,8/1/2003,Shipped,Classic Cars,35,Espoo,,Finland
+10141,40,94.62,3785,8/1/2003,Shipped,Classic Cars,118,Espoo,,Finland
+10141,24,45.99,1104,8/1/2003,Shipped,Trucks and Buses,54,Espoo,,Finland
+10141,44,100,5500,8/1/2003,Shipped,Trucks and Buses,115,Espoo,,Finland
+10142,33,100,8023,8/8/2003,Shipped,Classic Cars,207,San Rafael,CA,USA
+10142,33,100,4986,8/8/2003,Shipped,Classic Cars,151,San Rafael,CA,USA
+10142,46,100,9471,8/8/2003,Shipped,Classic Cars,173,San Rafael,CA,USA
+10142,47,100,6034,8/8/2003,Shipped,Vintage Cars,136,San Rafael,CA,USA
+10142,22,97.81,2152,8/8/2003,Shipped,Trains,100,San Rafael,CA,USA
+10142,24,100,3792,8/8/2003,Shipped,Classic Cars,143,San Rafael,CA,USA
+10142,24,70.22,1685,8/8/2003,Shipped,Vintage Cars,87,San Rafael,CA,USA
+10142,33,100,3366,8/8/2003,Shipped,Ships,122,San Rafael,CA,USA
+10142,49,98.25,4814,8/8/2003,Shipped,Vintage Cars,88,San Rafael,CA,USA
+10142,42,74.57,3132,8/8/2003,Shipped,Trains,62,San Rafael,CA,USA
+10142,42,49.79,2091,8/8/2003,Shipped,Trains,58,San Rafael,CA,USA
+10142,41,64,2624,8/8/2003,Shipped,Ships,66,San Rafael,CA,USA
+10142,43,84.01,3612,8/8/2003,Shipped,Ships,86,San Rafael,CA,USA
+10142,21,100,2335,8/8/2003,Shipped,Ships,100,San Rafael,CA,USA
+10142,38,85.41,3246,8/8/2003,Shipped,Ships,99,San Rafael,CA,USA
+10142,39,44.23,1725,8/8/2003,Shipped,Ships,54,San Rafael,CA,USA
+10143,49,100,5598,8/10/2003,Shipped,Classic Cars,136,New Bedford,MA,USA
+10143,32,100,5248,8/10/2003,Shipped,Planes,157,New Bedford,MA,USA
+10143,46,74.84,3443,8/10/2003,Shipped,Ships,86,New Bedford,MA,USA
+10143,34,100,3456,8/10/2003,Shipped,Vintage Cars,105,New Bedford,MA,USA
+10143,27,60.97,1646,8/10/2003,Shipped,Planes,68,New Bedford,MA,USA
+10143,33,77.59,2560,8/10/2003,Shipped,Vintage Cars,65,New Bedford,MA,USA
+10143,23,80.51,1852,8/10/2003,Shipped,Vintage Cars,83,New Bedford,MA,USA
+10143,28,66.19,1853,8/10/2003,Shipped,Planes,68,New Bedford,MA,USA
+10143,34,36.66,1246,8/10/2003,Shipped,Vintage Cars,43,New Bedford,MA,USA
+10143,36,100,3946,8/10/2003,Shipped,Planes,91,New Bedford,MA,USA
+10143,26,100,2612,8/10/2003,Shipped,Ships,90,New Bedford,MA,USA
+10143,26,82.77,2152,8/10/2003,Shipped,Planes,99,New Bedford,MA,USA
+10143,31,85.29,2644,8/10/2003,Shipped,Ships,72,New Bedford,MA,USA
+10143,28,96,2688,8/10/2003,Shipped,Planes,80,New Bedford,MA,USA
+10143,34,85.87,2920,8/10/2003,Shipped,Planes,74,New Bedford,MA,USA
+10143,37,50.65,1874,8/10/2003,Shipped,Planes,49,New Bedford,MA,USA
+10144,20,81.86,1637,8/13/2003,Shipped,Vintage Cars,68,Charleroi,,Belgium
+10145,45,83.26,3747,8/25/2003,Shipped,Motorcycles,95,Pasadena,CA,USA
+10145,37,100,5193,8/25/2003,Shipped,Motorcycles,118,Pasadena,CA,USA
+10145,33,100,5176,8/25/2003,Shipped,Motorcycles,193,Pasadena,CA,USA
+10145,49,100,8340,8/25/2003,Shipped,Motorcycles,150,Pasadena,CA,USA
+10145,30,85.32,2560,8/25/2003,Shipped,Planes,84,Pasadena,CA,USA
+10145,30,49.67,1490,8/25/2003,Shipped,Motorcycles,60,Pasadena,CA,USA
+10145,43,95.8,4119,8/25/2003,Shipped,Motorcycles,112,Pasadena,CA,USA
+10145,40,87.54,3502,8/25/2003,Shipped,Planes,109,Pasadena,CA,USA
+10145,47,83.03,3902,8/25/2003,Shipped,Motorcycles,76,Pasadena,CA,USA
+10145,27,60.95,1646,8/25/2003,Shipped,Motorcycles,69,Pasadena,CA,USA
+10145,33,84.77,2797,8/25/2003,Shipped,Planes,72,Pasadena,CA,USA
+10145,33,93.9,3099,8/25/2003,Shipped,Motorcycles,99,Pasadena,CA,USA
+10145,31,35.8,1110,8/25/2003,Shipped,Motorcycles,40,Pasadena,CA,USA
+10145,27,100,3251,8/25/2003,Shipped,Motorcycles,102,Pasadena,CA,USA
+10145,38,81.36,3092,8/25/2003,Shipped,Motorcycles,81,Pasadena,CA,USA
+10145,20,100,2753,8/25/2003,Shipped,Planes,118,Pasadena,CA,USA
+10146,47,67.14,3156,9/3/2003,Shipped,Motorcycles,62,Glendale,CT,USA
+10146,29,100,4445,9/3/2003,Shipped,Classic Cars,148,Glendale,CT,USA
+10147,48,100,9246,9/5/2003,Shipped,Classic Cars,194,Brickhaven,MA,USA
+10147,31,100,3495,9/5/2003,Shipped,Classic Cars,117,Brickhaven,MA,USA
+10147,21,63.84,1341,9/5/2003,Shipped,Classic Cars,79,Brickhaven,MA,USA
+10147,33,97.89,3230,9/5/2003,Shipped,Classic Cars,115,Brickhaven,MA,USA
+10147,26,82.39,2142,9/5/2003,Shipped,Classic Cars,77,Brickhaven,MA,USA
+10147,36,86.04,3097,9/5/2003,Shipped,Classic Cars,80,Brickhaven,MA,USA
+10147,37,100,4405,9/5/2003,Shipped,Classic Cars,146,Brickhaven,MA,USA
+10147,25,42.67,1067,9/5/2003,Shipped,Classic Cars,37,Brickhaven,MA,USA
+10147,30,68.58,2057,9/5/2003,Shipped,Classic Cars,61,Brickhaven,MA,USA
+10147,23,100,2907,9/5/2003,Shipped,Classic Cars,140,Brickhaven,MA,USA
+10147,31,64.67,2005,9/5/2003,Shipped,Classic Cars,80,Brickhaven,MA,USA
+10148,23,100,2702,9/11/2003,Shipped,Classic Cars,141,North Sydney,NSW,Australia
+10148,47,100,5849,9/11/2003,Shipped,Classic Cars,124,North Sydney,NSW,Australia
+10148,25,100,4232,9/11/2003,Shipped,Classic Cars,142,North Sydney,NSW,Australia
+10148,27,100,3528,9/11/2003,Shipped,Classic Cars,132,North Sydney,NSW,Australia
+10148,32,100,5419,9/11/2003,Shipped,Classic Cars,169,North Sydney,NSW,Australia
+10148,28,100,3639,9/11/2003,Shipped,Classic Cars,141,North Sydney,NSW,Australia
+10148,34,100,3598,9/11/2003,Shipped,Vintage Cars,92,North Sydney,NSW,Australia
+10148,29,81.25,2356,9/11/2003,Shipped,Classic Cars,71,North Sydney,NSW,Australia
+10148,25,60.26,1507,9/11/2003,Shipped,Classic Cars,73,North Sydney,NSW,Australia
+10148,47,56.85,2672,9/11/2003,Shipped,Classic Cars,50,North Sydney,NSW,Australia
+10148,21,73.6,1546,9/11/2003,Shipped,Classic Cars,90,North Sydney,NSW,Australia
+10148,34,100,4392,9/11/2003,Shipped,Classic Cars,117,North Sydney,NSW,Australia
+10148,31,73.62,2282,9/11/2003,Shipped,Classic Cars,85,North Sydney,NSW,Australia
+10148,27,100,3470,9/11/2003,Shipped,Classic Cars,107,North Sydney,NSW,Australia
+10149,50,100,5908,9/12/2003,Shipped,Vintage Cars,102,Brisbane,CA,USA
+10149,30,58.22,1747,9/12/2003,Shipped,Vintage Cars,53,Brisbane,CA,USA
+10149,34,100,5375,9/12/2003,Shipped,Vintage Cars,170,Brisbane,CA,USA
+10149,24,62.36,1497,9/12/2003,Shipped,Vintage Cars,60,Brisbane,CA,USA
+10149,33,100,4950,9/12/2003,Shipped,Vintage Cars,127,Brisbane,CA,USA
+10149,23,100,4231,9/12/2003,Shipped,Vintage Cars,168,Brisbane,CA,USA
+10149,42,94.25,3959,9/12/2003,Shipped,Vintage Cars,99,Brisbane,CA,USA
+10149,36,33.19,1195,9/12/2003,Shipped,Vintage Cars,33,Brisbane,CA,USA
+10149,49,49.28,2415,9/12/2003,Shipped,Vintage Cars,44,Brisbane,CA,USA
+10149,26,38.98,1013,9/12/2003,Shipped,Vintage Cars,41,Brisbane,CA,USA
+10149,20,90.57,1811,9/12/2003,Shipped,Vintage Cars,97,Brisbane,CA,USA
+10150,45,100,10994,9/19/2003,Shipped,Classic Cars,214,Singapore,,Singapore
+10150,20,100,3191,9/19/2003,Shipped,Classic Cars,147,Singapore,,Singapore
+10150,30,100,4100,9/19/2003,Shipped,Trucks and Buses,136,Singapore,,Singapore
+10150,34,100,4641,9/19/2003,Shipped,Trucks and Buses,116,Singapore,,Singapore
+10150,47,91.18,4285,9/19/2003,Shipped,Vintage Cars,101,Singapore,,Singapore
+10150,30,49.97,1499,9/19/2003,Shipped,Vintage Cars,62,Singapore,,Singapore
+10150,26,100,2804,9/19/2003,Shipped,Vintage Cars,104,Singapore,,Singapore
+10150,49,100,6467,9/19/2003,Shipped,Trucks and Buses,121,Singapore,,Singapore
+10150,30,42.76,1283,9/19/2003,Shipped,Vintage Cars,50,Singapore,,Singapore
+10150,49,58.18,2851,9/19/2003,Shipped,Trucks and Buses,64,Singapore,,Singapore
+10150,20,100,2104,9/19/2003,Shipped,Classic Cars,101,Singapore,,Singapore
+10151,24,100,3328,9/21/2003,Shipped,Trucks and Buses,118,Oulu,,Finland
+10151,43,100,7111,9/21/2003,Shipped,Classic Cars,163,Oulu,,Finland
+10151,49,100,5413,9/21/2003,Shipped,Trucks and Buses,122,Oulu,,Finland
+10151,39,69.28,2702,9/21/2003,Shipped,Trucks and Buses,60,Oulu,,Finland
+10151,21,100,3734,9/21/2003,Shipped,Classic Cars,169,Oulu,,Finland
+10151,42,100,5099,9/21/2003,Shipped,Trucks and Buses,127,Oulu,,Finland
+10151,30,40.31,1209,9/21/2003,Shipped,Classic Cars,35,Oulu,,Finland
+10151,27,100,3069,9/21/2003,Shipped,Trucks and Buses,96,Oulu,,Finland
+10151,41,63.85,2618,9/21/2003,Shipped,Trucks and Buses,54,Oulu,,Finland
+10151,26,100,3220,9/21/2003,Shipped,Trucks and Buses,115,Oulu,,Finland
+10152,35,100,4524,9/25/2003,Shipped,Classic Cars,143,South Brisbane,Queensland,Australia
+10152,25,65.31,1633,9/25/2003,Shipped,Classic Cars,57,South Brisbane,Queensland,Australia
+10152,23,100,2802,9/25/2003,Shipped,Classic Cars,118,South Brisbane,Queensland,Australia
+10152,33,50.95,1681,9/25/2003,Shipped,Trains,62,South Brisbane,Queensland,Australia
+10153,20,100,4904,9/28/2003,Shipped,Classic Cars,207,Madrid,,Spain
+10153,42,100,5394,9/28/2003,Shipped,Classic Cars,151,Madrid,,Spain
+10153,49,100,7037,9/28/2003,Shipped,Classic Cars,173,Madrid,,Spain
+10153,31,100,3642,9/28/2003,Shipped,Vintage Cars,136,Madrid,,Spain
+10153,29,88.74,2573,9/28/2003,Shipped,Trains,100,Madrid,,Spain
+10153,22,83.38,1834,9/28/2003,Shipped,Vintage Cars,87,Madrid,,Spain
+10153,40,100,5456,9/28/2003,Shipped,Ships,122,Madrid,,Spain
+10153,31,57.41,1780,9/28/2003,Shipped,Trains,58,Madrid,,Spain
+10153,43,64.67,2781,9/28/2003,Shipped,Ships,66,Madrid,,Spain
+10153,31,87.48,2712,9/28/2003,Shipped,Ships,86,Madrid,,Spain
+10153,50,88.15,4408,9/28/2003,Shipped,Ships,100,Madrid,,Spain
+10153,20,100,2205,9/28/2003,Shipped,Ships,99,Madrid,,Spain
+10153,50,60.06,3003,9/28/2003,Shipped,Ships,54,Madrid,,Spain
+10154,31,91.17,2826,10/2/2003,Shipped,Vintage Cars,88,Glendale,CA,USA
+10154,36,64.33,2316,10/2/2003,Shipped,Ships,72,Glendale,CA,USA
+10300,33,100,5522,10/4/2003,Shipped,Classic Cars,194,Frankfurt,,Germany
+10300,29,100,3985,10/4/2003,Shipped,Classic Cars,117,Frankfurt,,Germany
+10300,22,76.61,1685,10/4/2003,Shipped,Classic Cars,79,Frankfurt,,Germany
+10300,23,100,2808,10/4/2003,Shipped,Classic Cars,115,Frankfurt,,Germany
+10300,41,92.4,3788,10/4/2003,Shipped,Classic Cars,77,Frankfurt,,Germany
+10300,49,78.8,3861,10/4/2003,Shipped,Classic Cars,80,Frankfurt,,Germany
+10300,23,100,3786,10/4/2003,Shipped,Classic Cars,146,Frankfurt,,Germany
+10300,31,58.78,1822,10/4/2003,Shipped,Classic Cars,61,Frankfurt,,Germany
+10301,37,100,5918,10/5/2003,Shipped,Classic Cars,141,Oslo,,Norway
+10301,32,100,3425,10/5/2003,Shipped,Classic Cars,124,Oslo,,Norway
+10301,47,100,7488,10/5/2003,Shipped,Classic Cars,142,Oslo,,Norway
+10301,22,100,3223,10/5/2003,Shipped,Classic Cars,132,Oslo,,Norway
+10301,23,100,4012,10/5/2003,Shipped,Classic Cars,169,Oslo,,Norway
+10301,39,100,6447,10/5/2003,Shipped,Classic Cars,141,Oslo,,Norway
+10301,27,72.02,1945,10/5/2003,Shipped,Classic Cars,73,Oslo,,Norway
+10301,22,51.32,1129,10/5/2003,Shipped,Classic Cars,50,Oslo,,Norway
+10301,48,34.36,1649,10/5/2003,Shipped,Classic Cars,37,Oslo,,Norway
+10301,22,96.37,2120,10/5/2003,Shipped,Classic Cars,107,Oslo,,Norway
+10301,50,100,7724,10/5/2003,Shipped,Classic Cars,140,Oslo,,Norway
+10155,32,100,4526,10/6/2003,Shipped,Classic Cars,136,Helsinki,,Finland
+10155,38,100,6531,10/6/2003,Shipped,Planes,157,Helsinki,,Finland
+10302,43,100,7310,10/6/2003,Shipped,Vintage Cars,170,Liverpool,,UK
+10155,44,79.14,3482,10/6/2003,Shipped,Ships,86,Helsinki,,Finland
+10155,29,100,3623,10/6/2003,Shipped,Vintage Cars,105,Helsinki,,Finland
+10302,38,89.27,3392,10/6/2003,Shipped,Vintage Cars,92,Liverpool,,UK
+10302,23,72.7,1672,10/6/2003,Shipped,Classic Cars,71,Liverpool,,UK
+10302,49,100,5299,10/6/2003,Shipped,Classic Cars,90,Liverpool,,UK
+10155,23,72.62,1670,10/6/2003,Shipped,Planes,68,Helsinki,,Finland
+10302,45,100,5549,10/6/2003,Shipped,Classic Cars,117,Liverpool,,UK
+10302,48,74.48,3575,10/6/2003,Shipped,Classic Cars,85,Liverpool,,UK
+10155,34,55.89,1900,10/6/2003,Shipped,Vintage Cars,65,Helsinki,,Finland
+10155,37,67.93,2513,10/6/2003,Shipped,Vintage Cars,83,Helsinki,,Finland
+10155,44,77.11,3393,10/6/2003,Shipped,Planes,68,Helsinki,,Finland
+10155,32,91.43,2926,10/6/2003,Shipped,Ships,90,Helsinki,,Finland
+10155,20,100,2353,10/6/2003,Shipped,Planes,99,Helsinki,,Finland
+10155,43,86.4,3715,10/6/2003,Shipped,Planes,80,Helsinki,,Finland
+10155,44,85.87,3778,10/6/2003,Shipped,Planes,74,Helsinki,,Finland
+10155,34,49.16,1671,10/6/2003,Shipped,Planes,49,Helsinki,,Finland
+10156,20,41.02,820,10/8/2003,Shipped,Vintage Cars,43,Madrid,,Spain
+10156,48,100,4954,10/8/2003,Shipped,Planes,91,Madrid,,Spain
+10159,49,100,5205,10/10/2003,Shipped,Motorcycles,95,San Francisco,CA,USA
+10159,37,100,5017,10/10/2003,Shipped,Motorcycles,118,San Francisco,CA,USA
+10159,22,100,4133,10/10/2003,Shipped,Motorcycles,193,San Francisco,CA,USA
+10159,41,100,8296,10/10/2003,Shipped,Classic Cars,194,San Francisco,CA,USA
+10159,38,100,6239,10/10/2003,Shipped,Motorcycles,150,San Francisco,CA,USA
+10159,24,73.42,1762,10/10/2003,Shipped,Classic Cars,79,San Francisco,CA,USA
+10159,42,51.48,2162,10/10/2003,Shipped,Motorcycles,60,San Francisco,CA,USA
+10159,21,81.21,1705,10/10/2003,Shipped,Classic Cars,80,San Francisco,CA,USA
+10159,25,100,3638,10/10/2003,Shipped,Classic Cars,146,San Francisco,CA,USA
+10159,21,64.66,1358,10/10/2003,Shipped,Motorcycles,62,San Francisco,CA,USA
+10159,32,100,4619,10/10/2003,Shipped,Classic Cars,148,San Francisco,CA,USA
+10159,44,100,5356,10/10/2003,Shipped,Motorcycles,112,San Francisco,CA,USA
+10158,22,67.03,1475,10/10/2003,Shipped,Motorcycles,76,Stavern,,Norway
+10159,27,80.34,2169,10/10/2003,Shipped,Motorcycles,69,San Francisco,CA,USA
+10159,50,69.8,3490,10/10/2003,Shipped,Classic Cars,61,San Francisco,CA,USA
+10159,23,67.1,1543,10/10/2003,Shipped,Classic Cars,80,San Francisco,CA,USA
+10159,35,35.4,1239,10/10/2003,Shipped,Motorcycles,40,San Francisco,CA,USA
+10159,23,100,2347,10/10/2003,Shipped,Motorcycles,102,San Francisco,CA,USA
+10159,31,71.6,2220,10/10/2003,Shipped,Motorcycles,81,San Francisco,CA,USA
+10160,46,100,5294,10/11/2003,Shipped,Classic Cars,117,Los Angeles,CA,USA
+10160,50,100,5182,10/11/2003,Shipped,Classic Cars,115,Los Angeles,CA,USA
+10160,38,88.55,3365,10/11/2003,Shipped,Classic Cars,77,Los Angeles,CA,USA
+10160,20,100,3996,10/11/2003,Shipped,Classic Cars,169,Los Angeles,CA,USA
+10160,42,37,1554,10/11/2003,Shipped,Classic Cars,37,Los Angeles,CA,USA
+10160,35,100,4768,10/11/2003,Shipped,Classic Cars,140,Los Angeles,CA,USA
+10161,28,100,3765,10/17/2003,Shipped,Classic Cars,141,Aaarhus,,Denmark
+10161,43,100,6154,10/17/2003,Shipped,Classic Cars,124,Aaarhus,,Denmark
+10161,48,100,6145,10/17/2003,Shipped,Classic Cars,142,Aaarhus,,Denmark
+10161,23,100,3188,10/17/2003,Shipped,Classic Cars,132,Aaarhus,,Denmark
+10161,36,100,5544,10/17/2003,Shipped,Classic Cars,141,Aaarhus,,Denmark
+10161,25,80.54,2014,10/17/2003,Shipped,Classic Cars,71,Aaarhus,,Denmark
+10161,37,72.76,2692,10/17/2003,Shipped,Classic Cars,73,Aaarhus,,Denmark
+10161,23,53.33,1227,10/17/2003,Shipped,Classic Cars,50,Aaarhus,,Denmark
+10161,20,100,2145,10/17/2003,Shipped,Classic Cars,90,Aaarhus,,Denmark
+10161,25,100,2760,10/17/2003,Shipped,Classic Cars,117,Aaarhus,,Denmark
+10161,20,77.05,1541,10/17/2003,Shipped,Classic Cars,85,Aaarhus,,Denmark
+10161,30,100,3148,10/17/2003,Shipped,Classic Cars,107,Aaarhus,,Denmark
+10162,48,91.44,4389,10/18/2003,Shipped,Vintage Cars,102,San Francisco,CA,USA
+10162,45,51.21,2304,10/18/2003,Shipped,Vintage Cars,53,San Francisco,CA,USA
+10162,29,100,5177,10/18/2003,Shipped,Vintage Cars,170,San Francisco,CA,USA
+10162,27,69.62,1880,10/18/2003,Shipped,Vintage Cars,60,San Francisco,CA,USA
+10162,38,100,4300,10/18/2003,Shipped,Vintage Cars,127,San Francisco,CA,USA
+10162,48,100,7209,10/18/2003,Shipped,Vintage Cars,168,San Francisco,CA,USA
+10162,39,100,3912,10/18/2003,Shipped,Vintage Cars,92,San Francisco,CA,USA
+10162,37,27.22,1007,10/18/2003,Shipped,Vintage Cars,33,San Francisco,CA,USA
+10162,43,36.29,1560,10/18/2003,Shipped,Vintage Cars,44,San Francisco,CA,USA
+10162,37,38.98,1442,10/18/2003,Shipped,Vintage Cars,41,San Francisco,CA,USA
+10163,21,100,4860,10/20/2003,Shipped,Classic Cars,214,NYC,NY,USA
+10163,31,100,3329,10/20/2003,Shipped,Vintage Cars,101,NYC,NY,USA
+10163,48,69.96,3358,10/20/2003,Shipped,Vintage Cars,62,NYC,NY,USA
+10163,40,100,4901,10/20/2003,Shipped,Vintage Cars,104,NYC,NY,USA
+10163,43,100,4991,10/20/2003,Shipped,Vintage Cars,99,NYC,NY,USA
+10163,42,91.55,3845,10/20/2003,Shipped,Vintage Cars,97,NYC,NY,USA
+10164,21,100,3537,10/21/2003,Resolved,Classic Cars,147,Graz,,Austria
+10164,49,100,6563,10/21/2003,Resolved,Trucks and Buses,136,Graz,,Austria
+10164,36,99.17,3570,10/21/2003,Resolved,Trucks and Buses,116,Graz,,Austria
+10166,43,100,6931,10/21/2003,Shipped,Vintage Cars,136,New Bedford,MA,USA
+10166,26,73.73,1917,10/21/2003,Shipped,Vintage Cars,87,New Bedford,MA,USA
+10164,45,100,5013,10/21/2003,Resolved,Trucks and Buses,121,Graz,,Austria
+10164,25,53.83,1346,10/21/2003,Resolved,Vintage Cars,50,Graz,,Austria
+10164,24,100,2635,10/21/2003,Resolved,Trucks and Buses,96,Graz,,Austria
+10164,49,54.94,2692,10/21/2003,Resolved,Trucks and Buses,64,Graz,,Austria
+10166,29,100,3014,10/21/2003,Shipped,Ships,86,New Bedford,MA,USA
+10164,39,81.93,3195,10/21/2003,Resolved,Classic Cars,101,Graz,,Austria
+10165,44,100,8595,10/22/2003,Shipped,Classic Cars,207,Singapore,,Singapore
+10165,34,100,4880,10/22/2003,Shipped,Classic Cars,151,Singapore,,Singapore
+10165,27,100,5559,10/22/2003,Shipped,Classic Cars,173,Singapore,,Singapore
+10165,48,100,6826,10/22/2003,Shipped,Trucks and Buses,118,Singapore,,Singapore
+10165,29,100,5033,10/22/2003,Shipped,Classic Cars,163,Singapore,,Singapore
+10165,46,100,5984,10/22/2003,Shipped,Trucks and Buses,122,Singapore,,Singapore
+10165,31,71.1,2204,10/22/2003,Shipped,Trucks and Buses,60,Singapore,,Singapore
+10165,47,100,8755,10/22/2003,Shipped,Classic Cars,169,Singapore,,Singapore
+10165,50,100,5345,10/22/2003,Shipped,Trains,100,Singapore,,Singapore
+10165,28,100,3338,10/22/2003,Shipped,Classic Cars,143,Singapore,,Singapore
+10165,25,69.36,1734,10/22/2003,Shipped,Classic Cars,57,Singapore,,Singapore
+10165,32,100,4662,10/22/2003,Shipped,Trucks and Buses,127,Singapore,,Singapore
+10165,27,31.82,859,10/22/2003,Shipped,Classic Cars,35,Singapore,,Singapore
+10165,24,99.36,2385,10/22/2003,Shipped,Classic Cars,118,Singapore,,Singapore
+10165,48,45.99,2208,10/22/2003,Shipped,Trucks and Buses,54,Singapore,,Singapore
+10165,44,53.44,2351,10/22/2003,Shipped,Trains,62,Singapore,,Singapore
+10165,48,94.92,4556,10/22/2003,Shipped,Trucks and Buses,115,Singapore,,Singapore
+10165,38,66.78,2538,10/22/2003,Shipped,Trains,58,Singapore,,Singapore
+10167,44,100,5924,10/23/2003,Cancelled,Classic Cars,136,Boras,,Sweden
+10167,43,100,5764,10/23/2003,Cancelled,Planes,157,Boras,,Sweden
+10167,46,73.12,3364,10/23/2003,Cancelled,Ships,86,Boras,,Sweden
+10167,34,100,3600,10/23/2003,Cancelled,Vintage Cars,105,Boras,,Sweden
+10167,33,100,3812,10/23/2003,Cancelled,Ships,122,Boras,,Sweden
+10167,21,69.88,1467,10/23/2003,Cancelled,Planes,68,Boras,,Sweden
+10167,20,79.66,1593,10/23/2003,Cancelled,Vintage Cars,88,Boras,,Sweden
+10167,32,63.12,2020,10/23/2003,Cancelled,Vintage Cars,65,Boras,,Sweden
+10167,29,83.86,2432,10/23/2003,Cancelled,Vintage Cars,83,Boras,,Sweden
+10167,43,75.34,3240,10/23/2003,Cancelled,Ships,66,Boras,,Sweden
+10167,29,100,2940,10/23/2003,Cancelled,Ships,90,Boras,,Sweden
+10167,46,70.11,3225,10/23/2003,Cancelled,Ships,72,Boras,,Sweden
+10167,24,100,2813,10/23/2003,Cancelled,Ships,100,Boras,,Sweden
+10167,28,100,3003,10/23/2003,Cancelled,Ships,99,Boras,,Sweden
+10167,40,41.71,1668,10/23/2003,Cancelled,Planes,49,Boras,,Sweden
+10167,38,48.59,1846,10/23/2003,Cancelled,Ships,54,Boras,,Sweden
+10168,36,96.66,3480,10/28/2003,Shipped,Motorcycles,95,Burlingame,CA,USA
+10168,27,100,3661,10/28/2003,Shipped,Motorcycles,118,Burlingame,CA,USA
+10168,20,100,4183,10/28/2003,Shipped,Motorcycles,193,Burlingame,CA,USA
+10168,21,70.96,1490,10/28/2003,Shipped,Planes,84,Burlingame,CA,USA
+10168,46,61.18,2814,10/28/2003,Shipped,Motorcycles,60,Burlingame,CA,USA
+10168,50,100,5748,10/28/2003,Shipped,Motorcycles,112,Burlingame,CA,USA
+10168,49,100,6434,10/28/2003,Shipped,Planes,109,Burlingame,CA,USA
+10168,29,75.41,2187,10/28/2003,Shipped,Motorcycles,76,Burlingame,CA,USA
+10168,27,73.02,1972,10/28/2003,Shipped,Planes,68,Burlingame,CA,USA
+10168,48,78.25,3756,10/28/2003,Shipped,Planes,72,Burlingame,CA,USA
+10168,28,100,3244,10/28/2003,Shipped,Motorcycles,99,Burlingame,CA,USA
+10168,31,73.61,2282,10/28/2003,Shipped,Vintage Cars,68,Burlingame,CA,USA
+10168,48,51.93,2493,10/28/2003,Shipped,Vintage Cars,43,Burlingame,CA,USA
+10168,28,98.65,2762,10/28/2003,Shipped,Planes,91,Burlingame,CA,USA
+10168,31,100,3431,10/28/2003,Shipped,Planes,99,Burlingame,CA,USA
+10168,36,100,4528,10/28/2003,Shipped,Planes,118,Burlingame,CA,USA
+10168,48,96,4608,10/28/2003,Shipped,Planes,80,Burlingame,CA,USA
+10168,39,82.91,3233,10/28/2003,Shipped,Planes,74,Burlingame,CA,USA
+10169,30,100,5020,11/4/2003,Shipped,Classic Cars,194,North Sydney,NSW,Australia
+10169,35,100,4639,11/4/2003,Shipped,Motorcycles,150,North Sydney,NSW,Australia
+10170,47,100,5465,11/4/2003,Shipped,Classic Cars,117,Graz,,Austria
+10169,36,63.84,2298,11/4/2003,Shipped,Classic Cars,79,North Sydney,NSW,Australia
+10170,41,100,4391,11/4/2003,Shipped,Classic Cars,115,Graz,,Austria
+10170,20,63.14,1263,11/4/2003,Shipped,Classic Cars,77,Graz,,Austria
+10169,32,70.76,2264,11/4/2003,Shipped,Classic Cars,80,North Sydney,NSW,Australia
+10169,36,100,4445,11/4/2003,Shipped,Classic Cars,146,North Sydney,NSW,Australia
+10169,38,68.39,2599,11/4/2003,Shipped,Motorcycles,62,North Sydney,NSW,Australia
+10169,33,100,4910,11/4/2003,Shipped,Classic Cars,148,North Sydney,NSW,Australia
+10169,38,74.11,2816,11/4/2003,Shipped,Motorcycles,69,North Sydney,NSW,Australia
+10169,34,50.21,1707,11/4/2003,Shipped,Classic Cars,61,North Sydney,NSW,Australia
+10170,34,100,3820,11/4/2003,Shipped,Classic Cars,140,Graz,,Austria
+10169,24,94.58,2270,11/4/2003,Shipped,Classic Cars,80,North Sydney,NSW,Australia
+10169,26,39.83,1036,11/4/2003,Shipped,Motorcycles,40,North Sydney,NSW,Australia
+10169,34,100,3921,11/4/2003,Shipped,Motorcycles,102,North Sydney,NSW,Australia
+10169,48,80.55,3866,11/4/2003,Shipped,Motorcycles,81,North Sydney,NSW,Australia
+10171,35,100,4508,11/5/2003,Shipped,Classic Cars,141,Montreal,Quebec,Canada
+10173,43,100,5036,11/5/2003,Shipped,Vintage Cars,102,Bergamo,,Italy
+10173,48,44.21,2122,11/5/2003,Shipped,Vintage Cars,53,Bergamo,,Italy
+10172,42,100,4965,11/5/2003,Shipped,Classic Cars,124,Bridgewater,CT,USA
+10173,24,100,3509,11/5/2003,Shipped,Vintage Cars,170,Bergamo,,Italy
+10171,35,100,4680,11/5/2003,Shipped,Classic Cars,142,Montreal,Quebec,Canada
+10173,26,57.51,1495,11/5/2003,Shipped,Vintage Cars,60,Bergamo,,Italy
+10173,31,100,4493,11/5/2003,Shipped,Vintage Cars,127,Bergamo,,Italy
+10173,22,100,3453,11/5/2003,Shipped,Vintage Cars,168,Bergamo,,Italy
+10172,39,100,6023,11/5/2003,Shipped,Classic Cars,132,Bridgewater,CT,USA
+10173,28,53.72,1504,11/5/2003,Shipped,Vintage Cars,62,Bergamo,,Italy
+10173,31,89.01,2759,11/5/2003,Shipped,Vintage Cars,104,Bergamo,,Italy
+10171,39,100,5481,11/5/2003,Shipped,Classic Cars,169,Montreal,Quebec,Canada
+10173,29,95.24,2762,11/5/2003,Shipped,Vintage Cars,99,Bergamo,,Italy
+10172,48,100,5493,11/5/2003,Shipped,Classic Cars,141,Bridgewater,CT,USA
+10173,21,75.46,1585,11/5/2003,Shipped,Vintage Cars,92,Bergamo,,Italy
+10173,39,71.98,2807,11/5/2003,Shipped,Classic Cars,71,Bergamo,,Italy
+10172,32,75.69,2422,11/5/2003,Shipped,Classic Cars,73,Bridgewater,CT,USA
+10172,34,42.76,1454,11/5/2003,Shipped,Classic Cars,50,Bridgewater,CT,USA
+10173,31,31.53,977,11/5/2003,Shipped,Vintage Cars,33,Bergamo,,Italy
+10173,27,41.22,1113,11/5/2003,Shipped,Vintage Cars,44,Bergamo,,Italy
+10172,22,74.51,1639,11/5/2003,Shipped,Classic Cars,90,Bridgewater,CT,USA
+10173,23,100,2728,11/5/2003,Shipped,Classic Cars,117,Bergamo,,Italy
+10171,36,35.49,1278,11/5/2003,Shipped,Classic Cars,37,Montreal,Quebec,Canada
+10172,24,81.33,1952,11/5/2003,Shipped,Classic Cars,85,Bridgewater,CT,USA
+10172,22,98.51,2167,11/5/2003,Shipped,Classic Cars,107,Bridgewater,CT,USA
+10173,35,33.23,1163,11/5/2003,Shipped,Vintage Cars,41,Bergamo,,Italy
+10173,22,100,2571,11/5/2003,Shipped,Vintage Cars,97,Bergamo,,Italy
+10174,34,100,8015,11/6/2003,Shipped,Classic Cars,214,South Brisbane,Queensland,Australia
+10175,33,100,5363,11/6/2003,Shipped,Classic Cars,147,London,,UK
+10176,33,100,7475,11/6/2003,Shipped,Classic Cars,207,Reggio Emilia,,Italy
+10174,43,100,6817,11/6/2003,Shipped,Trucks and Buses,136,South Brisbane,Queensland,Australia
+10176,47,100,8379,11/6/2003,Shipped,Classic Cars,151,Reggio Emilia,,Italy
+10176,50,100,7873,11/6/2003,Shipped,Classic Cars,173,Reggio Emilia,,Italy
+10175,26,100,3543,11/6/2003,Shipped,Trucks and Buses,118,London,,UK
+10174,48,93.34,4480,11/6/2003,Shipped,Trucks and Buses,116,South Brisbane,Queensland,Australia
+10176,20,100,3668,11/6/2003,Shipped,Classic Cars,163,Reggio Emilia,,Italy
+10175,48,100,5891,11/6/2003,Shipped,Trucks and Buses,122,London,,UK
+10175,41,69.28,2840,11/6/2003,Shipped,Trucks and Buses,60,London,,UK
+10174,46,100,5592,11/6/2003,Shipped,Vintage Cars,101,South Brisbane,Queensland,Australia
+10175,29,100,4420,11/6/2003,Shipped,Classic Cars,169,London,,UK
+10176,36,100,5532,11/6/2003,Shipped,Classic Cars,143,Reggio Emilia,,Italy
+10175,47,100,5122,11/6/2003,Shipped,Trucks and Buses,121,London,,UK
+10174,49,44.78,2194,11/6/2003,Shipped,Vintage Cars,50,South Brisbane,Queensland,Australia
+10176,27,68.78,1857,11/6/2003,Shipped,Classic Cars,57,Reggio Emilia,,Italy
+10175,28,100,2970,11/6/2003,Shipped,Trucks and Buses,127,London,,UK
+10175,37,31.12,1151,11/6/2003,Shipped,Classic Cars,35,London,,UK
+10176,29,100,2916,11/6/2003,Shipped,Classic Cars,118,Reggio Emilia,,Italy
+10175,22,100,2437,11/6/2003,Shipped,Trucks and Buses,96,London,,UK
+10175,50,63.31,3166,11/6/2003,Shipped,Trucks and Buses,54,London,,UK
+10176,22,64,1408,11/6/2003,Shipped,Trains,62,Reggio Emilia,,Italy
+10175,29,74.98,2174,11/6/2003,Shipped,Trucks and Buses,64,London,,UK
+10176,23,100,3115,11/6/2003,Shipped,Trucks and Buses,115,Reggio Emilia,,Italy
+10176,38,64.44,2449,11/6/2003,Shipped,Trains,58,Reggio Emilia,,Italy
+10175,42,85.98,3611,11/6/2003,Shipped,Classic Cars,101,London,,UK
+10177,23,100,3676,11/7/2003,Shipped,Vintage Cars,136,Madrid,,Spain
+10177,29,100,3071,11/7/2003,Shipped,Trains,100,Madrid,,Spain
+10177,35,74.6,2611,11/7/2003,Shipped,Vintage Cars,87,Madrid,,Spain
+10177,50,100,6083,11/7/2003,Shipped,Ships,122,Madrid,,Spain
+10177,45,72.58,3266,11/7/2003,Shipped,Vintage Cars,88,Madrid,,Spain
+10177,24,76,1824,11/7/2003,Shipped,Ships,66,Madrid,,Spain
+10177,31,88.34,2739,11/7/2003,Shipped,Ships,86,Madrid,,Spain
+10177,32,76.62,2452,11/7/2003,Shipped,Ships,72,Madrid,,Spain
+10177,44,92.16,4055,11/7/2003,Shipped,Ships,100,Madrid,,Spain
+10177,24,100,2526,11/7/2003,Shipped,Ships,99,Madrid,,Spain
+10177,40,50.23,2009,11/7/2003,Shipped,Ships,54,Madrid,,Spain
+10178,24,100,3492,11/8/2003,Shipped,Classic Cars,136,Toulouse,,France
+10178,42,100,6491,11/8/2003,Shipped,Planes,157,Toulouse,,France
+10178,41,81.72,3351,11/8/2003,Shipped,Ships,86,Toulouse,,France
+10178,48,100,5387,11/8/2003,Shipped,Vintage Cars,105,Toulouse,,France
+10178,34,80.84,2749,11/8/2003,Shipped,Planes,68,Toulouse,,France
+10178,27,73.64,1988,11/8/2003,Shipped,Vintage Cars,65,Toulouse,,France
+10178,21,72.12,1515,11/8/2003,Shipped,Vintage Cars,83,Toulouse,,France
+10178,30,72.33,2170,11/8/2003,Shipped,Planes,68,Toulouse,,France
+10178,34,96.86,3293,11/8/2003,Shipped,Ships,90,Toulouse,,France
+10178,22,87.75,1931,11/8/2003,Shipped,Planes,99,Toulouse,,France
+10178,45,76.25,3431,11/8/2003,Shipped,Planes,74,Toulouse,,France
+10178,45,51.15,2302,11/8/2003,Shipped,Planes,49,Toulouse,,France
+10180,29,86.13,2498,11/11/2003,Shipped,Motorcycles,95,Lille,,France
+10180,42,100,4696,11/11/2003,Shipped,Motorcycles,118,Lille,,France
+10180,41,100,8893,11/11/2003,Shipped,Motorcycles,193,Lille,,France
+10180,40,100,6748,11/11/2003,Shipped,Motorcycles,150,Lille,,France
+10180,25,64.2,1605,11/11/2003,Shipped,Motorcycles,60,Lille,,France
+10180,21,50.36,1058,11/11/2003,Shipped,Motorcycles,62,Lille,,France
+10180,44,100,5565,11/11/2003,Shipped,Classic Cars,148,Lille,,France
+10180,48,100,5355,11/11/2003,Shipped,Motorcycles,112,Lille,,France
+10180,28,68.55,1919,11/11/2003,Shipped,Motorcycles,76,Lille,,France
+10180,35,72.03,2521,11/11/2003,Shipped,Motorcycles,69,Lille,,France
+10180,28,71.14,1992,11/11/2003,Shipped,Classic Cars,80,Lille,,France
+10180,34,45.46,1546,11/11/2003,Shipped,Motorcycles,40,Lille,,France
+10180,22,100,2515,11/11/2003,Shipped,Motorcycles,102,Lille,,France
+10180,21,93.56,1965,11/11/2003,Shipped,Motorcycles,81,Lille,,France
+10181,27,100,5411,11/12/2003,Shipped,Classic Cars,194,Bergen,,Norway
+10181,28,100,2861,11/12/2003,Shipped,Classic Cars,117,Bergen,,Norway
+10181,20,81.4,1628,11/12/2003,Shipped,Classic Cars,79,Bergen,,Norway
+10181,36,100,4477,11/12/2003,Shipped,Classic Cars,115,Bergen,,Norway
+10181,44,100,5418,11/12/2003,Shipped,Classic Cars,141,Bergen,,Norway
+10182,25,87.33,2183,11/12/2003,Shipped,Vintage Cars,102,San Rafael,CA,USA
+10182,32,54.45,1742,11/12/2003,Shipped,Vintage Cars,53,San Rafael,CA,USA
+10181,42,100,5436,11/12/2003,Shipped,Classic Cars,124,Bergen,,Norway
+10182,44,100,7555,11/12/2003,Shipped,Vintage Cars,170,San Rafael,CA,USA
+10181,22,73.92,1626,11/12/2003,Shipped,Classic Cars,77,Bergen,,Norway
+10181,21,100,3286,11/12/2003,Shipped,Classic Cars,142,Bergen,,Norway
+10182,38,61.15,2324,11/12/2003,Shipped,Vintage Cars,60,San Rafael,CA,USA
+10182,20,100,2212,11/12/2003,Shipped,Vintage Cars,127,San Rafael,CA,USA
+10182,21,100,3048,11/12/2003,Shipped,Vintage Cars,168,San Rafael,CA,USA
+10181,27,100,3885,11/12/2003,Shipped,Classic Cars,132,Bergen,,Norway
+10181,45,100,6325,11/12/2003,Shipped,Classic Cars,169,Bergen,,Norway
+10181,30,82.82,2485,11/12/2003,Shipped,Classic Cars,80,Bergen,,Norway
+10182,33,86.31,2848,11/12/2003,Shipped,Vintage Cars,99,San Rafael,CA,USA
+10181,22,100,3395,11/12/2003,Shipped,Classic Cars,146,Bergen,,Norway
+10181,39,100,5785,11/12/2003,Shipped,Classic Cars,141,Bergen,,Norway
+10182,36,100,3943,11/12/2003,Shipped,Vintage Cars,92,San Rafael,CA,USA
+10182,44,69.84,3073,11/12/2003,Shipped,Classic Cars,71,San Rafael,CA,USA
+10182,47,74.22,3488,11/12/2003,Shipped,Classic Cars,73,San Rafael,CA,USA
+10181,34,53.83,1830,11/12/2003,Shipped,Classic Cars,50,Bergen,,Norway
+10182,39,36.84,1437,11/12/2003,Shipped,Vintage Cars,33,San Rafael,CA,USA
+10182,31,36.74,1139,11/12/2003,Shipped,Vintage Cars,44,San Rafael,CA,USA
+10182,36,73.6,2650,11/12/2003,Shipped,Classic Cars,90,San Rafael,CA,USA
+10182,20,100,2396,11/12/2003,Shipped,Classic Cars,117,San Rafael,CA,USA
+10181,37,42.67,1579,11/12/2003,Shipped,Classic Cars,37,Bergen,,Norway
+10182,33,94.17,3108,11/12/2003,Shipped,Classic Cars,85,San Rafael,CA,USA
+10181,23,65.52,1507,11/12/2003,Shipped,Classic Cars,61,Bergen,,Norway
+10182,49,100,6244,11/12/2003,Shipped,Classic Cars,107,San Rafael,CA,USA
+10181,25,100,3862,11/12/2003,Shipped,Classic Cars,140,Bergen,,Norway
+10182,23,42.26,972,11/12/2003,Shipped,Vintage Cars,41,San Rafael,CA,USA
+10183,23,100,5373,11/13/2003,Shipped,Classic Cars,214,Philadelphia,PA,USA
+10183,28,100,3433,11/13/2003,Shipped,Classic Cars,147,Philadelphia,PA,USA
+10183,41,100,6164,11/13/2003,Shipped,Trucks and Buses,136,Philadelphia,PA,USA
+10183,21,96.84,2034,11/13/2003,Shipped,Trucks and Buses,116,Philadelphia,PA,USA
+10183,37,89.15,3299,11/13/2003,Shipped,Vintage Cars,101,Philadelphia,PA,USA
+10183,39,68.08,2655,11/13/2003,Shipped,Vintage Cars,62,Philadelphia,PA,USA
+10183,22,100,2488,11/13/2003,Shipped,Vintage Cars,104,Philadelphia,PA,USA
+10183,21,100,2441,11/13/2003,Shipped,Trucks and Buses,121,Philadelphia,PA,USA
+10183,40,49.3,1972,11/13/2003,Shipped,Vintage Cars,50,Philadelphia,PA,USA
+10183,47,100,5035,11/13/2003,Shipped,Vintage Cars,97,Philadelphia,PA,USA
+10183,49,64.64,3167,11/13/2003,Shipped,Trucks and Buses,64,Philadelphia,PA,USA
+10183,23,86.99,2001,11/13/2003,Shipped,Classic Cars,101,Philadelphia,PA,USA
+10186,26,100,3854,11/14/2003,Shipped,Classic Cars,136,London,,UK
+10185,21,100,3884,11/14/2003,Shipped,Classic Cars,207,New Bedford,MA,USA
+10185,33,100,4038,11/14/2003,Shipped,Classic Cars,151,New Bedford,MA,USA
+10185,43,100,7886,11/14/2003,Shipped,Classic Cars,173,New Bedford,MA,USA
+10184,37,100,4516,11/14/2003,Shipped,Trucks and Buses,118,Sevilla,,Spain
+10186,32,100,6005,11/14/2003,Shipped,Planes,157,London,,UK
+10184,46,100,7381,11/14/2003,Shipped,Classic Cars,163,Sevilla,,Spain
+10184,46,100,5984,11/14/2003,Shipped,Trucks and Buses,122,Sevilla,,Spain
+10184,44,60.16,2647,11/14/2003,Shipped,Trucks and Buses,60,Sevilla,,Spain
+10186,32,89.46,2863,11/14/2003,Shipped,Ships,86,London,,UK
+10185,28,100,3442,11/14/2003,Shipped,Vintage Cars,136,New Bedford,MA,USA
+10184,28,100,4410,11/14/2003,Shipped,Classic Cars,169,Sevilla,,Spain
+10185,49,80.67,3953,11/14/2003,Shipped,Trains,100,New Bedford,MA,USA
+10186,46,100,4919,11/14/2003,Shipped,Vintage Cars,105,London,,UK
+10185,39,100,5097,11/14/2003,Shipped,Classic Cars,143,New Bedford,MA,USA
+10185,47,77.24,3630,11/14/2003,Shipped,Vintage Cars,87,New Bedford,MA,USA
+10184,31,60.11,1863,11/14/2003,Shipped,Classic Cars,57,Sevilla,,Spain
+10185,30,100,3171,11/14/2003,Shipped,Ships,122,New Bedford,MA,USA
+10184,24,100,3496,11/14/2003,Shipped,Trucks and Buses,127,Sevilla,,Spain
+10184,42,31.82,1336,11/14/2003,Shipped,Classic Cars,35,Sevilla,,Spain
+10186,22,69.2,1522,11/14/2003,Shipped,Planes,68,London,,UK
+10185,33,74.35,2454,11/14/2003,Shipped,Vintage Cars,88,New Bedford,MA,USA
+10186,21,69.04,1450,11/14/2003,Shipped,Vintage Cars,65,London,,UK
+10186,36,85.54,3079,11/14/2003,Shipped,Vintage Cars,83,London,,UK
+10184,49,100,5796,11/14/2003,Shipped,Classic Cars,118,Sevilla,,Spain
+10184,46,100,4607,11/14/2003,Shipped,Trucks and Buses,96,Sevilla,,Spain
+10184,33,62.77,2071,11/14/2003,Shipped,Trucks and Buses,54,Sevilla,,Spain
+10184,48,50.95,2446,11/14/2003,Shipped,Trains,62,Sevilla,,Spain
+10184,45,100,4948,11/14/2003,Shipped,Trucks and Buses,115,Sevilla,,Spain
+10185,20,48.62,972,11/14/2003,Shipped,Trains,58,New Bedford,MA,USA
+10185,21,54,1134,11/14/2003,Shipped,Ships,66,New Bedford,MA,USA
+10185,30,94.4,2832,11/14/2003,Shipped,Ships,86,New Bedford,MA,USA
+10186,24,99.57,2390,11/14/2003,Shipped,Ships,90,London,,UK
+10185,39,57.82,2255,11/14/2003,Shipped,Ships,72,New Bedford,MA,USA
+10185,37,100,3892,11/14/2003,Shipped,Ships,100,New Bedford,MA,USA
+10185,22,79.45,1748,11/14/2003,Shipped,Ships,99,New Bedford,MA,USA
+10186,28,52.14,1460,11/14/2003,Shipped,Planes,49,London,,UK
+10185,28,64.43,1804,11/14/2003,Shipped,Ships,54,New Bedford,MA,USA
+10188,48,100,5512,11/18/2003,Shipped,Motorcycles,95,Bergen,,Norway
+10188,38,96.34,3661,11/18/2003,Shipped,Motorcycles,118,Bergen,,Norway
+10188,45,100,8715,11/18/2003,Shipped,Motorcycles,193,Bergen,,Norway
+10189,28,100,4512,11/18/2003,Shipped,Motorcycles,150,Pasadena,CA,USA
+10188,32,65.42,2093,11/18/2003,Shipped,Motorcycles,60,Bergen,,Norway
+10188,25,100,2536,11/18/2003,Shipped,Motorcycles,112,Bergen,,Norway
+10188,40,91.4,3656,11/18/2003,Shipped,Motorcycles,76,Bergen,,Norway
+10188,44,98.89,4351,11/18/2003,Shipped,Motorcycles,99,Bergen,,Norway
+10188,29,100,3957,11/18/2003,Shipped,Planes,118,Bergen,,Norway
+10190,42,76.19,3200,11/19/2003,Shipped,Motorcycles,69,Madrid,,Spain
+10190,46,32.99,1518,11/19/2003,Shipped,Motorcycles,40,Madrid,,Spain
+10190,42,85.72,3600,11/19/2003,Shipped,Motorcycles,102,Madrid,,Spain
+10190,40,66.72,2669,11/19/2003,Shipped,Motorcycles,81,Madrid,,Spain
+10191,21,100,3841,11/20/2003,Shipped,Classic Cars,194,Koln,,Germany
+10191,40,100,5590,11/20/2003,Shipped,Classic Cars,117,Koln,,Germany
+10191,30,64.64,1939,11/20/2003,Shipped,Classic Cars,79,Koln,,Germany
+10192,27,100,3545,11/20/2003,Shipped,Classic Cars,115,Nashua,NH,USA
+10192,22,100,3301,11/20/2003,Shipped,Classic Cars,141,Nashua,NH,USA
+10192,29,100,4258,11/20/2003,Shipped,Classic Cars,124,Nashua,NH,USA
+10192,45,90.86,4089,11/20/2003,Shipped,Classic Cars,77,Nashua,NH,USA
+10192,47,100,7421,11/20/2003,Shipped,Classic Cars,142,Nashua,NH,USA
+10192,38,100,4966,11/20/2003,Shipped,Classic Cars,132,Nashua,NH,USA
+10192,26,100,3918,11/20/2003,Shipped,Classic Cars,169,Nashua,NH,USA
+10191,36,94.88,3416,11/20/2003,Shipped,Classic Cars,80,Koln,,Germany
+10191,23,100,3415,11/20/2003,Shipped,Classic Cars,146,Koln,,Germany
+10192,45,100,5341,11/20/2003,Shipped,Classic Cars,141,Nashua,NH,USA
+10191,43,72.74,3128,11/20/2003,Shipped,Motorcycles,62,Koln,,Germany
+10191,32,100,4238,11/20/2003,Shipped,Classic Cars,148,Koln,,Germany
+10192,37,69.82,2583,11/20/2003,Shipped,Classic Cars,73,Nashua,NH,USA
+10192,47,53.83,2530,11/20/2003,Shipped,Classic Cars,50,Nashua,NH,USA
+10192,46,83.6,3846,11/20/2003,Shipped,Classic Cars,90,Nashua,NH,USA
+10192,23,100,3052,11/20/2003,Shipped,Classic Cars,117,Nashua,NH,USA
+10192,30,30.59,918,11/20/2003,Shipped,Classic Cars,37,Nashua,NH,USA
+10192,32,72.77,2329,11/20/2003,Shipped,Classic Cars,85,Nashua,NH,USA
+10191,48,60.01,2880,11/20/2003,Shipped,Classic Cars,61,Koln,,Germany
+10192,46,100,5566,11/20/2003,Shipped,Classic Cars,107,Nashua,NH,USA
+10192,45,100,6319,11/20/2003,Shipped,Classic Cars,140,Nashua,NH,USA
+10191,44,66.29,2917,11/20/2003,Shipped,Classic Cars,80,Koln,,Germany
+10193,28,100,3107,11/21/2003,Shipped,Vintage Cars,102,Glen Waverly,Victoria,Australia
+10193,46,53.37,2455,11/21/2003,Shipped,Vintage Cars,53,Glen Waverly,Victoria,Australia
+10193,21,100,3142,11/21/2003,Shipped,Vintage Cars,170,Glen Waverly,Victoria,Australia
+10193,42,59.33,2492,11/21/2003,Shipped,Vintage Cars,60,Glen Waverly,Victoria,Australia
+10193,44,100,4643,11/21/2003,Shipped,Vintage Cars,127,Glen Waverly,Victoria,Australia
+10193,22,100,3675,11/21/2003,Shipped,Vintage Cars,168,Glen Waverly,Victoria,Australia
+10193,28,93.21,2610,11/21/2003,Shipped,Vintage Cars,101,Glen Waverly,Victoria,Australia
+10193,24,51.84,1244,11/21/2003,Shipped,Vintage Cars,62,Glen Waverly,Victoria,Australia
+10193,23,100,2770,11/21/2003,Shipped,Vintage Cars,104,Glen Waverly,Victoria,Australia
+10193,32,79.37,2540,11/21/2003,Shipped,Vintage Cars,99,Glen Waverly,Victoria,Australia
+10193,24,97.55,2341,11/21/2003,Shipped,Vintage Cars,92,Glen Waverly,Victoria,Australia
+10193,25,76.26,1907,11/21/2003,Shipped,Classic Cars,71,Glen Waverly,Victoria,Australia
+10193,26,29.21,759,11/21/2003,Shipped,Vintage Cars,33,Glen Waverly,Victoria,Australia
+10193,20,50.62,1012,11/21/2003,Shipped,Vintage Cars,44,Glen Waverly,Victoria,Australia
+10193,22,41.03,903,11/21/2003,Shipped,Vintage Cars,41,Glen Waverly,Victoria,Australia
+10193,20,100,2279,11/21/2003,Shipped,Vintage Cars,97,Glen Waverly,Victoria,Australia
+10194,42,100,7290,11/25/2003,Shipped,Classic Cars,214,Lyon,,France
+10194,26,100,4264,11/25/2003,Shipped,Classic Cars,147,Lyon,,France
+10194,38,100,4934,11/25/2003,Shipped,Trucks and Buses,136,Lyon,,France
+10195,49,100,6445,11/25/2003,Shipped,Trucks and Buses,118,White Plains,NY,USA
+10194,21,93.34,1960,11/25/2003,Shipped,Trucks and Buses,116,Lyon,,France
+10195,27,100,5128,11/25/2003,Shipped,Classic Cars,163,White Plains,NY,USA
+10195,35,100,3608,11/25/2003,Shipped,Trucks and Buses,122,White Plains,NY,USA
+10194,45,70.49,3172,11/25/2003,Shipped,Trucks and Buses,60,Lyon,,France
+10195,50,100,7621,11/25/2003,Shipped,Classic Cars,169,White Plains,NY,USA
+10194,32,100,4262,11/25/2003,Shipped,Trucks and Buses,121,Lyon,,France
+10194,41,44.78,1836,11/25/2003,Shipped,Vintage Cars,50,Lyon,,France
+10195,44,66.47,2925,11/25/2003,Shipped,Classic Cars,57,White Plains,NY,USA
+10194,49,100,5761,11/25/2003,Shipped,Trucks and Buses,127,Lyon,,France
+10195,32,28.29,905,11/25/2003,Shipped,Classic Cars,35,White Plains,NY,USA
+10195,34,100,3700,11/25/2003,Shipped,Classic Cars,118,White Plains,NY,USA
+10194,37,97.27,3599,11/25/2003,Shipped,Trucks and Buses,96,Lyon,,France
+10195,32,43.29,1385,11/25/2003,Shipped,Trucks and Buses,54,White Plains,NY,USA
+10195,33,54.68,1804,11/25/2003,Shipped,Trains,62,White Plains,NY,USA
+10194,39,54.94,2143,11/25/2003,Shipped,Trucks and Buses,64,Lyon,,France
+10195,49,100,5161,11/25/2003,Shipped,Trucks and Buses,115,White Plains,NY,USA
+10194,26,89.01,2314,11/25/2003,Shipped,Classic Cars,101,Lyon,,France
+10197,45,100,5324,11/26/2003,Shipped,Classic Cars,136,Barcelona,,Spain
+10196,47,100,8888,11/26/2003,Shipped,Classic Cars,207,New Haven,CT,USA
+10196,24,100,3807,11/26/2003,Shipped,Classic Cars,151,New Haven,CT,USA
+10196,38,100,7232,11/26/2003,Shipped,Classic Cars,173,New Haven,CT,USA
+10197,46,87.74,4036,11/26/2003,Shipped,Ships,86,Barcelona,,Spain
+10196,49,100,6894,11/26/2003,Shipped,Vintage Cars,136,New Haven,CT,USA
+10196,35,100,3565,11/26/2003,Shipped,Trains,100,New Haven,CT,USA
+10197,22,100,2539,11/26/2003,Shipped,Vintage Cars,105,Barcelona,,Spain
+10196,27,100,4537,11/26/2003,Shipped,Classic Cars,143,New Haven,CT,USA
+10197,50,100,5091,11/26/2003,Shipped,Vintage Cars,87,Barcelona,,Spain
+10197,41,100,4535,11/26/2003,Shipped,Ships,122,Barcelona,,Spain
+10197,47,83.2,3910,11/26/2003,Shipped,Vintage Cars,88,Barcelona,,Spain
+10197,22,86.38,1900,11/26/2003,Shipped,Vintage Cars,83,Barcelona,,Spain
+10196,46,62.09,2856,11/26/2003,Shipped,Trains,58,New Haven,CT,USA
+10197,23,64.67,1487,11/26/2003,Shipped,Ships,66,Barcelona,,Spain
+10196,50,94.4,4720,11/26/2003,Shipped,Ships,86,New Haven,CT,USA
+10197,24,90.52,2172,11/26/2003,Shipped,Ships,90,Barcelona,,Spain
+10197,50,78.79,3940,11/26/2003,Shipped,Ships,72,Barcelona,,Spain
+10197,27,92.16,2488,11/26/2003,Shipped,Ships,100,Barcelona,,Spain
+10197,35,93.35,3267,11/26/2003,Shipped,Ships,99,Barcelona,,Spain
+10197,29,41.71,1210,11/26/2003,Shipped,Planes,49,Barcelona,,Spain
+10197,42,50.23,2110,11/26/2003,Shipped,Ships,54,Barcelona,,Spain
+10198,42,100,7484,11/27/2003,Shipped,Planes,157,Makati City,,Philippines
+10198,48,67.82,3255,11/27/2003,Shipped,Planes,68,Makati City,,Philippines
+10198,27,71.67,1935,11/27/2003,Shipped,Vintage Cars,65,Makati City,,Philippines
+10198,43,66.19,2846,11/27/2003,Shipped,Planes,68,Makati City,,Philippines
+10198,42,100,4775,11/27/2003,Shipped,Planes,99,Makati City,,Philippines
+10198,40,63.67,2547,11/27/2003,Shipped,Planes,74,Makati City,,Philippines
+10201,22,98.57,2169,12/1/2003,Shipped,Motorcycles,95,San Francisco,CA,USA
+10201,24,100,3026,12/1/2003,Shipped,Motorcycles,118,San Francisco,CA,USA
+10201,49,100,8066,12/1/2003,Shipped,Motorcycles,193,San Francisco,CA,USA
+10201,25,100,4029,12/1/2003,Shipped,Motorcycles,150,San Francisco,CA,USA
+10201,30,64.81,1944,12/1/2003,Shipped,Motorcycles,60,San Francisco,CA,USA
+10201,39,100,4351,12/1/2003,Shipped,Motorcycles,112,San Francisco,CA,USA
+10201,25,73.88,1847,12/1/2003,Shipped,Motorcycles,76,San Francisco,CA,USA
+10199,29,38.4,1114,12/1/2003,Shipped,Vintage Cars,43,Burbank,CA,USA
+10199,48,83.12,3990,12/1/2003,Shipped,Planes,91,Burbank,CA,USA
+10199,38,82.4,3131,12/1/2003,Shipped,Planes,80,Burbank,CA,USA
+10203,20,100,3930,12/2/2003,Shipped,Classic Cars,194,Madrid,,Spain
+10203,20,100,2255,12/2/2003,Shipped,Classic Cars,117,Madrid,,Spain
+10203,44,82.99,3652,12/2/2003,Shipped,Classic Cars,79,Madrid,,Spain
+10203,47,100,5196,12/2/2003,Shipped,Classic Cars,115,Madrid,,Spain
+10204,42,100,6182,12/2/2003,Shipped,Classic Cars,141,NYC,NY,USA
+10204,40,100,4032,12/2/2003,Shipped,Classic Cars,124,NYC,NY,USA
+10204,33,100,5891,12/2/2003,Shipped,Vintage Cars,170,NYC,NY,USA
+10203,45,85.47,3846,12/2/2003,Shipped,Classic Cars,77,Madrid,,Spain
+10204,38,100,6433,12/2/2003,Shipped,Classic Cars,142,NYC,NY,USA
+10204,23,71.44,1643,12/2/2003,Shipped,Vintage Cars,60,NYC,NY,USA
+10204,26,100,3206,12/2/2003,Shipped,Vintage Cars,127,NYC,NY,USA
+10204,27,100,4170,12/2/2003,Shipped,Classic Cars,132,NYC,NY,USA
+10203,48,100,8291,12/2/2003,Shipped,Classic Cars,169,Madrid,,Spain
+10203,33,86.04,2839,12/2/2003,Shipped,Classic Cars,80,Madrid,,Spain
+10203,32,100,5127,12/2/2003,Shipped,Classic Cars,146,Madrid,,Spain
+10204,35,100,5736,12/2/2003,Shipped,Classic Cars,141,NYC,NY,USA
+10204,29,85.59,2482,12/2/2003,Shipped,Vintage Cars,92,NYC,NY,USA
+10204,45,76.26,3432,12/2/2003,Shipped,Classic Cars,71,NYC,NY,USA
+10204,20,62.47,1249,12/2/2003,Shipped,Classic Cars,73,NYC,NY,USA
+10204,45,49.81,2241,12/2/2003,Shipped,Classic Cars,50,NYC,NY,USA
+10204,47,96.32,4527,12/2/2003,Shipped,Classic Cars,90,NYC,NY,USA
+10204,42,100,4242,12/2/2003,Shipped,Classic Cars,117,NYC,NY,USA
+10203,21,37,777,12/2/2003,Shipped,Classic Cars,37,Madrid,,Spain
+10204,40,79.62,3185,12/2/2003,Shipped,Classic Cars,85,NYC,NY,USA
+10203,34,64.9,2207,12/2/2003,Shipped,Classic Cars,61,Madrid,,Spain
+10204,48,91.02,4369,12/2/2003,Shipped,Classic Cars,107,NYC,NY,USA
+10203,47,100,6996,12/2/2003,Shipped,Classic Cars,140,Madrid,,Spain
+10204,39,33.23,1296,12/2/2003,Shipped,Vintage Cars,41,NYC,NY,USA
+10205,36,100,3736,12/3/2003,Shipped,Vintage Cars,102,Madrid,,Spain
+10205,48,63.61,3053,12/3/2003,Shipped,Vintage Cars,53,Madrid,,Spain
+10205,40,100,7492,12/3/2003,Shipped,Vintage Cars,168,Madrid,,Spain
+10205,32,37.17,1189,12/3/2003,Shipped,Vintage Cars,33,Madrid,,Spain
+10205,24,38.08,914,12/3/2003,Shipped,Vintage Cars,44,Madrid,,Spain
+10206,47,100,9065,12/5/2003,Shipped,Classic Cars,214,Vancouver,BC,Canada
+10206,28,100,4056,12/5/2003,Shipped,Trucks and Buses,136,Vancouver,BC,Canada
+10206,34,100,3967,12/5/2003,Shipped,Trucks and Buses,116,Vancouver,BC,Canada
+10206,37,90.17,3336,12/5/2003,Shipped,Vintage Cars,101,Vancouver,BC,Canada
+10206,28,67.46,1889,12/5/2003,Shipped,Vintage Cars,62,Vancouver,BC,Canada
+10206,30,100,3581,12/5/2003,Shipped,Vintage Cars,104,Vancouver,BC,Canada
+10206,28,87.3,2444,12/5/2003,Shipped,Vintage Cars,99,Vancouver,BC,Canada
+10206,21,53.33,1120,12/5/2003,Shipped,Vintage Cars,50,Vancouver,BC,Canada
+10206,33,97.39,3214,12/5/2003,Shipped,Vintage Cars,97,Vancouver,BC,Canada
+10206,36,58.82,2118,12/5/2003,Shipped,Trucks and Buses,64,Vancouver,BC,Canada
+10206,33,100,3872,12/5/2003,Shipped,Classic Cars,101,Vancouver,BC,Canada
+10207,31,100,4076,12/9/2003,Shipped,Classic Cars,147,Boston,MA,USA
+10207,34,99.54,3384,12/9/2003,Shipped,Trucks and Buses,118,Boston,MA,USA
+10207,44,100,7060,12/9/2003,Shipped,Classic Cars,163,Boston,MA,USA
+10207,43,100,5753,12/9/2003,Shipped,Trucks and Buses,122,Boston,MA,USA
+10207,37,69.89,2586,12/9/2003,Shipped,Trucks and Buses,60,Boston,MA,USA
+10207,25,100,3937,12/9/2003,Shipped,Classic Cars,169,Boston,MA,USA
+10207,40,100,6147,12/9/2003,Shipped,Classic Cars,143,Boston,MA,USA
+10207,47,100,6658,12/9/2003,Shipped,Trucks and Buses,121,Boston,MA,USA
+10207,49,46.82,2294,12/9/2003,Shipped,Classic Cars,57,Boston,MA,USA
+10207,46,100,6819,12/9/2003,Shipped,Trucks and Buses,127,Boston,MA,USA
+10207,42,29.7,1247,12/9/2003,Shipped,Classic Cars,35,Boston,MA,USA
+10207,28,100,2981,12/9/2003,Shipped,Classic Cars,118,Boston,MA,USA
+10207,49,80.9,3964,12/9/2003,Shipped,Trucks and Buses,96,Boston,MA,USA
+10207,27,60.06,1622,12/9/2003,Shipped,Trucks and Buses,54,Boston,MA,USA
+10207,45,56.55,2545,12/9/2003,Shipped,Trains,62,Boston,MA,USA
+10207,28,94.92,2658,12/9/2003,Shipped,Trucks and Buses,115,Boston,MA,USA
+10208,46,100,8603,1/2/2004,Shipped,Classic Cars,207,Lyon,,France
+10208,26,100,3142,1/2/2004,Shipped,Classic Cars,151,Lyon,,France
+10208,20,100,3114,1/2/2004,Shipped,Classic Cars,173,Lyon,,France
+10208,24,100,2622,1/2/2004,Shipped,Vintage Cars,136,Lyon,,France
+10208,48,100,5615,1/2/2004,Shipped,Trains,100,Lyon,,France
+10208,45,87.77,3950,1/2/2004,Shipped,Vintage Cars,87,Lyon,,France
+10208,35,100,4301,1/2/2004,Shipped,Ships,122,Lyon,,France
+10208,20,89.4,1788,1/2/2004,Shipped,Vintage Cars,88,Lyon,,France
+10208,30,65.61,1968,1/2/2004,Shipped,Trains,58,Lyon,,France
+10208,38,74.67,2837,1/2/2004,Shipped,Ships,66,Lyon,,France
+10208,40,80.55,3222,1/2/2004,Shipped,Ships,86,Lyon,,France
+10208,46,74.45,3425,1/2/2004,Shipped,Ships,72,Lyon,,France
+10208,37,100,4447,1/2/2004,Shipped,Ships,100,Lyon,,France
+10208,33,85.41,2819,1/2/2004,Shipped,Ships,99,Lyon,,France
+10208,42,63.88,2683,1/2/2004,Shipped,Ships,54,Lyon,,France
+10209,39,100,5198,1/9/2004,Shipped,Classic Cars,136,Los Angeles,CA,USA
+10209,28,100,2818,1/9/2004,Shipped,Ships,86,Los Angeles,CA,USA
+10209,20,100,2499,1/9/2004,Shipped,Vintage Cars,105,Los Angeles,CA,USA
+10209,43,82.21,3535,1/9/2004,Shipped,Planes,68,Los Angeles,CA,USA
+10209,36,77.59,2793,1/9/2004,Shipped,Vintage Cars,65,Los Angeles,CA,USA
+10209,22,89.73,1974,1/9/2004,Shipped,Vintage Cars,83,Los Angeles,CA,USA
+10209,33,88.71,2927,1/9/2004,Shipped,Ships,90,Los Angeles,CA,USA
+10209,48,44.69,2145,1/9/2004,Shipped,Planes,49,Los Angeles,CA,USA
+10210,23,100,3009,1/12/2004,Shipped,Motorcycles,118,Osaka,Osaka,Japan
+10210,34,100,6123,1/12/2004,Shipped,Motorcycles,193,Osaka,Osaka,Japan
+10210,31,100,5720,1/12/2004,Shipped,Planes,157,Osaka,Osaka,Japan
+10210,50,76.88,3844,1/12/2004,Shipped,Planes,84,Osaka,Osaka,Japan
+10210,40,49.67,1987,1/12/2004,Shipped,Motorcycles,60,Osaka,Osaka,Japan
+10210,27,98.48,2659,1/12/2004,Shipped,Planes,109,Osaka,Osaka,Japan
+10210,30,61.7,1851,1/12/2004,Shipped,Motorcycles,76,Osaka,Osaka,Japan
+10210,29,69.6,2018,1/12/2004,Shipped,Planes,68,Osaka,Osaka,Japan
+10210,40,71,2840,1/12/2004,Shipped,Planes,72,Osaka,Osaka,Japan
+10210,46,79.91,3676,1/12/2004,Shipped,Motorcycles,99,Osaka,Osaka,Japan
+10210,39,59.16,2307,1/12/2004,Shipped,Vintage Cars,68,Osaka,Osaka,Japan
+10210,43,41.02,1764,1/12/2004,Shipped,Vintage Cars,43,Osaka,Osaka,Japan
+10210,21,78.55,1650,1/12/2004,Shipped,Planes,91,Osaka,Osaka,Japan
+10210,26,99.72,2593,1/12/2004,Shipped,Planes,99,Osaka,Osaka,Japan
+10210,25,100,2818,1/12/2004,Shipped,Planes,118,Osaka,Osaka,Japan
+10210,31,86.4,2678,1/12/2004,Shipped,Planes,80,Osaka,Osaka,Japan
+10210,42,70.33,2954,1/12/2004,Shipped,Planes,74,Osaka,Osaka,Japan
+10211,41,100,4708,1/15/2004,Shipped,Motorcycles,95,Paris,,France
+10211,41,100,7499,1/15/2004,Shipped,Classic Cars,194,Paris,,France
+10211,36,100,4772,1/15/2004,Shipped,Motorcycles,150,Paris,,France
+10211,28,92.57,2592,1/15/2004,Shipped,Classic Cars,79,Paris,,France
+10211,35,78,2730,1/15/2004,Shipped,Classic Cars,80,Paris,,France
+10211,28,100,3745,1/15/2004,Shipped,Classic Cars,146,Paris,,France
+10211,46,54.09,2488,1/15/2004,Shipped,Motorcycles,62,Paris,,France
+10211,41,100,5674,1/15/2004,Shipped,Classic Cars,148,Paris,,France
+10211,25,90.16,2254,1/15/2004,Shipped,Motorcycles,112,Paris,,France
+10211,21,63.72,1338,1/15/2004,Shipped,Motorcycles,69,Paris,,France
+10211,48,48.98,2351,1/15/2004,Shipped,Classic Cars,61,Paris,,France
+10211,22,92.16,2028,1/15/2004,Shipped,Classic Cars,80,Paris,,France
+10211,41,42.24,1732,1/15/2004,Shipped,Motorcycles,40,Paris,,France
+10211,37,100,4040,1/15/2004,Shipped,Motorcycles,102,Paris,,France
+10211,40,80.55,3222,1/15/2004,Shipped,Motorcycles,81,Paris,,France
+10212,39,100,4947,1/16/2004,Shipped,Classic Cars,117,Madrid,,Spain
+10212,33,100,4180,1/16/2004,Shipped,Classic Cars,115,Madrid,,Spain
+10212,29,100,4187,1/16/2004,Shipped,Classic Cars,141,Madrid,,Spain
+10212,38,100,4492,1/16/2004,Shipped,Classic Cars,124,Madrid,,Spain
+10212,20,66.99,1340,1/16/2004,Shipped,Classic Cars,77,Madrid,,Spain
+10212,41,100,4841,1/16/2004,Shipped,Classic Cars,142,Madrid,,Spain
+10212,40,100,4910,1/16/2004,Shipped,Classic Cars,132,Madrid,,Spain
+10212,40,100,5554,1/16/2004,Shipped,Classic Cars,169,Madrid,,Spain
+10212,45,100,6358,1/16/2004,Shipped,Classic Cars,141,Madrid,,Spain
+10212,41,82.31,3375,1/16/2004,Shipped,Classic Cars,73,Madrid,,Spain
+10212,45,53.33,2400,1/16/2004,Shipped,Classic Cars,50,Madrid,,Spain
+10212,45,88.14,3966,1/16/2004,Shipped,Classic Cars,90,Madrid,,Spain
+10212,34,43.42,1476,1/16/2004,Shipped,Classic Cars,37,Madrid,,Spain
+10212,27,79.62,2150,1/16/2004,Shipped,Classic Cars,85,Madrid,,Spain
+10212,46,87.81,4039,1/16/2004,Shipped,Classic Cars,107,Madrid,,Spain
+10212,49,100,6950,1/16/2004,Shipped,Classic Cars,140,Madrid,,Spain
+10213,38,94.79,3602,1/22/2004,Shipped,Vintage Cars,92,London,,UK
+10213,25,83.39,2085,1/22/2004,Shipped,Classic Cars,71,London,,UK
+10213,27,100,2790,1/22/2004,Shipped,Classic Cars,117,London,,UK
+10214,30,100,5967,1/26/2004,Shipped,Vintage Cars,170,Madrid,,Spain
+10214,21,62.96,1322,1/26/2004,Shipped,Vintage Cars,60,Madrid,,Spain
+10214,27,100,3604,1/26/2004,Shipped,Vintage Cars,127,Madrid,,Spain
+10214,50,100,9535,1/26/2004,Shipped,Vintage Cars,168,Madrid,,Spain
+10214,20,34.19,684,1/26/2004,Shipped,Vintage Cars,33,Madrid,,Spain
+10214,49,47.94,2349,1/26/2004,Shipped,Vintage Cars,44,Madrid,,Spain
+10214,44,34.88,1535,1/26/2004,Shipped,Vintage Cars,41,Madrid,,Spain
+10215,35,100,6075,1/29/2004,Shipped,Classic Cars,214,Burbank,CA,USA
+10215,46,100,5152,1/29/2004,Shipped,Trucks and Buses,116,Burbank,CA,USA
+10215,27,89.38,2413,1/29/2004,Shipped,Vintage Cars,102,Burbank,CA,USA
+10215,33,43.13,1423,1/29/2004,Shipped,Vintage Cars,53,Burbank,CA,USA
+10215,49,100,5510,1/29/2004,Shipped,Vintage Cars,101,Burbank,CA,USA
+10215,31,58.71,1820,1/29/2004,Shipped,Vintage Cars,62,Burbank,CA,USA
+10215,49,100,5285,1/29/2004,Shipped,Vintage Cars,104,Burbank,CA,USA
+10215,41,100,4556,1/29/2004,Shipped,Vintage Cars,99,Burbank,CA,USA
+10215,46,45.28,2083,1/29/2004,Shipped,Vintage Cars,50,Burbank,CA,USA
+10215,39,90.57,3532,1/29/2004,Shipped,Vintage Cars,97,Burbank,CA,USA
+10216,43,100,5759,2/2/2004,Shipped,Trucks and Buses,136,Versailles,,France
+10217,48,100,7020,2/4/2004,Shipped,Classic Cars,147,Singapore,,Singapore
+10217,35,61.38,2148,2/4/2004,Shipped,Trucks and Buses,60,Singapore,,Singapore
+10217,38,100,4509,2/4/2004,Shipped,Trucks and Buses,121,Singapore,,Singapore
+10217,28,100,3149,2/4/2004,Shipped,Trucks and Buses,127,Singapore,,Singapore
+10217,21,100,2245,2/4/2004,Shipped,Trucks and Buses,96,Singapore,,Singapore
+10217,39,62.05,2420,2/4/2004,Shipped,Trucks and Buses,64,Singapore,,Singapore
+10217,31,88,2728,2/4/2004,Shipped,Classic Cars,101,Singapore,,Singapore
+10219,48,100,4892,2/10/2004,Shipped,Trucks and Buses,118,Brisbane,CA,USA
+10219,43,100,8449,2/10/2004,Shipped,Classic Cars,163,Brisbane,CA,USA
+10219,21,40.31,847,2/10/2004,Shipped,Classic Cars,35,Brisbane,CA,USA
+10219,35,55.19,1932,2/10/2004,Shipped,Trucks and Buses,54,Brisbane,CA,USA
+10220,32,100,7181,2/12/2004,Shipped,Classic Cars,207,Dublin,,Ireland
+10220,30,100,4714,2/12/2004,Shipped,Classic Cars,151,Dublin,,Ireland
+10220,27,100,5045,2/12/2004,Shipped,Classic Cars,173,Dublin,,Ireland
+10220,50,100,8258,2/12/2004,Shipped,Classic Cars,143,Dublin,,Ireland
+10220,26,56.07,1458,2/12/2004,Shipped,Classic Cars,57,Dublin,,Ireland
+10220,37,100,5033,2/12/2004,Shipped,Classic Cars,118,Dublin,,Ireland
+10220,20,52.82,1056,2/12/2004,Shipped,Trains,62,Dublin,,Ireland
+10220,37,100,3983,2/12/2004,Shipped,Trucks and Buses,115,Dublin,,Ireland
+10220,30,68.54,2056,2/12/2004,Shipped,Trains,58,Dublin,,Ireland
+10221,33,100,4417,2/18/2004,Shipped,Vintage Cars,136,Bruxelles,,Belgium
+10221,23,80.67,1855,2/18/2004,Shipped,Trains,100,Bruxelles,,Belgium
+10221,39,89.53,3492,2/18/2004,Shipped,Vintage Cars,87,Bruxelles,,Belgium
+10221,49,100,6805,2/18/2004,Shipped,Ships,122,Bruxelles,,Belgium
+10221,23,97,2231,2/18/2004,Shipped,Ships,86,Bruxelles,,Belgium
+10222,49,100,5998,2/19/2004,Shipped,Classic Cars,136,San Diego,CA,USA
+10222,49,100,6954,2/19/2004,Shipped,Planes,157,San Diego,CA,USA
+10222,49,94.62,4636,2/19/2004,Shipped,Ships,86,San Diego,CA,USA
+10222,45,85.75,3859,2/19/2004,Shipped,Vintage Cars,105,San Diego,CA,USA
+10222,32,81.53,2609,2/19/2004,Shipped,Planes,68,San Diego,CA,USA
+10222,47,70.81,3328,2/19/2004,Shipped,Vintage Cars,88,San Diego,CA,USA
+10222,43,70.35,3025,2/19/2004,Shipped,Vintage Cars,65,San Diego,CA,USA
+10222,46,80.51,3703,2/19/2004,Shipped,Vintage Cars,83,San Diego,CA,USA
+10222,48,56.64,2719,2/19/2004,Shipped,Planes,68,San Diego,CA,USA
+10222,31,62.67,1943,2/19/2004,Shipped,Ships,66,San Diego,CA,USA
+10222,26,100,2660,2/19/2004,Shipped,Ships,90,San Diego,CA,USA
+10222,37,87.75,3247,2/19/2004,Shipped,Planes,99,San Diego,CA,USA
+10222,36,80.95,2914,2/19/2004,Shipped,Ships,72,San Diego,CA,USA
+10222,38,100,4187,2/19/2004,Shipped,Ships,100,San Diego,CA,USA
+10222,31,95.34,2956,2/19/2004,Shipped,Ships,99,San Diego,CA,USA
+10222,43,74.03,3183,2/19/2004,Shipped,Planes,74,San Diego,CA,USA
+10222,31,45.69,1416,2/19/2004,Shipped,Planes,49,San Diego,CA,USA
+10222,36,63.34,2280,2/19/2004,Shipped,Ships,54,San Diego,CA,USA
+10223,37,100,3966,2/20/2004,Shipped,Motorcycles,95,Melbourne,Victoria,Australia
+10223,47,100,5422,2/20/2004,Shipped,Motorcycles,118,Melbourne,Victoria,Australia
+10223,49,100,9774,2/20/2004,Shipped,Motorcycles,193,Melbourne,Victoria,Australia
+10223,47,100,4725,2/20/2004,Shipped,Planes,84,Melbourne,Victoria,Australia
+10223,28,60.57,1696,2/20/2004,Shipped,Motorcycles,60,Melbourne,Victoria,Australia
+10223,32,91.29,2921,2/20/2004,Shipped,Motorcycles,112,Melbourne,Victoria,Australia
+10223,34,100,3609,2/20/2004,Shipped,Planes,109,Melbourne,Victoria,Australia
+10223,38,69.31,2634,2/20/2004,Shipped,Motorcycles,76,Melbourne,Victoria,Australia
+10223,23,74.62,1716,2/20/2004,Shipped,Planes,72,Melbourne,Victoria,Australia
+10223,21,100,2475,2/20/2004,Shipped,Motorcycles,99,Melbourne,Victoria,Australia
+10223,20,66.04,1321,2/20/2004,Shipped,Vintage Cars,68,Melbourne,Victoria,Australia
+10223,41,46.26,1897,2/20/2004,Shipped,Vintage Cars,43,Melbourne,Victoria,Australia
+10223,25,100,2535,2/20/2004,Shipped,Planes,91,Melbourne,Victoria,Australia
+10223,29,100,3200,2/20/2004,Shipped,Planes,118,Melbourne,Victoria,Australia
+10223,26,67.2,1747,2/20/2004,Shipped,Planes,80,Melbourne,Victoria,Australia
+10224,43,100,6088,2/21/2004,Shipped,Motorcycles,150,Lille,,France
+10224,38,58.44,2221,2/21/2004,Shipped,Motorcycles,62,Lille,,France
+10224,37,80.34,2973,2/21/2004,Shipped,Motorcycles,69,Lille,,France
+10224,43,39.43,1695,2/21/2004,Shipped,Motorcycles,40,Lille,,France
+10224,30,100,3337,2/21/2004,Shipped,Motorcycles,102,Lille,,France
+10224,50,77.29,3865,2/21/2004,Shipped,Motorcycles,81,Lille,,France
+10225,27,100,4518,2/22/2004,Shipped,Classic Cars,194,Gensve,,Switzerland
+10225,25,99.82,2496,2/22/2004,Shipped,Classic Cars,117,Gensve,,Switzerland
+10225,37,77.41,2864,2/22/2004,Shipped,Classic Cars,79,Gensve,,Switzerland
+10225,21,100,2684,2/22/2004,Shipped,Classic Cars,115,Gensve,,Switzerland
+10225,32,100,4529,2/22/2004,Shipped,Classic Cars,141,Gensve,,Switzerland
+10225,47,64.68,3040,2/22/2004,Shipped,Classic Cars,77,Gensve,,Switzerland
+10225,43,100,6408,2/22/2004,Shipped,Classic Cars,169,Gensve,,Switzerland
+10225,37,95.69,3541,2/22/2004,Shipped,Classic Cars,80,Gensve,,Switzerland
+10225,27,100,4564,2/22/2004,Shipped,Classic Cars,146,Gensve,,Switzerland
+10225,35,100,5260,2/22/2004,Shipped,Classic Cars,148,Gensve,,Switzerland
+10225,42,36.63,1538,2/22/2004,Shipped,Classic Cars,37,Gensve,,Switzerland
+10225,24,50.21,1205,2/22/2004,Shipped,Classic Cars,61,Gensve,,Switzerland
+10225,40,100,4550,2/22/2004,Shipped,Classic Cars,140,Gensve,,Switzerland
+10225,46,70.33,3235,2/22/2004,Shipped,Classic Cars,80,Gensve,,Switzerland
+10226,38,100,4161,2/26/2004,Shipped,Classic Cars,124,San Diego,CA,USA
+10226,24,100,3892,2/26/2004,Shipped,Classic Cars,142,San Diego,CA,USA
+10226,24,100,3231,2/26/2004,Shipped,Classic Cars,132,San Diego,CA,USA
+10226,46,100,7344,2/26/2004,Shipped,Classic Cars,141,San Diego,CA,USA
+10226,21,60.26,1265,2/26/2004,Shipped,Classic Cars,73,San Diego,CA,USA
+10226,36,43.27,1558,2/26/2004,Shipped,Classic Cars,50,San Diego,CA,USA
+10226,48,92.09,4420,2/26/2004,Shipped,Classic Cars,107,San Diego,CA,USA
+10227,25,100,2954,3/2/2004,Shipped,Vintage Cars,102,Lyon,,France
+10227,31,48.52,1504,3/2/2004,Shipped,Vintage Cars,53,Lyon,,France
+10227,26,100,3713,3/2/2004,Shipped,Vintage Cars,170,Lyon,,France
+10227,28,50.85,1424,3/2/2004,Shipped,Vintage Cars,60,Lyon,,France
+10227,46,100,7018,3/2/2004,Shipped,Vintage Cars,127,Lyon,,France
+10227,29,100,5579,3/2/2004,Shipped,Vintage Cars,168,Lyon,,France
+10227,33,100,3667,3/2/2004,Shipped,Vintage Cars,99,Lyon,,France
+10227,34,100,3567,3/2/2004,Shipped,Vintage Cars,92,Lyon,,France
+10227,37,57.73,2136,3/2/2004,Shipped,Classic Cars,71,Lyon,,France
+10227,42,29.21,1227,3/2/2004,Shipped,Vintage Cars,33,Lyon,,France
+10227,24,48.38,1161,3/2/2004,Shipped,Vintage Cars,44,Lyon,,France
+10227,47,88.14,4143,3/2/2004,Shipped,Classic Cars,90,Lyon,,France
+10227,33,100,4340,3/2/2004,Shipped,Classic Cars,117,Lyon,,France
+10227,40,79.62,3185,3/2/2004,Shipped,Classic Cars,85,Lyon,,France
+10227,27,43.9,1185,3/2/2004,Shipped,Vintage Cars,41,Lyon,,France
+10228,29,100,6463,3/10/2004,Shipped,Classic Cars,214,Cambridge,MA,USA
+10228,32,100,3360,3/10/2004,Shipped,Trucks and Buses,116,Cambridge,MA,USA
+10228,24,100,2504,3/10/2004,Shipped,Vintage Cars,101,Cambridge,MA,USA
+10228,45,63.71,2867,3/10/2004,Shipped,Vintage Cars,62,Cambridge,MA,USA
+10228,31,100,3182,3/10/2004,Shipped,Vintage Cars,104,Cambridge,MA,USA
+10228,33,100,3407,3/10/2004,Shipped,Vintage Cars,97,Cambridge,MA,USA
+10229,50,100,6427,3/11/2004,Shipped,Classic Cars,147,San Rafael,CA,USA
+10229,25,100,3451,3/11/2004,Shipped,Trucks and Buses,136,San Rafael,CA,USA
+10229,36,100,4522,3/11/2004,Shipped,Trucks and Buses,118,San Rafael,CA,USA
+10229,26,100,3765,3/11/2004,Shipped,Trucks and Buses,122,San Rafael,CA,USA
+10229,28,59.55,1667,3/11/2004,Shipped,Trucks and Buses,60,San Rafael,CA,USA
+10229,22,100,4173,3/11/2004,Shipped,Classic Cars,169,San Rafael,CA,USA
+10229,41,100,4716,3/11/2004,Shipped,Trucks and Buses,121,San Rafael,CA,USA
+10229,39,40.25,1570,3/11/2004,Shipped,Vintage Cars,50,San Rafael,CA,USA
+10229,48,100,5704,3/11/2004,Shipped,Trucks and Buses,127,San Rafael,CA,USA
+10229,33,32.88,1085,3/11/2004,Shipped,Classic Cars,35,San Rafael,CA,USA
+10229,25,100,2793,3/11/2004,Shipped,Trucks and Buses,96,San Rafael,CA,USA
+10229,23,54.11,1245,3/11/2004,Shipped,Trucks and Buses,54,San Rafael,CA,USA
+10229,30,73.04,2191,3/11/2004,Shipped,Trucks and Buses,64,San Rafael,CA,USA
+10229,50,100,5614,3/11/2004,Shipped,Classic Cars,101,San Rafael,CA,USA
+10230,43,100,7016,3/15/2004,Shipped,Classic Cars,151,Frankfurt,,Germany
+10230,49,100,7301,3/15/2004,Shipped,Classic Cars,163,Frankfurt,,Germany
+10230,42,100,7238,3/15/2004,Shipped,Classic Cars,143,Frankfurt,,Germany
+10230,36,54.33,1956,3/15/2004,Shipped,Classic Cars,57,Frankfurt,,Germany
+10230,45,100,4737,3/15/2004,Shipped,Classic Cars,118,Frankfurt,,Germany
+10230,46,60.9,2801,3/15/2004,Shipped,Trains,62,Frankfurt,,Germany
+10230,34,100,3975,3/15/2004,Shipped,Trucks and Buses,115,Frankfurt,,Germany
+10230,43,52.14,2242,3/15/2004,Shipped,Trains,58,Frankfurt,,Germany
+10231,42,100,8379,3/19/2004,Shipped,Classic Cars,207,Madrid,,Spain
+10231,49,100,6952,3/19/2004,Shipped,Classic Cars,173,Madrid,,Spain
+10232,22,100,3606,3/20/2004,Shipped,Vintage Cars,136,Cowes,Isle of Wight,UK
+10232,48,95.8,4598,3/20/2004,Shipped,Trains,100,Cowes,Isle of Wight,UK
+10232,23,89.53,2059,3/20/2004,Shipped,Vintage Cars,87,Cowes,Isle of Wight,UK
+10232,46,100,5653,3/20/2004,Shipped,Ships,122,Cowes,Isle of Wight,UK
+10232,26,88.34,2297,3/20/2004,Shipped,Ships,86,Cowes,Isle of Wight,UK
+10232,48,96.16,4616,3/20/2004,Shipped,Ships,100,Cowes,Isle of Wight,UK
+10232,35,82.43,2885,3/20/2004,Shipped,Ships,99,Cowes,Isle of Wight,UK
+10232,24,49.69,1193,3/20/2004,Shipped,Ships,54,Cowes,Isle of Wight,UK
+10233,40,94.71,3788,3/29/2004,Shipped,Vintage Cars,88,Newark,NJ,USA
+10233,36,70.67,2544,3/29/2004,Shipped,Ships,66,Newark,NJ,USA
+10233,29,82.4,2390,3/29/2004,Shipped,Ships,72,Newark,NJ,USA
+10235,24,76.03,1825,4/2/2004,Shipped,Planes,84,Tsawassen,BC,Canada
+10235,23,96.29,2215,4/2/2004,Shipped,Planes,109,Tsawassen,BC,Canada
+10235,33,60.05,1982,4/2/2004,Shipped,Planes,68,Tsawassen,BC,Canada
+10235,40,81.14,3246,4/2/2004,Shipped,Planes,72,Tsawassen,BC,Canada
+10235,41,100,4177,4/2/2004,Shipped,Motorcycles,99,Tsawassen,BC,Canada
+10235,34,77.73,2643,4/2/2004,Shipped,Vintage Cars,68,Tsawassen,BC,Canada
+10235,41,35.35,1449,4/2/2004,Shipped,Vintage Cars,43,Tsawassen,BC,Canada
+10235,25,100,2580,4/2/2004,Shipped,Planes,91,Tsawassen,BC,Canada
+10235,38,88.75,3373,4/2/2004,Shipped,Planes,99,Tsawassen,BC,Canada
+10235,25,96.11,2403,4/2/2004,Shipped,Planes,118,Tsawassen,BC,Canada
+10235,32,92,2944,4/2/2004,Shipped,Planes,80,Tsawassen,BC,Canada
+10235,34,72.55,2467,4/2/2004,Shipped,Planes,74,Tsawassen,BC,Canada
+10236,22,100,2852,4/3/2004,Shipped,Motorcycles,118,Philadelphia,PA,USA
+10236,23,55.72,1282,4/3/2004,Shipped,Motorcycles,60,Philadelphia,PA,USA
+10236,36,87.6,3154,4/3/2004,Shipped,Motorcycles,76,Philadelphia,PA,USA
+10237,23,100,2333,4/5/2004,Shipped,Motorcycles,95,NYC,NY,USA
+10237,39,100,7024,4/5/2004,Shipped,Motorcycles,193,NYC,NY,USA
+10237,32,100,4193,4/5/2004,Shipped,Motorcycles,150,NYC,NY,USA
+10237,26,52.22,1358,4/5/2004,Shipped,Motorcycles,62,NYC,NY,USA
+10237,20,100,2299,4/5/2004,Shipped,Motorcycles,112,NYC,NY,USA
+10237,26,79.65,2071,4/5/2004,Shipped,Motorcycles,69,NYC,NY,USA
+10237,26,40.23,1046,4/5/2004,Shipped,Motorcycles,40,NYC,NY,USA
+10237,27,100,3114,4/5/2004,Shipped,Motorcycles,102,NYC,NY,USA
+10237,20,68.34,1367,4/5/2004,Shipped,Motorcycles,81,NYC,NY,USA
+10238,28,100,5775,4/9/2004,Shipped,Classic Cars,194,Kobenhavn,,Denmark
+10238,29,100,3167,4/9/2004,Shipped,Classic Cars,117,Kobenhavn,,Denmark
+10238,20,74.21,1484,4/9/2004,Shipped,Classic Cars,79,Kobenhavn,,Denmark
+10238,41,73.17,3000,4/9/2004,Shipped,Classic Cars,80,Kobenhavn,,Denmark
+10238,49,100,6554,4/9/2004,Shipped,Classic Cars,146,Kobenhavn,,Denmark
+10238,44,100,6351,4/9/2004,Shipped,Classic Cars,148,Kobenhavn,,Denmark
+10238,47,62.45,2935,4/9/2004,Shipped,Classic Cars,61,Kobenhavn,,Denmark
+10238,22,93.77,2063,4/9/2004,Shipped,Classic Cars,80,Kobenhavn,,Denmark
+10239,21,93.28,1959,4/12/2004,Shipped,Classic Cars,115,Oulu,,Finland
+10239,46,73.92,3400,4/12/2004,Shipped,Classic Cars,77,Oulu,,Finland
+10239,47,100,7083,4/12/2004,Shipped,Classic Cars,169,Oulu,,Finland
+10239,20,44.56,891,4/12/2004,Shipped,Classic Cars,37,Oulu,,Finland
+10239,29,100,4480,4/12/2004,Shipped,Classic Cars,140,Oulu,,Finland
+10240,41,100,5629,4/13/2004,Shipped,Classic Cars,141,Osaka,Osaka,Japan
+10241,21,100,2509,4/13/2004,Shipped,Classic Cars,124,Strasbourg,,France
+10241,41,100,7597,4/13/2004,Shipped,Vintage Cars,170,Strasbourg,,France
+10240,37,100,5526,4/13/2004,Shipped,Classic Cars,142,Osaka,Osaka,Japan
+10241,33,72.65,2397,4/13/2004,Shipped,Vintage Cars,60,Strasbourg,,France
+10241,44,100,6853,4/13/2004,Shipped,Classic Cars,132,Strasbourg,,France
+10240,37,100,5959,4/13/2004,Shipped,Classic Cars,141,Osaka,Osaka,Japan
+10241,42,90.19,3788,4/13/2004,Shipped,Vintage Cars,92,Strasbourg,,France
+10241,30,66.99,2010,4/13/2004,Shipped,Classic Cars,71,Strasbourg,,France
+10241,22,76.43,1681,4/13/2004,Shipped,Classic Cars,73,Strasbourg,,France
+10241,21,40.25,845,4/13/2004,Shipped,Classic Cars,50,Strasbourg,,France
+10241,47,94.5,4442,4/13/2004,Shipped,Classic Cars,90,Strasbourg,,France
+10241,28,98.65,2762,4/13/2004,Shipped,Classic Cars,117,Strasbourg,,France
+10241,26,81.33,2115,4/13/2004,Shipped,Classic Cars,85,Strasbourg,,France
+10241,27,86.73,2342,4/13/2004,Shipped,Classic Cars,107,Strasbourg,,France
+10242,46,36.93,1699,4/20/2004,Shipped,Vintage Cars,41,NYC,NY,USA
+10243,47,100,6154,4/26/2004,Shipped,Vintage Cars,127,Boston,MA,USA
+10243,33,29.54,975,4/26/2004,Shipped,Vintage Cars,33,Boston,MA,USA
+10244,40,100,4685,4/29/2004,Shipped,Vintage Cars,102,Madrid,,Spain
+10244,20,58.22,1164,4/29/2004,Shipped,Vintage Cars,53,Madrid,,Spain
+10244,43,100,5950,4/29/2004,Shipped,Vintage Cars,168,Madrid,,Spain
+10244,30,100,3526,4/29/2004,Shipped,Vintage Cars,101,Madrid,,Spain
+10244,24,58.09,1394,4/29/2004,Shipped,Vintage Cars,62,Madrid,,Spain
+10244,29,100,3341,4/29/2004,Shipped,Vintage Cars,104,Madrid,,Spain
+10244,36,84.33,3036,4/29/2004,Shipped,Vintage Cars,99,Madrid,,Spain
+10244,39,45.25,1765,4/29/2004,Shipped,Vintage Cars,44,Madrid,,Spain
+10244,40,86.68,3467,4/29/2004,Shipped,Vintage Cars,97,Madrid,,Spain
+10245,34,100,6120,5/4/2004,Shipped,Classic Cars,214,New Haven,CT,USA
+10245,28,100,4592,5/4/2004,Shipped,Classic Cars,147,New Haven,CT,USA
+10245,38,100,5920,5/4/2004,Shipped,Trucks and Buses,136,New Haven,CT,USA
+10245,29,100,3451,5/4/2004,Shipped,Trucks and Buses,116,New Haven,CT,USA
+10245,21,100,2390,5/4/2004,Shipped,Trucks and Buses,121,New Haven,CT,USA
+10245,45,59.87,2694,5/4/2004,Shipped,Vintage Cars,50,New Haven,CT,USA
+10245,37,100,4134,5/4/2004,Shipped,Trucks and Buses,96,New Haven,CT,USA
+10245,44,69.16,3043,5/4/2004,Shipped,Trucks and Buses,64,New Haven,CT,USA
+10245,44,100,4629,5/4/2004,Shipped,Classic Cars,101,New Haven,CT,USA
+10247,44,100,10606,5/5/2004,Shipped,Classic Cars,207,Espoo,,Finland
+10247,25,100,4381,5/5/2004,Shipped,Classic Cars,151,Espoo,,Finland
+10247,27,100,4158,5/5/2004,Shipped,Classic Cars,173,Espoo,,Finland
+10246,46,100,5070,5/5/2004,Shipped,Trucks and Buses,118,Madrid,,Spain
+10246,40,100,6549,5/5/2004,Shipped,Classic Cars,163,Madrid,,Spain
+10246,22,98.18,2160,5/5/2004,Shipped,Trucks and Buses,122,Madrid,,Spain
+10246,30,61.99,1860,5/5/2004,Shipped,Trucks and Buses,60,Madrid,,Spain
+10246,36,100,7133,5/5/2004,Shipped,Classic Cars,169,Madrid,,Spain
+10247,48,100,6756,5/5/2004,Shipped,Classic Cars,143,Espoo,,Finland
+10246,44,52.6,2314,5/5/2004,Shipped,Classic Cars,57,Madrid,,Spain
+10246,29,100,3521,5/5/2004,Shipped,Trucks and Buses,127,Madrid,,Spain
+10246,49,36.07,1767,5/5/2004,Shipped,Classic Cars,35,Madrid,,Spain
+10246,46,100,6311,5/5/2004,Shipped,Classic Cars,118,Madrid,,Spain
+10246,35,48.7,1705,5/5/2004,Shipped,Trucks and Buses,54,Madrid,,Spain
+10247,40,49.71,1988,5/5/2004,Shipped,Trains,62,Espoo,,Finland
+10246,22,100,2928,5/5/2004,Shipped,Trucks and Buses,115,Madrid,,Spain
+10247,49,63.85,3129,5/5/2004,Shipped,Trains,58,Espoo,,Finland
+10248,20,100,2910,5/7/2004,Cancelled,Classic Cars,136,NYC,NY,USA
+10248,21,73.98,1554,5/7/2004,Cancelled,Ships,86,NYC,NY,USA
+10248,32,100,3803,5/7/2004,Cancelled,Vintage Cars,136,NYC,NY,USA
+10248,42,100,5082,5/7/2004,Cancelled,Trains,100,NYC,NY,USA
+10248,42,75.48,3170,5/7/2004,Cancelled,Vintage Cars,87,NYC,NY,USA
+10248,48,100,6960,5/7/2004,Cancelled,Ships,122,NYC,NY,USA
+10248,30,100,3054,5/7/2004,Cancelled,Vintage Cars,88,NYC,NY,USA
+10248,23,76.31,1755,5/7/2004,Cancelled,Vintage Cars,83,NYC,NY,USA
+10248,36,71.34,2568,5/7/2004,Cancelled,Ships,66,NYC,NY,USA
+10248,40,100,4157,5/7/2004,Cancelled,Ships,86,NYC,NY,USA
+10248,32,75.89,2428,5/7/2004,Cancelled,Ships,72,NYC,NY,USA
+10248,30,100,3245,5/7/2004,Cancelled,Ships,100,NYC,NY,USA
+10248,35,90.37,3163,5/7/2004,Cancelled,Ships,99,NYC,NY,USA
+10248,23,65.52,1507,5/7/2004,Cancelled,Ships,54,NYC,NY,USA
+10249,46,100,5601,5/8/2004,Shipped,Vintage Cars,105,Cambridge,MA,USA
+10249,20,67.82,1356,5/8/2004,Shipped,Planes,68,Cambridge,MA,USA
+10249,25,69.7,1743,5/8/2004,Shipped,Vintage Cars,65,Cambridge,MA,USA
+10249,40,95.95,3838,5/8/2004,Shipped,Ships,90,Cambridge,MA,USA
+10249,32,57.61,1844,5/8/2004,Shipped,Planes,49,Cambridge,MA,USA
+10250,45,100,8160,5/11/2004,Shipped,Planes,157,San Jose,CA,USA
+10250,27,98.84,2669,5/11/2004,Shipped,Planes,84,San Jose,CA,USA
+10250,31,88.63,2748,5/11/2004,Shipped,Planes,109,San Jose,CA,USA
+10250,32,87.6,2803,5/11/2004,Shipped,Motorcycles,76,San Jose,CA,USA
+10250,40,75.06,3002,5/11/2004,Shipped,Planes,68,San Jose,CA,USA
+10250,37,74.62,2761,5/11/2004,Shipped,Planes,72,San Jose,CA,USA
+10250,31,100,3282,5/11/2004,Shipped,Motorcycles,99,San Jose,CA,USA
+10250,50,61.22,3061,5/11/2004,Shipped,Vintage Cars,68,San Jose,CA,USA
+10250,36,51.93,1869,5/11/2004,Shipped,Vintage Cars,43,San Jose,CA,USA
+10250,31,91.34,2832,5/11/2004,Shipped,Planes,91,San Jose,CA,USA
+10250,35,100,3909,5/11/2004,Shipped,Planes,99,San Jose,CA,USA
+10250,44,100,6056,5/11/2004,Shipped,Planes,118,San Jose,CA,USA
+10250,44,67.2,2957,5/11/2004,Shipped,Planes,80,San Jose,CA,USA
+10250,38,62.19,2363,5/11/2004,Shipped,Planes,74,San Jose,CA,USA
+10251,28,100,3189,5/18/2004,Shipped,Motorcycles,95,Newark,NJ,USA
+10251,44,100,5757,5/18/2004,Shipped,Motorcycles,118,Newark,NJ,USA
+10251,43,100,7078,5/18/2004,Shipped,Motorcycles,193,Newark,NJ,USA
+10251,46,100,7552,5/18/2004,Shipped,Motorcycles,150,Newark,NJ,USA
+10251,29,61.18,1774,5/18/2004,Shipped,Motorcycles,60,Newark,NJ,USA
+10251,26,100,2637,5/18/2004,Shipped,Motorcycles,112,Newark,NJ,USA
+10252,20,76.39,1528,5/26/2004,Shipped,Classic Cars,80,Paris,,France
+10252,41,100,6750,5/26/2004,Shipped,Classic Cars,146,Paris,,France
+10252,31,52.84,1638,5/26/2004,Shipped,Motorcycles,62,Paris,,France
+10252,26,100,3559,5/26/2004,Shipped,Classic Cars,148,Paris,,France
+10252,47,65.8,3093,5/26/2004,Shipped,Motorcycles,69,Paris,,France
+10252,38,87.31,3318,5/26/2004,Shipped,Classic Cars,80,Paris,,France
+10252,36,48.28,1738,5/26/2004,Shipped,Motorcycles,40,Paris,,France
+10252,25,100,2832,5/26/2004,Shipped,Motorcycles,102,Paris,,France
+10252,48,72.41,3476,5/26/2004,Shipped,Motorcycles,81,Paris,,France
+10253,24,100,3923,6/1/2004,Cancelled,Classic Cars,194,Liverpool,,UK
+10253,22,100,2403,6/1/2004,Cancelled,Classic Cars,117,Liverpool,,UK
+10253,25,90.17,2254,6/1/2004,Cancelled,Classic Cars,79,Liverpool,,UK
+10253,41,100,4911,6/1/2004,Cancelled,Classic Cars,115,Liverpool,,UK
+10253,26,100,3054,6/1/2004,Cancelled,Classic Cars,141,Liverpool,,UK
+10253,24,100,3375,6/1/2004,Cancelled,Classic Cars,124,Liverpool,,UK
+10253,23,83.93,1930,6/1/2004,Cancelled,Classic Cars,77,Liverpool,,UK
+10253,33,100,4460,6/1/2004,Cancelled,Classic Cars,142,Liverpool,,UK
+10253,37,100,5177,6/1/2004,Cancelled,Classic Cars,132,Liverpool,,UK
+10253,40,100,6774,6/1/2004,Cancelled,Classic Cars,169,Liverpool,,UK
+10253,31,100,4029,6/1/2004,Cancelled,Classic Cars,141,Liverpool,,UK
+10253,40,42.67,1707,6/1/2004,Cancelled,Classic Cars,37,Liverpool,,UK
+10253,24,52.66,1264,6/1/2004,Cancelled,Classic Cars,61,Liverpool,,UK
+10253,39,100,5148,6/1/2004,Cancelled,Classic Cars,140,Liverpool,,UK
+10255,24,100,3726,6/4/2004,Shipped,Vintage Cars,168,Strasbourg,,France
+10255,37,45.7,1691,6/4/2004,Shipped,Vintage Cars,44,Strasbourg,,France
+10256,34,95.55,3249,6/8/2004,Shipped,Vintage Cars,102,Kobenhavn,,Denmark
+10256,29,51.75,1501,6/8/2004,Shipped,Vintage Cars,53,Kobenhavn,,Denmark
+10257,50,88.14,4407,6/14/2004,Shipped,Vintage Cars,101,San Jose,CA,USA
+10257,49,53.72,2632,6/14/2004,Shipped,Vintage Cars,62,San Jose,CA,USA
+10257,37,84.82,3138,6/14/2004,Shipped,Vintage Cars,104,San Jose,CA,USA
+10257,26,89.29,2322,6/14/2004,Shipped,Vintage Cars,99,San Jose,CA,USA
+10257,46,78.89,3629,6/14/2004,Shipped,Vintage Cars,97,San Jose,CA,USA
+10258,32,100,7681,6/15/2004,Shipped,Classic Cars,214,Minato-ku,Tokyo,Japan
+10259,26,100,4033,6/15/2004,Shipped,Classic Cars,147,Singapore,,Singapore
+10258,41,100,6668,6/15/2004,Shipped,Trucks and Buses,136,Minato-ku,Tokyo,Japan
+10259,46,100,6541,6/15/2004,Shipped,Trucks and Buses,118,Singapore,,Singapore
+10258,41,100,5453,6/15/2004,Shipped,Trucks and Buses,116,Minato-ku,Tokyo,Japan
+10259,30,100,5698,6/15/2004,Shipped,Classic Cars,163,Singapore,,Singapore
+10259,34,99.41,3380,6/15/2004,Shipped,Trucks and Buses,122,Singapore,,Singapore
+10259,30,49.22,1477,6/15/2004,Shipped,Trucks and Buses,60,Singapore,,Singapore
+10259,27,100,3658,6/15/2004,Shipped,Classic Cars,169,Singapore,,Singapore
+10259,41,100,4667,6/15/2004,Shipped,Trucks and Buses,121,Singapore,,Singapore
+10258,21,59.87,1257,6/15/2004,Shipped,Vintage Cars,50,Minato-ku,Tokyo,Japan
+10259,28,46.82,1311,6/15/2004,Shipped,Classic Cars,57,Singapore,,Singapore
+10259,47,100,5286,6/15/2004,Shipped,Trucks and Buses,127,Singapore,,Singapore
+10259,31,33.24,1030,6/15/2004,Shipped,Classic Cars,35,Singapore,,Singapore
+10259,45,86.68,3901,6/15/2004,Shipped,Trucks and Buses,96,Singapore,,Singapore
+10259,40,43.83,1753,6/15/2004,Shipped,Trucks and Buses,54,Singapore,,Singapore
+10258,20,61.41,1228,6/15/2004,Shipped,Trucks and Buses,64,Minato-ku,Tokyo,Japan
+10259,29,100,3055,6/15/2004,Shipped,Trucks and Buses,115,Singapore,,Singapore
+10258,45,80.92,3641,6/15/2004,Shipped,Classic Cars,101,Minato-ku,Tokyo,Japan
+10261,27,100,3378,6/17/2004,Shipped,Classic Cars,136,Montreal,Quebec,Canada
+10261,20,89.53,1791,6/17/2004,Shipped,Vintage Cars,87,Montreal,Quebec,Canada
+10261,36,100,4513,6/17/2004,Shipped,Ships,122,Montreal,Quebec,Canada
+10261,22,91.17,2006,6/17/2004,Shipped,Vintage Cars,88,Montreal,Quebec,Canada
+10261,34,62,2108,6/17/2004,Shipped,Ships,66,Montreal,Quebec,Canada
+10261,44,68.67,3021,6/17/2004,Shipped,Ships,72,Montreal,Quebec,Canada
+10261,25,88.15,2204,6/17/2004,Shipped,Ships,100,Montreal,Quebec,Canada
+10261,50,81.43,4072,6/17/2004,Shipped,Ships,99,Montreal,Quebec,Canada
+10261,29,50.78,1473,6/17/2004,Shipped,Ships,54,Montreal,Quebec,Canada
+10262,49,100,6568,6/24/2004,Cancelled,Planes,157,Madrid,,Spain
+10262,32,84.3,2698,6/24/2004,Cancelled,Ships,86,Madrid,,Spain
+10262,34,100,4103,6/24/2004,Cancelled,Vintage Cars,105,Madrid,,Spain
+10262,34,97.38,3311,6/24/2004,Cancelled,Planes,109,Madrid,,Spain
+10262,24,67.14,1611,6/24/2004,Cancelled,Planes,68,Madrid,,Spain
+10262,46,70.35,3236,6/24/2004,Cancelled,Vintage Cars,65,Madrid,,Spain
+10262,49,87.21,4273,6/24/2004,Cancelled,Vintage Cars,83,Madrid,,Spain
+10262,48,61.42,2948,6/24/2004,Cancelled,Planes,68,Madrid,,Spain
+10262,40,79.11,3164,6/24/2004,Cancelled,Vintage Cars,68,Madrid,,Spain
+10262,49,37.97,1861,6/24/2004,Cancelled,Vintage Cars,43,Madrid,,Spain
+10262,40,84.03,3361,6/24/2004,Cancelled,Planes,91,Madrid,,Spain
+10262,44,94.14,4142,6/24/2004,Cancelled,Ships,90,Madrid,,Spain
+10262,33,90.75,2995,6/24/2004,Cancelled,Planes,99,Madrid,,Spain
+10262,27,76,2052,6/24/2004,Cancelled,Planes,80,Madrid,,Spain
+10262,35,71.07,2487,6/24/2004,Cancelled,Planes,74,Madrid,,Spain
+10262,21,57.11,1199,6/24/2004,Cancelled,Planes,49,Madrid,,Spain
+10263,34,100,3677,6/28/2004,Shipped,Motorcycles,95,Bridgewater,CT,USA
+10263,40,100,4472,6/28/2004,Shipped,Motorcycles,118,Bridgewater,CT,USA
+10263,41,100,8337,6/28/2004,Shipped,Motorcycles,193,Bridgewater,CT,USA
+10263,48,100,6434,6/28/2004,Shipped,Motorcycles,150,Bridgewater,CT,USA
+10263,33,86.17,2844,6/28/2004,Shipped,Planes,84,Bridgewater,CT,USA
+10263,34,58.75,1998,6/28/2004,Shipped,Motorcycles,60,Bridgewater,CT,USA
+10263,42,100,4308,6/28/2004,Shipped,Motorcycles,112,Bridgewater,CT,USA
+10263,37,62.46,2311,6/28/2004,Shipped,Motorcycles,76,Bridgewater,CT,USA
+10263,24,75.35,1808,6/28/2004,Shipped,Planes,72,Bridgewater,CT,USA
+10263,31,79.91,2477,6/28/2004,Shipped,Motorcycles,99,Bridgewater,CT,USA
+10263,47,100,5465,6/28/2004,Shipped,Planes,118,Bridgewater,CT,USA
+10264,48,54.71,2626,6/30/2004,Shipped,Motorcycles,62,Boston,MA,USA
+10264,20,100,2411,6/30/2004,Shipped,Classic Cars,148,Boston,MA,USA
+10264,37,65.1,2409,6/30/2004,Shipped,Motorcycles,69,Boston,MA,USA
+10264,47,83.27,3914,6/30/2004,Shipped,Classic Cars,80,Boston,MA,USA
+10264,20,32.59,652,6/30/2004,Shipped,Motorcycles,40,Boston,MA,USA
+10264,34,97.97,3331,6/30/2004,Shipped,Motorcycles,102,Boston,MA,USA
+10264,47,89.5,4207,6/30/2004,Shipped,Motorcycles,81,Boston,MA,USA
+10265,45,86.84,3908,7/2/2004,Shipped,Classic Cars,80,Glen Waverly,Victoria,Australia
+10265,49,100,8427,7/2/2004,Shipped,Classic Cars,146,Glen Waverly,Victoria,Australia
+10266,44,100,9160,7/6/2004,Shipped,Classic Cars,194,Reggio Emilia,,Italy
+10266,22,100,2455,7/6/2004,Shipped,Classic Cars,117,Reggio Emilia,,Italy
+10266,35,76.61,2681,7/6/2004,Shipped,Classic Cars,79,Reggio Emilia,,Italy
+10266,40,100,4468,7/6/2004,Shipped,Classic Cars,115,Reggio Emilia,,Italy
+10266,21,100,2527,7/6/2004,Shipped,Classic Cars,141,Reggio Emilia,,Italy
+10266,36,100,5197,7/6/2004,Shipped,Classic Cars,124,Reggio Emilia,,Italy
+10266,33,74.69,2465,7/6/2004,Shipped,Classic Cars,77,Reggio Emilia,,Italy
+10266,49,100,6203,7/6/2004,Shipped,Classic Cars,142,Reggio Emilia,,Italy
+10266,20,100,2825,7/6/2004,Shipped,Classic Cars,132,Reggio Emilia,,Italy
+10266,29,100,4813,7/6/2004,Shipped,Classic Cars,169,Reggio Emilia,,Italy
+10266,33,100,5035,7/6/2004,Shipped,Classic Cars,141,Reggio Emilia,,Italy
+10266,28,48.3,1352,7/6/2004,Shipped,Classic Cars,50,Reggio Emilia,,Italy
+10266,34,40.4,1374,7/6/2004,Shipped,Classic Cars,37,Reggio Emilia,,Italy
+10266,47,62.45,2935,7/6/2004,Shipped,Classic Cars,61,Reggio Emilia,,Italy
+10266,24,100,2932,7/6/2004,Shipped,Classic Cars,140,Reggio Emilia,,Italy
+10267,36,75.55,2720,7/7/2004,Shipped,Classic Cars,71,NYC,NY,USA
+10267,40,80.1,3204,7/7/2004,Shipped,Classic Cars,73,NYC,NY,USA
+10267,38,87.24,3315,7/7/2004,Shipped,Classic Cars,90,NYC,NY,USA
+10267,43,100,4646,7/7/2004,Shipped,Classic Cars,117,NYC,NY,USA
+10267,44,96.74,4257,7/7/2004,Shipped,Classic Cars,85,NYC,NY,USA
+10267,43,100,5111,7/7/2004,Shipped,Classic Cars,107,NYC,NY,USA
+10269,32,63.08,2019,7/16/2004,Shipped,Vintage Cars,62,Salzburg,,Austria
+10269,48,97.39,4675,7/16/2004,Shipped,Vintage Cars,97,Salzburg,,Austria
+10270,21,100,4905,7/19/2004,Shipped,Classic Cars,214,Chatswood,NSW,Australia
+10270,32,100,4302,7/19/2004,Shipped,Classic Cars,147,Chatswood,NSW,Australia
+10270,28,100,4095,7/19/2004,Shipped,Trucks and Buses,136,Chatswood,NSW,Australia
+10270,43,96.84,4164,7/19/2004,Shipped,Trucks and Buses,116,Chatswood,NSW,Australia
+10270,31,96.24,2983,7/19/2004,Shipped,Vintage Cars,101,Chatswood,NSW,Australia
+10270,38,100,4775,7/19/2004,Shipped,Vintage Cars,104,Chatswood,NSW,Australia
+10270,38,100,5383,7/19/2004,Shipped,Trucks and Buses,121,Chatswood,NSW,Australia
+10270,44,58.36,2568,7/19/2004,Shipped,Vintage Cars,50,Chatswood,NSW,Australia
+10270,32,85.72,2743,7/19/2004,Shipped,Trucks and Buses,96,Chatswood,NSW,Australia
+10270,21,63.35,1330,7/19/2004,Shipped,Trucks and Buses,64,Chatswood,NSW,Australia
+10270,46,88,4048,7/19/2004,Shipped,Classic Cars,101,Chatswood,NSW,Australia
+10272,35,100,5818,7/20/2004,Shipped,Classic Cars,207,Allentown,PA,USA
+10272,27,100,4283,7/20/2004,Shipped,Classic Cars,151,Allentown,PA,USA
+10272,39,100,7962,7/20/2004,Shipped,Classic Cars,173,Allentown,PA,USA
+10271,31,97.17,3012,7/20/2004,Shipped,Trucks and Buses,118,San Rafael,CA,USA
+10271,50,100,9169,7/20/2004,Shipped,Classic Cars,163,San Rafael,CA,USA
+10271,50,100,5094,7/20/2004,Shipped,Trucks and Buses,122,San Rafael,CA,USA
+10271,25,69.28,1732,7/20/2004,Shipped,Trucks and Buses,60,San Rafael,CA,USA
+10271,20,100,3929,7/20/2004,Shipped,Classic Cars,169,San Rafael,CA,USA
+10272,25,100,3734,7/20/2004,Shipped,Classic Cars,143,Allentown,PA,USA
+10271,45,64.74,2913,7/20/2004,Shipped,Classic Cars,57,San Rafael,CA,USA
+10271,43,100,5605,7/20/2004,Shipped,Trucks and Buses,127,San Rafael,CA,USA
+10271,38,41.72,1585,7/20/2004,Shipped,Classic Cars,35,San Rafael,CA,USA
+10271,22,100,3071,7/20/2004,Shipped,Classic Cars,118,San Rafael,CA,USA
+10271,35,47.62,1667,7/20/2004,Shipped,Trucks and Buses,54,San Rafael,CA,USA
+10272,45,64.63,2908,7/20/2004,Shipped,Trains,62,Allentown,PA,USA
+10271,34,98.39,3345,7/20/2004,Shipped,Trucks and Buses,115,San Rafael,CA,USA
+10272,43,56.82,2443,7/20/2004,Shipped,Trains,58,Allentown,PA,USA
+10273,30,100,3509,7/21/2004,Shipped,Classic Cars,136,Bruxelles,,Belgium
+10274,41,100,6724,7/21/2004,Shipped,Planes,157,Brickhaven,MA,USA
+10273,34,98.06,3334,7/21/2004,Shipped,Ships,86,Bruxelles,,Belgium
+10273,40,100,5026,7/21/2004,Shipped,Vintage Cars,136,Bruxelles,,Belgium
+10273,47,100,5451,7/21/2004,Shipped,Trains,100,Bruxelles,,Belgium
+10273,50,85.75,4288,7/21/2004,Shipped,Vintage Cars,105,Bruxelles,,Belgium
+10273,33,71.09,2346,7/21/2004,Shipped,Vintage Cars,87,Bruxelles,,Belgium
+10273,22,100,2785,7/21/2004,Shipped,Ships,122,Bruxelles,,Belgium
+10274,40,65.08,2603,7/21/2004,Shipped,Planes,68,Brickhaven,MA,USA
+10273,27,100,2796,7/21/2004,Shipped,Vintage Cars,88,Bruxelles,,Belgium
+10274,24,72.33,1736,7/21/2004,Shipped,Vintage Cars,65,Brickhaven,MA,USA
+10273,48,83.02,3985,7/21/2004,Shipped,Vintage Cars,83,Bruxelles,,Belgium
+10273,21,65.34,1372,7/21/2004,Shipped,Ships,66,Bruxelles,,Belgium
+10273,21,100,2146,7/21/2004,Shipped,Ships,86,Bruxelles,,Belgium
+10274,24,90.52,2172,7/21/2004,Shipped,Ships,90,Brickhaven,MA,USA
+10273,42,62.16,2611,7/21/2004,Shipped,Ships,72,Bruxelles,,Belgium
+10273,40,86.15,3446,7/21/2004,Shipped,Ships,100,Bruxelles,,Belgium
+10273,26,100,2969,7/21/2004,Shipped,Ships,99,Bruxelles,,Belgium
+10274,32,58.6,1875,7/21/2004,Shipped,Planes,49,Brickhaven,MA,USA
+10273,37,45.86,1697,7/21/2004,Shipped,Ships,54,Bruxelles,,Belgium
+10275,45,92.83,4177,7/23/2004,Shipped,Motorcycles,95,Nantes,,France
+10275,22,100,2904,7/23/2004,Shipped,Motorcycles,118,Nantes,,France
+10275,36,100,6902,7/23/2004,Shipped,Motorcycles,193,Nantes,,France
+10275,35,90.39,3164,7/23/2004,Shipped,Planes,84,Nantes,,France
+10275,37,63.6,2353,7/23/2004,Shipped,Motorcycles,60,Nantes,,France
+10275,21,100,2154,7/23/2004,Shipped,Motorcycles,112,Nantes,,France
+10275,25,95.2,2380,7/23/2004,Shipped,Planes,109,Nantes,,France
+10275,30,79.98,2399,7/23/2004,Shipped,Motorcycles,76,Nantes,,France
+10275,41,81.89,3357,7/23/2004,Shipped,Planes,68,Nantes,,France
+10275,27,62.31,1682,7/23/2004,Shipped,Planes,72,Nantes,,France
+10275,23,81.91,1884,7/23/2004,Shipped,Motorcycles,99,Nantes,,France
+10275,28,63.97,1791,7/23/2004,Shipped,Vintage Cars,68,Nantes,,France
+10275,38,45.39,1725,7/23/2004,Shipped,Vintage Cars,43,Nantes,,France
+10275,32,89.51,2864,7/23/2004,Shipped,Planes,91,Nantes,,France
+10275,39,100,4473,7/23/2004,Shipped,Planes,99,Nantes,,France
+10275,48,100,6379,7/23/2004,Shipped,Planes,118,Nantes,,France
+10275,43,73.6,3165,7/23/2004,Shipped,Planes,80,Nantes,,France
+10275,31,72.55,2249,7/23/2004,Shipped,Planes,74,Nantes,,France
+10276,50,100,9631,8/2/2004,Shipped,Classic Cars,194,Brickhaven,MA,USA
+10276,43,100,5182,8/2/2004,Shipped,Motorcycles,150,Brickhaven,MA,USA
+10276,47,100,5465,8/2/2004,Shipped,Classic Cars,117,Brickhaven,MA,USA
+10276,38,83.79,3184,8/2/2004,Shipped,Classic Cars,79,Brickhaven,MA,USA
+10276,38,69.96,2658,8/2/2004,Shipped,Classic Cars,80,Brickhaven,MA,USA
+10276,30,100,3925,8/2/2004,Shipped,Classic Cars,146,Brickhaven,MA,USA
+10276,33,50.36,1662,8/2/2004,Shipped,Motorcycles,62,Brickhaven,MA,USA
+10276,48,100,5714,8/2/2004,Shipped,Classic Cars,148,Brickhaven,MA,USA
+10276,46,75.49,3473,8/2/2004,Shipped,Motorcycles,69,Brickhaven,MA,USA
+10276,20,61.23,1225,8/2/2004,Shipped,Classic Cars,61,Brickhaven,MA,USA
+10276,48,75.18,3609,8/2/2004,Shipped,Classic Cars,80,Brickhaven,MA,USA
+10276,27,36.61,988,8/2/2004,Shipped,Motorcycles,40,Brickhaven,MA,USA
+10276,38,100,4305,8/2/2004,Shipped,Motorcycles,102,Brickhaven,MA,USA
+10276,21,70.78,1486,8/2/2004,Shipped,Motorcycles,81,Brickhaven,MA,USA
+10277,28,100,3128,8/4/2004,Shipped,Classic Cars,115,Singapore,,Singapore
+10278,34,100,4668,8/6/2004,Shipped,Classic Cars,141,Las Vegas,NV,USA
+10278,23,100,2605,8/6/2004,Shipped,Classic Cars,124,Las Vegas,NV,USA
+10278,29,90.86,2635,8/6/2004,Shipped,Classic Cars,77,Las Vegas,NV,USA
+10278,29,100,3754,8/6/2004,Shipped,Classic Cars,142,Las Vegas,NV,USA
+10278,39,100,4324,8/6/2004,Shipped,Classic Cars,132,Las Vegas,NV,USA
+10278,42,100,6401,8/6/2004,Shipped,Classic Cars,169,Las Vegas,NV,USA
+10278,31,100,4117,8/6/2004,Shipped,Classic Cars,141,Las Vegas,NV,USA
+10278,35,45.28,1585,8/6/2004,Shipped,Classic Cars,50,Las Vegas,NV,USA
+10278,31,38.89,1206,8/6/2004,Shipped,Classic Cars,37,Las Vegas,NV,USA
+10278,25,100,3160,8/6/2004,Shipped,Classic Cars,140,Las Vegas,NV,USA
+10279,26,60.58,1575,8/9/2004,Shipped,Classic Cars,71,Madrid,,Spain
+10279,32,74.96,2399,8/9/2004,Shipped,Classic Cars,73,Madrid,,Spain
+10279,49,79.97,3919,8/9/2004,Shipped,Classic Cars,90,Madrid,,Spain
+10279,48,100,5581,8/9/2004,Shipped,Classic Cars,117,Madrid,,Spain
+10279,33,71.06,2345,8/9/2004,Shipped,Classic Cars,85,Madrid,,Spain
+10279,48,100,6168,8/9/2004,Shipped,Classic Cars,107,Madrid,,Spain
+10280,34,100,8015,8/17/2004,Shipped,Classic Cars,214,Torino,,Italy
+10280,24,100,2800,8/17/2004,Shipped,Trucks and Buses,116,Torino,,Italy
+10280,50,100,5240,8/17/2004,Shipped,Vintage Cars,102,Torino,,Italy
+10280,27,57.68,1557,8/17/2004,Shipped,Vintage Cars,53,Torino,,Italy
+10280,26,100,3669,8/17/2004,Shipped,Vintage Cars,170,Torino,,Italy
+10280,25,62.96,1574,8/17/2004,Shipped,Vintage Cars,60,Torino,,Italy
+10280,37,100,4751,8/17/2004,Shipped,Vintage Cars,127,Torino,,Italy
+10280,22,100,4455,8/17/2004,Shipped,Vintage Cars,168,Torino,,Italy
+10280,46,100,5126,8/17/2004,Shipped,Vintage Cars,101,Torino,,Italy
+10280,43,68.71,2955,8/17/2004,Shipped,Vintage Cars,62,Torino,,Italy
+10280,29,100,3006,8/17/2004,Shipped,Vintage Cars,104,Torino,,Italy
+10280,34,100,3474,8/17/2004,Shipped,Vintage Cars,99,Torino,,Italy
+10280,35,100,3704,8/17/2004,Shipped,Vintage Cars,92,Torino,,Italy
+10280,20,28.88,578,8/17/2004,Shipped,Vintage Cars,33,Torino,,Italy
+10280,45,47.49,2137,8/17/2004,Shipped,Vintage Cars,44,Torino,,Italy
+10280,33,41.85,1381,8/17/2004,Shipped,Vintage Cars,41,Torino,,Italy
+10280,21,78.89,1657,8/17/2004,Shipped,Vintage Cars,97,Torino,,Italy
+10281,44,100,7021,8/19/2004,Shipped,Classic Cars,147,Allentown,PA,USA
+10281,25,100,2939,8/19/2004,Shipped,Trucks and Buses,136,Allentown,PA,USA
+10281,41,100,5247,8/19/2004,Shipped,Trucks and Buses,118,Allentown,PA,USA
+10281,48,100,5773,8/19/2004,Shipped,Trucks and Buses,122,Allentown,PA,USA
+10281,29,57.73,1674,8/19/2004,Shipped,Trucks and Buses,60,Allentown,PA,USA
+10281,25,100,4191,8/19/2004,Shipped,Classic Cars,169,Allentown,PA,USA
+10281,25,99.29,2482,8/19/2004,Shipped,Trucks and Buses,121,Allentown,PA,USA
+10281,44,59.87,2634,8/19/2004,Shipped,Vintage Cars,50,Allentown,PA,USA
+10281,25,100,2780,8/19/2004,Shipped,Trucks and Buses,127,Allentown,PA,USA
+10281,20,40.66,813,8/19/2004,Shipped,Classic Cars,35,Allentown,PA,USA
+10281,29,82.83,2402,8/19/2004,Shipped,Trucks and Buses,96,Allentown,PA,USA
+10281,31,55.19,1711,8/19/2004,Shipped,Trucks and Buses,54,Allentown,PA,USA
+10281,36,77.57,2793,8/19/2004,Shipped,Trucks and Buses,64,Allentown,PA,USA
+10281,27,85.98,2321,8/19/2004,Shipped,Classic Cars,101,Allentown,PA,USA
+10283,25,100,2992,8/20/2004,Shipped,Classic Cars,136,Tsawassen,BC,Canada
+10282,41,100,7071,8/20/2004,Shipped,Classic Cars,207,San Rafael,CA,USA
+10282,27,100,4365,8/20/2004,Shipped,Classic Cars,151,San Rafael,CA,USA
+10282,24,100,3779,8/20/2004,Shipped,Classic Cars,173,San Rafael,CA,USA
+10282,23,100,3239,8/20/2004,Shipped,Classic Cars,163,San Rafael,CA,USA
+10283,21,98.06,2059,8/20/2004,Shipped,Ships,86,Tsawassen,BC,Canada
+10282,43,100,6696,8/20/2004,Shipped,Vintage Cars,136,San Rafael,CA,USA
+10282,36,100,4175,8/20/2004,Shipped,Trains,100,San Rafael,CA,USA
+10283,46,100,5796,8/20/2004,Shipped,Vintage Cars,105,Tsawassen,BC,Canada
+10282,31,100,4675,8/20/2004,Shipped,Classic Cars,143,San Rafael,CA,USA
+10283,34,100,3581,8/20/2004,Shipped,Vintage Cars,87,Tsawassen,BC,Canada
+10282,29,46.82,1358,8/20/2004,Shipped,Classic Cars,57,San Rafael,CA,USA
+10283,42,100,5316,8/20/2004,Shipped,Ships,122,Tsawassen,BC,Canada
+10283,34,92.94,3160,8/20/2004,Shipped,Vintage Cars,88,Tsawassen,BC,Canada
+10283,33,72.96,2408,8/20/2004,Shipped,Vintage Cars,83,Tsawassen,BC,Canada
+10282,39,100,4797,8/20/2004,Shipped,Classic Cars,118,San Rafael,CA,USA
+10282,36,59.65,2147,8/20/2004,Shipped,Trains,62,San Rafael,CA,USA
+10282,38,100,4311,8/20/2004,Shipped,Trucks and Buses,115,San Rafael,CA,USA
+10282,37,66.78,2471,8/20/2004,Shipped,Trains,58,San Rafael,CA,USA
+10283,45,78.67,3540,8/20/2004,Shipped,Ships,66,Tsawassen,BC,Canada
+10282,43,86.61,3724,8/20/2004,Shipped,Ships,86,San Rafael,CA,USA
+10283,20,94.14,1883,8/20/2004,Shipped,Ships,90,Tsawassen,BC,Canada
+10283,47,65.77,3091,8/20/2004,Shipped,Ships,72,Tsawassen,BC,Canada
+10283,22,88.15,1939,8/20/2004,Shipped,Ships,100,Tsawassen,BC,Canada
+10283,38,89.38,3396,8/20/2004,Shipped,Ships,99,Tsawassen,BC,Canada
+10283,43,57.61,2477,8/20/2004,Shipped,Planes,49,Tsawassen,BC,Canada
+10283,33,51.32,1694,8/20/2004,Shipped,Ships,54,Tsawassen,BC,Canada
+10284,45,100,5748,8/21/2004,Shipped,Planes,157,Oslo,,Norway
+10284,31,71.81,2226,8/21/2004,Shipped,Planes,84,Oslo,,Norway
+10284,22,100,2311,8/21/2004,Shipped,Planes,109,Oslo,,Norway
+10284,30,73.99,2220,8/21/2004,Shipped,Planes,68,Oslo,,Norway
+10284,39,71.67,2795,8/21/2004,Shipped,Vintage Cars,65,Oslo,,Norway
+10284,21,55.96,1175,8/21/2004,Shipped,Planes,68,Oslo,,Norway
+10284,21,71,1491,8/21/2004,Shipped,Planes,72,Oslo,,Norway
+10284,50,81.86,4093,8/21/2004,Shipped,Vintage Cars,68,Oslo,,Norway
+10284,33,51.93,1714,8/21/2004,Shipped,Vintage Cars,43,Oslo,,Norway
+10284,24,83.12,1995,8/21/2004,Shipped,Planes,91,Oslo,,Norway
+10284,45,100,4577,8/21/2004,Shipped,Planes,99,Oslo,,Norway
+10284,25,69.6,1740,8/21/2004,Shipped,Planes,80,Oslo,,Norway
+10284,32,64.41,2061,8/21/2004,Shipped,Planes,74,Oslo,,Norway
+10285,36,100,4100,8/27/2004,Shipped,Motorcycles,95,Cambridge,MA,USA
+10285,47,100,6485,8/27/2004,Shipped,Motorcycles,118,Cambridge,MA,USA
+10285,27,100,5438,8/27/2004,Shipped,Motorcycles,193,Cambridge,MA,USA
+10285,49,100,6864,8/27/2004,Shipped,Motorcycles,150,Cambridge,MA,USA
+10285,20,49.06,981,8/27/2004,Shipped,Motorcycles,60,Cambridge,MA,USA
+10285,34,100,3717,8/27/2004,Shipped,Motorcycles,112,Cambridge,MA,USA
+10285,39,70.08,2733,8/27/2004,Shipped,Motorcycles,76,Cambridge,MA,USA
+10285,38,59.56,2263,8/27/2004,Shipped,Motorcycles,69,Cambridge,MA,USA
+10285,37,98.89,3659,8/27/2004,Shipped,Motorcycles,99,Cambridge,MA,USA
+10285,37,41.03,1518,8/27/2004,Shipped,Motorcycles,40,Cambridge,MA,USA
+10285,26,100,2600,8/27/2004,Shipped,Motorcycles,102,Cambridge,MA,USA
+10285,39,78.92,3078,8/27/2004,Shipped,Motorcycles,81,Cambridge,MA,USA
+10285,45,100,5393,8/27/2004,Shipped,Planes,118,Cambridge,MA,USA
+10286,38,57.2,2174,8/28/2004,Shipped,Motorcycles,62,Paris,,France
+10287,21,100,3432,8/30/2004,Shipped,Classic Cars,194,Gensve,,Switzerland
+10287,45,100,4757,8/30/2004,Shipped,Classic Cars,117,Gensve,,Switzerland
+10287,41,69.43,2847,8/30/2004,Shipped,Classic Cars,79,Gensve,,Switzerland
+10287,23,100,2675,8/30/2004,Shipped,Classic Cars,115,Gensve,,Switzerland
+10287,41,100,6499,8/30/2004,Shipped,Classic Cars,141,Gensve,,Switzerland
+10287,44,82.39,3625,8/30/2004,Shipped,Classic Cars,77,Gensve,,Switzerland
+10287,24,100,3516,8/30/2004,Shipped,Classic Cars,142,Gensve,,Switzerland
+10287,44,100,5053,8/30/2004,Shipped,Classic Cars,132,Gensve,,Switzerland
+10287,36,100,5853,8/30/2004,Shipped,Classic Cars,169,Gensve,,Switzerland
+10287,43,70.76,3043,8/30/2004,Shipped,Classic Cars,80,Gensve,,Switzerland
+10287,40,100,6762,8/30/2004,Shipped,Classic Cars,146,Gensve,,Switzerland
+10287,27,100,4311,8/30/2004,Shipped,Classic Cars,141,Gensve,,Switzerland
+10287,34,100,4300,8/30/2004,Shipped,Classic Cars,148,Gensve,,Switzerland
+10287,36,39.65,1427,8/30/2004,Shipped,Classic Cars,37,Gensve,,Switzerland
+10287,20,67.97,1359,8/30/2004,Shipped,Classic Cars,61,Gensve,,Switzerland
+10287,36,100,4297,8/30/2004,Shipped,Classic Cars,140,Gensve,,Switzerland
+10287,40,88.12,3525,8/30/2004,Shipped,Classic Cars,80,Gensve,,Switzerland
+10288,20,100,2937,9/1/2004,Shipped,Classic Cars,124,Singapore,,Singapore
+10288,32,100,5875,9/1/2004,Shipped,Vintage Cars,170,Singapore,,Singapore
+10288,28,61.75,1729,9/1/2004,Shipped,Vintage Cars,60,Singapore,,Singapore
+10288,31,100,3823,9/1/2004,Shipped,Vintage Cars,127,Singapore,,Singapore
+10288,35,80.99,2835,9/1/2004,Shipped,Vintage Cars,92,Singapore,,Singapore
+10288,23,73.41,1688,9/1/2004,Shipped,Classic Cars,71,Singapore,,Singapore
+10288,36,66.14,2381,9/1/2004,Shipped,Classic Cars,73,Singapore,,Singapore
+10288,50,52.32,2616,9/1/2004,Shipped,Classic Cars,50,Singapore,,Singapore
+10288,29,38.17,1107,9/1/2004,Shipped,Vintage Cars,33,Singapore,,Singapore
+10288,35,80.87,2830,9/1/2004,Shipped,Classic Cars,90,Singapore,,Singapore
+10288,48,100,6539,9/1/2004,Shipped,Classic Cars,117,Singapore,,Singapore
+10288,34,68.49,2329,9/1/2004,Shipped,Classic Cars,85,Singapore,,Singapore
+10288,41,100,4873,9/1/2004,Shipped,Classic Cars,107,Singapore,,Singapore
+10288,33,40.62,1340,9/1/2004,Shipped,Vintage Cars,41,Singapore,,Singapore
+10289,38,100,4568,9/3/2004,Shipped,Vintage Cars,102,Bergen,,Norway
+10289,24,56.07,1346,9/3/2004,Shipped,Vintage Cars,53,Bergen,,Norway
+10289,43,100,8272,9/3/2004,Shipped,Vintage Cars,168,Bergen,,Norway
+10289,45,48.38,2177,9/3/2004,Shipped,Vintage Cars,44,Bergen,,Norway
+10290,26,96.23,2502,9/7/2004,Shipped,Vintage Cars,99,Brickhaven,MA,USA
+10290,45,100,5171,9/7/2004,Shipped,Vintage Cars,97,Brickhaven,MA,USA
+10291,37,100,7136,9/8/2004,Shipped,Classic Cars,214,Boras,,Sweden
+10291,30,100,3856,9/8/2004,Shipped,Classic Cars,147,Boras,,Sweden
+10291,41,100,6388,9/8/2004,Shipped,Trucks and Buses,136,Boras,,Sweden
+10292,21,100,2215,9/8/2004,Shipped,Trucks and Buses,118,NYC,NY,USA
+10291,41,100,4688,9/8/2004,Shipped,Trucks and Buses,116,Boras,,Sweden
+10292,26,100,4555,9/8/2004,Shipped,Classic Cars,163,NYC,NY,USA
+10292,41,100,4529,9/8/2004,Shipped,Trucks and Buses,122,NYC,NY,USA
+10291,26,57.73,1501,9/8/2004,Shipped,Trucks and Buses,60,Boras,,Sweden
+10291,47,100,5714,9/8/2004,Shipped,Vintage Cars,101,Boras,,Sweden
+10291,37,50.59,1872,9/8/2004,Shipped,Vintage Cars,62,Boras,,Sweden
+10291,23,100,2866,9/8/2004,Shipped,Vintage Cars,104,Boras,,Sweden
+10292,21,100,2845,9/8/2004,Shipped,Classic Cars,169,NYC,NY,USA
+10292,44,100,7141,9/8/2004,Shipped,Classic Cars,143,NYC,NY,USA
+10291,48,100,5289,9/8/2004,Shipped,Trucks and Buses,121,Boras,,Sweden
+10291,29,51.82,1503,9/8/2004,Shipped,Vintage Cars,50,Boras,,Sweden
+10292,40,53.75,2150,9/8/2004,Shipped,Classic Cars,57,NYC,NY,USA
+10291,48,100,5398,9/8/2004,Shipped,Trucks and Buses,127,Boras,,Sweden
+10292,39,30.06,1172,9/8/2004,Shipped,Classic Cars,35,NYC,NY,USA
+10292,27,100,3832,9/8/2004,Shipped,Classic Cars,118,NYC,NY,USA
+10291,26,83.79,2179,9/8/2004,Shipped,Trucks and Buses,96,Boras,,Sweden
+10292,50,46.53,2327,9/8/2004,Shipped,Trucks and Buses,54,NYC,NY,USA
+10292,31,67.73,2100,9/8/2004,Shipped,Trains,62,NYC,NY,USA
+10291,32,71.75,2296,9/8/2004,Shipped,Trucks and Buses,64,Boras,,Sweden
+10292,41,100,4983,9/8/2004,Shipped,Trucks and Buses,115,NYC,NY,USA
+10292,35,55.07,1927,9/8/2004,Shipped,Trains,58,NYC,NY,USA
+10291,28,100,3257,9/8/2004,Shipped,Classic Cars,101,Boras,,Sweden
+10293,46,100,8412,9/9/2004,Shipped,Classic Cars,207,Torino,,Italy
+10293,24,100,4242,9/9/2004,Shipped,Classic Cars,151,Torino,,Italy
+10293,45,100,8253,9/9/2004,Shipped,Classic Cars,173,Torino,,Italy
+10293,24,100,2819,9/9/2004,Shipped,Vintage Cars,136,Torino,,Italy
+10293,22,100,2418,9/9/2004,Shipped,Trains,100,Torino,,Italy
+10293,49,100,4946,9/9/2004,Shipped,Vintage Cars,87,Torino,,Italy
+10293,21,100,2942,9/9/2004,Shipped,Ships,122,Torino,,Italy
+10293,29,71.89,2085,9/9/2004,Shipped,Ships,86,Torino,,Italy
+10293,32,60.06,1922,9/9/2004,Shipped,Ships,54,Torino,,Italy
+10295,24,100,3427,9/10/2004,Shipped,Classic Cars,136,Boston,MA,USA
+10295,46,84.97,3909,9/10/2004,Shipped,Vintage Cars,88,Boston,MA,USA
+10295,26,75.34,1959,9/10/2004,Shipped,Ships,66,Boston,MA,USA
+10295,44,58.55,2576,9/10/2004,Shipped,Ships,72,Boston,MA,USA
+10295,34,100,3474,9/10/2004,Shipped,Ships,100,Boston,MA,USA
+10294,45,100,4693,9/10/2004,Shipped,Ships,99,Brickhaven,MA,USA
+10296,36,100,5677,9/15/2004,Shipped,Planes,157,Munich,,Germany
+10296,21,96.34,2023,9/15/2004,Shipped,Ships,86,Munich,,Germany
+10296,22,84.7,1863,9/15/2004,Shipped,Vintage Cars,105,Munich,,Germany
+10296,21,71.25,1496,9/15/2004,Shipped,Planes,68,Munich,,Germany
+10296,31,53.92,1672,9/15/2004,Shipped,Vintage Cars,65,Munich,,Germany
+10296,22,77.15,1697,9/15/2004,Shipped,Vintage Cars,83,Munich,,Germany
+10296,32,71.65,2293,9/15/2004,Shipped,Planes,68,Munich,,Germany
+10296,26,48.44,1259,9/15/2004,Shipped,Vintage Cars,43,Munich,,Germany
+10296,42,100,4297,9/15/2004,Shipped,Planes,91,Munich,,Germany
+10296,34,100,3478,9/15/2004,Shipped,Ships,90,Munich,,Germany
+10296,24,100,2441,9/15/2004,Shipped,Planes,99,Munich,,Germany
+10296,22,80.8,1778,9/15/2004,Shipped,Planes,80,Munich,,Germany
+10296,47,86.62,4071,9/15/2004,Shipped,Planes,74,Munich,,Germany
+10296,21,45.19,949,9/15/2004,Shipped,Planes,49,Munich,,Germany
+10297,25,82.79,2070,9/16/2004,Shipped,Planes,84,Dublin,,Ireland
+10297,32,100,4062,9/16/2004,Shipped,Planes,109,Dublin,,Ireland
+10297,32,65.51,2096,9/16/2004,Shipped,Motorcycles,76,Dublin,,Ireland
+10297,23,72.45,1666,9/16/2004,Shipped,Planes,72,Dublin,,Ireland
+10297,26,100,2857,9/16/2004,Shipped,Motorcycles,99,Dublin,,Ireland
+10297,28,79.8,2234,9/16/2004,Shipped,Vintage Cars,68,Dublin,,Ireland
+10297,35,100,3987,9/16/2004,Shipped,Planes,118,Dublin,,Ireland
+10298,39,96.34,3757,9/27/2004,Shipped,Motorcycles,118,Nantes,,France
+10298,32,48.46,1551,9/27/2004,Shipped,Motorcycles,60,Nantes,,France
+10299,23,100,2597,9/30/2004,Shipped,Motorcycles,95,Helsinki,,Finland
+10299,29,100,6683,9/30/2004,Shipped,Motorcycles,193,Helsinki,,Finland
+10299,24,100,4157,9/30/2004,Shipped,Motorcycles,150,Helsinki,,Finland
+10299,39,55.95,2182,9/30/2004,Shipped,Motorcycles,62,Helsinki,,Finland
+10299,49,100,7947,9/30/2004,Shipped,Classic Cars,148,Helsinki,,Finland
+10299,47,100,5456,9/30/2004,Shipped,Motorcycles,112,Helsinki,,Finland
+10299,33,66.49,2194,9/30/2004,Shipped,Motorcycles,69,Helsinki,,Finland
+10299,32,80.84,2587,9/30/2004,Shipped,Classic Cars,80,Helsinki,,Finland
+10299,24,42.24,1014,9/30/2004,Shipped,Motorcycles,40,Helsinki,,Finland
+10299,38,100,4382,9/30/2004,Shipped,Motorcycles,102,Helsinki,,Finland
+10299,44,80.55,3544,9/30/2004,Shipped,Motorcycles,81,Helsinki,,Finland
+10303,46,49.04,2256,10/6/2004,Shipped,Vintage Cars,60,Sevilla,,Spain
+10303,24,40.21,965,10/6/2004,Shipped,Vintage Cars,41,Sevilla,,Spain
+10304,47,100,10173,10/11/2004,Shipped,Classic Cars,214,Versailles,,France
+10304,39,100,6396,10/11/2004,Shipped,Trucks and Buses,136,Versailles,,France
+10304,46,98,4508,10/11/2004,Shipped,Trucks and Buses,116,Versailles,,France
+10304,37,95.55,3535,10/11/2004,Shipped,Vintage Cars,102,Versailles,,France
+10304,37,48.52,1795,10/11/2004,Shipped,Vintage Cars,53,Versailles,,France
+10304,24,100,2441,10/11/2004,Shipped,Vintage Cars,127,Versailles,,France
+10304,20,100,3578,10/11/2004,Shipped,Vintage Cars,168,Versailles,,France
+10304,46,100,4614,10/11/2004,Shipped,Vintage Cars,101,Versailles,,France
+10304,24,64.96,1559,10/11/2004,Shipped,Vintage Cars,62,Versailles,,France
+10304,26,85.87,2233,10/11/2004,Shipped,Vintage Cars,104,Versailles,,France
+10304,38,100,3958,10/11/2004,Shipped,Vintage Cars,99,Versailles,,France
+10304,34,49.3,1676,10/11/2004,Shipped,Vintage Cars,50,Versailles,,France
+10304,23,30.2,695,10/11/2004,Shipped,Vintage Cars,33,Versailles,,France
+10304,44,39.42,1734,10/11/2004,Shipped,Vintage Cars,44,Versailles,,France
+10304,33,100,3343,10/11/2004,Shipped,Vintage Cars,97,Versailles,,France
+10304,36,73.04,2629,10/11/2004,Shipped,Trucks and Buses,64,Versailles,,France
+10304,40,100,4208,10/11/2004,Shipped,Classic Cars,101,Versailles,,France
+10305,38,100,6681,10/13/2004,Shipped,Classic Cars,147,Cambridge,MA,USA
+10305,38,100,4773,10/13/2004,Shipped,Trucks and Buses,118,Cambridge,MA,USA
+10305,27,100,3934,10/13/2004,Shipped,Classic Cars,163,Cambridge,MA,USA
+10305,36,100,4816,10/13/2004,Shipped,Trucks and Buses,122,Cambridge,MA,USA
+10305,41,53.48,2193,10/13/2004,Shipped,Trucks and Buses,60,Cambridge,MA,USA
+10305,37,100,7456,10/13/2004,Shipped,Classic Cars,169,Cambridge,MA,USA
+10305,22,99.29,2184,10/13/2004,Shipped,Trucks and Buses,121,Cambridge,MA,USA
+10305,45,61.85,2783,10/13/2004,Shipped,Classic Cars,57,Cambridge,MA,USA
+10305,24,100,3190,10/13/2004,Shipped,Trucks and Buses,127,Cambridge,MA,USA
+10305,48,31.47,1511,10/13/2004,Shipped,Classic Cars,35,Cambridge,MA,USA
+10305,36,100,4641,10/13/2004,Shipped,Classic Cars,118,Cambridge,MA,USA
+10305,28,100,3155,10/13/2004,Shipped,Trucks and Buses,96,Cambridge,MA,USA
+10305,40,57.9,2316,10/13/2004,Shipped,Trucks and Buses,54,Cambridge,MA,USA
+10305,42,100,4618,10/13/2004,Shipped,Trucks and Buses,115,Cambridge,MA,USA
+10307,22,100,2693,10/14/2004,Shipped,Classic Cars,136,Philadelphia,PA,USA
+10306,31,100,6571,10/14/2004,Shipped,Classic Cars,207,Manchester,,UK
+10306,34,100,4983,10/14/2004,Shipped,Classic Cars,151,Manchester,,UK
+10306,20,100,3633,10/14/2004,Shipped,Classic Cars,173,Manchester,,UK
+10307,39,100,7380,10/14/2004,Shipped,Planes,157,Philadelphia,PA,USA
+10307,31,83.44,2587,10/14/2004,Shipped,Ships,86,Philadelphia,PA,USA
+10306,32,100,3759,10/14/2004,Shipped,Vintage Cars,136,Manchester,,UK
+10306,40,91.76,3670,10/14/2004,Shipped,Trains,100,Manchester,,UK
+10307,48,86.81,4167,10/14/2004,Shipped,Vintage Cars,105,Philadelphia,PA,USA
+10306,23,100,3601,10/14/2004,Shipped,Classic Cars,143,Manchester,,UK
+10306,39,90.4,3526,10/14/2004,Shipped,Vintage Cars,87,Manchester,,UK
+10306,29,100,3207,10/14/2004,Shipped,Ships,122,Manchester,,UK
+10307,25,75.36,1884,10/14/2004,Shipped,Planes,68,Philadelphia,PA,USA
+10306,31,84.08,2606,10/14/2004,Shipped,Vintage Cars,88,Manchester,,UK
+10307,22,71.67,1577,10/14/2004,Shipped,Vintage Cars,65,Philadelphia,PA,USA
+10307,22,91.41,2011,10/14/2004,Shipped,Vintage Cars,83,Philadelphia,PA,USA
+10306,46,50.33,2315,10/14/2004,Shipped,Trains,62,Manchester,,UK
+10306,34,60.34,2052,10/14/2004,Shipped,Trains,58,Manchester,,UK
+10306,50,54,2700,10/14/2004,Shipped,Ships,66,Manchester,,UK
+10306,38,91.81,3489,10/14/2004,Shipped,Ships,86,Manchester,,UK
+10307,34,97.76,3324,10/14/2004,Shipped,Ships,90,Philadelphia,PA,USA
+10306,43,75.17,3232,10/14/2004,Shipped,Ships,72,Manchester,,UK
+10306,32,90.15,2885,10/14/2004,Shipped,Ships,100,Manchester,,UK
+10306,30,100,3516,10/14/2004,Shipped,Ships,99,Manchester,,UK
+10307,34,53.63,1823,10/14/2004,Shipped,Planes,49,Philadelphia,PA,USA
+10306,35,59.51,2083,10/14/2004,Shipped,Ships,54,Manchester,,UK
+10309,41,100,4394,10/15/2004,Shipped,Motorcycles,95,Stavern,,Norway
+10308,34,100,4044,10/15/2004,Shipped,Motorcycles,118,White Plains,NY,USA
+10308,20,100,4570,10/15/2004,Shipped,Motorcycles,193,White Plains,NY,USA
+10309,26,100,4660,10/15/2004,Shipped,Motorcycles,150,Stavern,,Norway
+10308,27,82.79,2235,10/15/2004,Shipped,Planes,84,White Plains,NY,USA
+10308,34,52.09,1771,10/15/2004,Shipped,Motorcycles,60,White Plains,NY,USA
+10309,21,100,2651,10/15/2004,Shipped,Motorcycles,112,Stavern,,Norway
+10308,31,100,3494,10/15/2004,Shipped,Planes,109,White Plains,NY,USA
+10308,47,63.22,2971,10/15/2004,Shipped,Motorcycles,76,White Plains,NY,USA
+10309,24,56.1,1346,10/15/2004,Shipped,Motorcycles,69,Stavern,,Norway
+10308,43,76.43,3286,10/15/2004,Shipped,Planes,68,White Plains,NY,USA
+10308,44,83.32,3666,10/15/2004,Shipped,Planes,72,White Plains,NY,USA
+10308,24,79.91,1918,10/15/2004,Shipped,Motorcycles,99,White Plains,NY,USA
+10308,46,66.04,3038,10/15/2004,Shipped,Vintage Cars,68,White Plains,NY,USA
+10309,50,84.7,4235,10/15/2004,Shipped,Motorcycles,102,Stavern,,Norway
+10308,47,43.64,2051,10/15/2004,Shipped,Vintage Cars,43,White Plains,NY,USA
+10309,28,88.68,2483,10/15/2004,Shipped,Motorcycles,81,Stavern,,Norway
+10308,21,100,2225,10/15/2004,Shipped,Planes,91,White Plains,NY,USA
+10308,35,88.75,3106,10/15/2004,Shipped,Planes,99,White Plains,NY,USA
+10308,31,100,4009,10/15/2004,Shipped,Planes,118,White Plains,NY,USA
+10308,21,87.2,1831,10/15/2004,Shipped,Planes,80,White Plains,NY,USA
+10308,39,68.11,2656,10/15/2004,Shipped,Planes,74,White Plains,NY,USA
+10310,33,100,6935,10/16/2004,Shipped,Classic Cars,194,Koln,,Germany
+10310,24,100,3100,10/16/2004,Shipped,Classic Cars,117,Koln,,Germany
+10310,49,81.4,3989,10/16/2004,Shipped,Classic Cars,79,Koln,,Germany
+10310,25,100,2505,10/16/2004,Shipped,Classic Cars,115,Koln,,Germany
+10310,37,100,6232,10/16/2004,Shipped,Classic Cars,141,Koln,,Germany
+10311,29,100,2923,10/16/2004,Shipped,Classic Cars,124,Madrid,,Spain
+10310,20,91.63,1833,10/16/2004,Shipped,Classic Cars,77,Koln,,Germany
+10310,24,100,3448,10/16/2004,Shipped,Classic Cars,142,Koln,,Germany
+10311,43,100,5279,10/16/2004,Shipped,Classic Cars,132,Madrid,,Spain
+10310,48,100,8941,10/16/2004,Shipped,Classic Cars,169,Koln,,Germany
+10310,27,80.41,2171,10/16/2004,Shipped,Classic Cars,80,Koln,,Germany
+10310,49,100,6266,10/16/2004,Shipped,Classic Cars,146,Koln,,Germany
+10311,32,100,3617,10/16/2004,Shipped,Classic Cars,141,Madrid,,Spain
+10310,42,67.14,2820,10/16/2004,Shipped,Motorcycles,62,Koln,,Germany
+10311,41,81.91,3358,10/16/2004,Shipped,Vintage Cars,92,Madrid,,Spain
+10310,40,100,5357,10/16/2004,Shipped,Classic Cars,148,Koln,,Germany
+10311,25,66.99,1675,10/16/2004,Shipped,Classic Cars,71,Madrid,,Spain
+10311,26,87.45,2274,10/16/2004,Shipped,Classic Cars,73,Madrid,,Spain
+10311,45,49.3,2219,10/16/2004,Shipped,Classic Cars,50,Madrid,,Spain
+10311,28,93.6,2621,10/16/2004,Shipped,Classic Cars,90,Madrid,,Spain
+10311,43,100,4595,10/16/2004,Shipped,Classic Cars,117,Madrid,,Spain
+10310,33,41.91,1383,10/16/2004,Shipped,Classic Cars,37,Koln,,Germany
+10311,25,83.04,2076,10/16/2004,Shipped,Classic Cars,85,Madrid,,Spain
+10310,38,56.94,2164,10/16/2004,Shipped,Classic Cars,61,Koln,,Germany
+10311,46,92.09,4236,10/16/2004,Shipped,Classic Cars,107,Madrid,,Spain
+10310,45,100,5498,10/16/2004,Shipped,Classic Cars,140,Koln,,Germany
+10310,49,97.01,4753,10/16/2004,Shipped,Classic Cars,80,Koln,,Germany
+10310,36,43.05,1550,10/16/2004,Shipped,Motorcycles,40,Koln,,Germany
+10312,48,100,11624,10/21/2004,Shipped,Classic Cars,214,San Rafael,CA,USA
+10312,32,100,4181,10/21/2004,Shipped,Trucks and Buses,116,San Rafael,CA,USA
+10312,43,89.38,3843,10/21/2004,Shipped,Vintage Cars,102,San Rafael,CA,USA
+10312,25,44.21,1105,10/21/2004,Shipped,Vintage Cars,53,San Rafael,CA,USA
+10312,48,100,8078,10/21/2004,Shipped,Vintage Cars,170,San Rafael,CA,USA
+10312,30,61.15,1835,10/21/2004,Shipped,Vintage Cars,60,San Rafael,CA,USA
+10312,31,100,4729,10/21/2004,Shipped,Vintage Cars,127,San Rafael,CA,USA
+10312,25,100,3881,10/21/2004,Shipped,Vintage Cars,168,San Rafael,CA,USA
+10312,37,100,3711,10/21/2004,Shipped,Vintage Cars,101,San Rafael,CA,USA
+10312,35,53.72,1880,10/21/2004,Shipped,Vintage Cars,62,San Rafael,CA,USA
+10312,38,100,4457,10/21/2004,Shipped,Vintage Cars,104,San Rafael,CA,USA
+10312,33,100,3536,10/21/2004,Shipped,Vintage Cars,99,San Rafael,CA,USA
+10312,39,56.85,2217,10/21/2004,Shipped,Vintage Cars,50,San Rafael,CA,USA
+10312,39,29.54,1152,10/21/2004,Shipped,Vintage Cars,33,San Rafael,CA,USA
+10312,23,37.63,865,10/21/2004,Shipped,Vintage Cars,44,San Rafael,CA,USA
+10312,31,35.29,1094,10/21/2004,Shipped,Vintage Cars,41,San Rafael,CA,USA
+10312,44,100,4885,10/21/2004,Shipped,Vintage Cars,97,San Rafael,CA,USA
+10313,40,100,6678,10/22/2004,Shipped,Classic Cars,147,Vancouver,BC,Canada
+10314,38,100,7975,10/22/2004,Shipped,Classic Cars,207,Aaarhus,,Denmark
+10313,21,100,2669,10/22/2004,Shipped,Trucks and Buses,136,Vancouver,BC,Canada
+10314,46,100,6394,10/22/2004,Shipped,Classic Cars,151,Aaarhus,,Denmark
+10314,36,100,6914,10/22/2004,Shipped,Classic Cars,173,Aaarhus,,Denmark
+10314,45,100,6186,10/22/2004,Shipped,Trucks and Buses,118,Aaarhus,,Denmark
+10314,42,100,5776,10/22/2004,Shipped,Classic Cars,163,Aaarhus,,Denmark
+10313,29,100,3417,10/22/2004,Shipped,Trucks and Buses,122,Vancouver,BC,Canada
+10313,34,52.87,1798,10/22/2004,Shipped,Trucks and Buses,60,Vancouver,BC,Canada
+10314,20,100,2732,10/22/2004,Shipped,Vintage Cars,136,Aaarhus,,Denmark
+10313,25,100,4572,10/22/2004,Shipped,Classic Cars,169,Vancouver,BC,Canada
+10314,23,100,2482,10/22/2004,Shipped,Trains,100,Aaarhus,,Denmark
+10314,29,100,4207,10/22/2004,Shipped,Classic Cars,143,Aaarhus,,Denmark
+10313,28,100,2882,10/22/2004,Shipped,Trucks and Buses,121,Vancouver,BC,Canada
+10314,44,53.18,2340,10/22/2004,Shipped,Classic Cars,57,Aaarhus,,Denmark
+10313,42,100,5582,10/22/2004,Shipped,Trucks and Buses,127,Vancouver,BC,Canada
+10314,39,37.13,1448,10/22/2004,Shipped,Classic Cars,35,Aaarhus,,Denmark
+10314,38,100,4000,10/22/2004,Shipped,Classic Cars,118,Aaarhus,,Denmark
+10313,27,87.64,2366,10/22/2004,Shipped,Trucks and Buses,96,Vancouver,BC,Canada
+10313,38,45.45,1727,10/22/2004,Shipped,Trucks and Buses,54,Vancouver,BC,Canada
+10314,35,66.49,2327,10/22/2004,Shipped,Trains,62,Aaarhus,,Denmark
+10313,34,56.24,1912,10/22/2004,Shipped,Trucks and Buses,64,Vancouver,BC,Canada
+10314,28,100,3403,10/22/2004,Shipped,Trucks and Buses,115,Aaarhus,,Denmark
+10314,38,61.51,2337,10/22/2004,Shipped,Trains,58,Aaarhus,,Denmark
+10314,23,76.22,1753,10/22/2004,Shipped,Ships,86,Aaarhus,,Denmark
+10313,30,99.13,2974,10/22/2004,Shipped,Classic Cars,101,Vancouver,BC,Canada
+10315,36,100,3602,10/29/2004,Shipped,Vintage Cars,87,Nantes,,France
+10315,35,100,4215,10/29/2004,Shipped,Ships,122,Nantes,,France
+10315,24,86.74,2082,10/29/2004,Shipped,Vintage Cars,88,Nantes,,France
+10315,41,62,2542,10/29/2004,Shipped,Ships,66,Nantes,,France
+10315,31,86.15,2671,10/29/2004,Shipped,Ships,100,Nantes,,France
+10315,37,91.37,3381,10/29/2004,Shipped,Ships,99,Nantes,,France
+10315,40,55.69,2228,10/29/2004,Shipped,Ships,54,Nantes,,France
+10316,33,100,4129,11/1/2004,Shipped,Classic Cars,136,Cowes,Isle of Wight,UK
+10348,48,52.36,2513,11/1/2004,Shipped,Classic Cars,207,Madrid,,Spain
+10348,47,100,4802,11/1/2004,Shipped,Classic Cars,151,Madrid,,Spain
+10316,27,100,3704,11/1/2004,Shipped,Planes,157,Cowes,Isle of Wight,UK
+10316,21,94.62,1987,11/1/2004,Shipped,Ships,86,Cowes,Isle of Wight,UK
+10316,47,86.81,4080,11/1/2004,Shipped,Vintage Cars,105,Cowes,Isle of Wight,UK
+10348,29,100,7111,11/1/2004,Shipped,Vintage Cars,50,Madrid,,Spain
+10316,25,100,2872,11/1/2004,Shipped,Planes,109,Cowes,Isle of Wight,UK
+10348,37,100,5981,11/1/2004,Shipped,Trucks and Buses,127,Madrid,,Spain
+10316,34,63.71,2166,11/1/2004,Shipped,Planes,68,Cowes,Isle of Wight,UK
+10316,47,76.93,3616,11/1/2004,Shipped,Vintage Cars,65,Cowes,Isle of Wight,UK
+10316,25,92.25,2306,11/1/2004,Shipped,Vintage Cars,83,Cowes,Isle of Wight,UK
+10316,30,77.79,2334,11/1/2004,Shipped,Planes,68,Cowes,Isle of Wight,UK
+10348,39,50.31,1962,11/1/2004,Shipped,Vintage Cars,97,Madrid,,Spain
+10348,42,100,6387,11/1/2004,Shipped,Trucks and Buses,96,Madrid,,Spain
+10348,31,100,3140,11/1/2004,Shipped,Trucks and Buses,64,Madrid,,Spain
+10316,24,59.16,1420,11/1/2004,Shipped,Vintage Cars,68,Cowes,Isle of Wight,UK
+10316,34,47.57,1617,11/1/2004,Shipped,Vintage Cars,43,Cowes,Isle of Wight,UK
+10316,34,82.21,2795,11/1/2004,Shipped,Planes,91,Cowes,Isle of Wight,UK
+10316,45,93.24,4196,11/1/2004,Shipped,Ships,90,Cowes,Isle of Wight,UK
+10316,23,100,2706,11/1/2004,Shipped,Planes,99,Cowes,Isle of Wight,UK
+10316,48,74.45,3574,11/1/2004,Shipped,Ships,72,Cowes,Isle of Wight,UK
+10348,32,82.83,2651,11/1/2004,Shipped,Classic Cars,101,Madrid,,Spain
+10316,48,75.2,3610,11/1/2004,Shipped,Planes,80,Cowes,Isle of Wight,UK
+10316,44,62.19,2736,11/1/2004,Shipped,Planes,74,Cowes,Isle of Wight,UK
+10316,34,43.7,1486,11/1/2004,Shipped,Planes,49,Cowes,Isle of Wight,UK
+10318,46,94.74,4358,11/2/2004,Shipped,Motorcycles,95,Allentown,PA,USA
+10318,45,100,5567,11/2/2004,Shipped,Motorcycles,118,Allentown,PA,USA
+10318,37,100,7667,11/2/2004,Shipped,Motorcycles,193,Allentown,PA,USA
+10318,31,100,3116,11/2/2004,Shipped,Planes,84,Allentown,PA,USA
+10318,42,52.7,2213,11/2/2004,Shipped,Motorcycles,60,Allentown,PA,USA
+10318,48,100,6437,11/2/2004,Shipped,Motorcycles,112,Allentown,PA,USA
+10318,26,86.83,2258,11/2/2004,Shipped,Motorcycles,76,Allentown,PA,USA
+10317,35,83.32,2916,11/2/2004,Shipped,Planes,72,Burlingame,CA,USA
+10318,47,100,5305,11/2/2004,Shipped,Motorcycles,99,Allentown,PA,USA
+10318,50,100,7119,11/2/2004,Shipped,Planes,118,Allentown,PA,USA
+10320,31,100,6876,11/3/2004,Shipped,Classic Cars,194,Lule,,Sweden
+10319,30,100,4112,11/3/2004,Shipped,Motorcycles,150,NYC,NY,USA
+10320,35,100,4850,11/3/2004,Shipped,Classic Cars,117,Lule,,Sweden
+10320,38,73.42,2790,11/3/2004,Shipped,Classic Cars,79,Lule,,Sweden
+10319,46,73.98,3403,11/3/2004,Shipped,Classic Cars,80,NYC,NY,USA
+10320,25,100,3491,11/3/2004,Shipped,Classic Cars,146,Lule,,Sweden
+10319,44,59.06,2599,11/3/2004,Shipped,Motorcycles,62,NYC,NY,USA
+10319,45,100,7901,11/3/2004,Shipped,Classic Cars,148,NYC,NY,USA
+10319,31,81.73,2534,11/3/2004,Shipped,Motorcycles,69,NYC,NY,USA
+10320,26,61.23,1592,11/3/2004,Shipped,Classic Cars,61,Lule,,Sweden
+10319,43,85.69,3685,11/3/2004,Shipped,Classic Cars,80,NYC,NY,USA
+10319,29,38.22,1108,11/3/2004,Shipped,Motorcycles,40,NYC,NY,USA
+10319,22,100,2627,11/3/2004,Shipped,Motorcycles,102,NYC,NY,USA
+10319,45,77.29,3478,11/3/2004,Shipped,Motorcycles,81,NYC,NY,USA
+10322,40,100,6000,11/4/2004,Shipped,Classic Cars,214,Nashua,NH,USA
+10322,46,61.99,2852,11/4/2004,Shipped,Classic Cars,147,Nashua,NH,USA
+10322,27,100,4784,11/4/2004,Shipped,Trucks and Buses,136,Nashua,NH,USA
+10321,24,100,2985,11/4/2004,Shipped,Classic Cars,115,New Bedford,MA,USA
+10322,22,100,2251,11/4/2004,Shipped,Trucks and Buses,116,Nashua,NH,USA
+10321,41,100,5803,11/4/2004,Shipped,Classic Cars,141,New Bedford,MA,USA
+10322,43,86.3,3711,11/4/2004,Shipped,Vintage Cars,102,Nashua,NH,USA
+10322,41,57.68,2365,11/4/2004,Shipped,Vintage Cars,53,Nashua,NH,USA
+10321,44,100,4490,11/4/2004,Shipped,Classic Cars,124,New Bedford,MA,USA
+10321,37,78.54,2906,11/4/2004,Shipped,Classic Cars,77,New Bedford,MA,USA
+10321,25,100,3734,11/4/2004,Shipped,Classic Cars,142,New Bedford,MA,USA
+10322,50,100,12537,11/4/2004,Shipped,Vintage Cars,127,Nashua,NH,USA
+10322,35,61.21,2142,11/4/2004,Shipped,Trucks and Buses,60,Nashua,NH,USA
+10322,36,100,5797,11/4/2004,Shipped,Vintage Cars,168,Nashua,NH,USA
+10321,27,100,2851,11/4/2004,Shipped,Classic Cars,132,New Bedford,MA,USA
+10322,33,100,3525,11/4/2004,Shipped,Vintage Cars,101,Nashua,NH,USA
+10322,41,29.87,1225,11/4/2004,Shipped,Vintage Cars,62,Nashua,NH,USA
+10322,48,47.04,2258,11/4/2004,Shipped,Vintage Cars,104,Nashua,NH,USA
+10321,33,100,5700,11/4/2004,Shipped,Classic Cars,169,New Bedford,MA,USA
+10321,28,100,4233,11/4/2004,Shipped,Classic Cars,141,New Bedford,MA,USA
+10321,30,70.55,2117,11/4/2004,Shipped,Classic Cars,73,New Bedford,MA,USA
+10321,48,42.26,2028,11/4/2004,Shipped,Classic Cars,50,New Bedford,MA,USA
+10322,20,100,2624,11/4/2004,Shipped,Vintage Cars,33,Nashua,NH,USA
+10322,30,100,3500,11/4/2004,Shipped,Vintage Cars,44,Nashua,NH,USA
+10321,30,72.7,2181,11/4/2004,Shipped,Classic Cars,90,New Bedford,MA,USA
+10321,37,33.23,1230,11/4/2004,Shipped,Classic Cars,37,New Bedford,MA,USA
+10321,39,84.75,3305,11/4/2004,Shipped,Classic Cars,85,New Bedford,MA,USA
+10321,21,89.95,1889,11/4/2004,Shipped,Classic Cars,107,New Bedford,MA,USA
+10321,26,100,4053,11/4/2004,Shipped,Classic Cars,140,New Bedford,MA,USA
+10325,47,64.93,3052,11/5/2004,Shipped,Classic Cars,136,Stavern,,Norway
+10325,42,64,2688,11/5/2004,Shipped,Classic Cars,207,Stavern,,Norway
+10324,27,54.33,1467,11/5/2004,Shipped,Classic Cars,151,NYC,NY,USA
+10325,24,100,2584,11/5/2004,Shipped,Classic Cars,173,Stavern,,Norway
+10324,26,58.38,1518,11/5/2004,Shipped,Trucks and Buses,118,NYC,NY,USA
+10324,47,100,7207,11/5/2004,Shipped,Classic Cars,163,NYC,NY,USA
+10324,33,37.48,1237,11/5/2004,Shipped,Trucks and Buses,122,NYC,NY,USA
+10325,24,69.12,1659,11/5/2004,Shipped,Vintage Cars,136,Stavern,,Norway
+10324,27,100,3155,11/5/2004,Shipped,Classic Cars,169,NYC,NY,USA
+10323,33,91.27,3012,11/5/2004,Shipped,Vintage Cars,99,Frankfurt,,Germany
+10324,49,100,5380,11/5/2004,Shipped,Classic Cars,143,NYC,NY,USA
+10323,47,100,6203,11/5/2004,Shipped,Trucks and Buses,121,Frankfurt,,Germany
+10324,38,100,6832,11/5/2004,Shipped,Vintage Cars,50,NYC,NY,USA
+10324,25,69.16,1729,11/5/2004,Shipped,Classic Cars,57,NYC,NY,USA
+10324,31,100,3820,11/5/2004,Shipped,Trucks and Buses,127,NYC,NY,USA
+10324,30,100,3338,11/5/2004,Shipped,Classic Cars,35,NYC,NY,USA
+10325,44,100,5326,11/5/2004,Shipped,Classic Cars,118,Stavern,,Norway
+10324,33,100,6268,11/5/2004,Shipped,Vintage Cars,97,NYC,NY,USA
+10324,20,98.18,1964,11/5/2004,Shipped,Trucks and Buses,96,NYC,NY,USA
+10325,38,100,8844,11/5/2004,Shipped,Trucks and Buses,54,Stavern,,Norway
+10325,28,100,5377,11/5/2004,Shipped,Trains,62,Stavern,,Norway
+10324,48,100,8209,11/5/2004,Shipped,Trucks and Buses,64,NYC,NY,USA
+10325,38,100,5190,11/5/2004,Shipped,Trucks and Buses,115,Stavern,,Norway
+10325,44,100,5933,11/5/2004,Shipped,Trains,58,Stavern,,Norway
+10324,34,100,4248,11/5/2004,Shipped,Classic Cars,101,NYC,NY,USA
+10326,32,100,3808,11/9/2004,Shipped,Trains,100,Lule,,Sweden
+10326,50,86.01,4301,11/9/2004,Shipped,Vintage Cars,87,Lule,,Sweden
+10326,41,100,4333,11/9/2004,Shipped,Ships,122,Lule,,Sweden
+10326,41,85.85,3520,11/9/2004,Shipped,Vintage Cars,88,Lule,,Sweden
+10326,20,92.25,1845,11/9/2004,Shipped,Vintage Cars,83,Lule,,Sweden
+10326,39,60,2340,11/9/2004,Shipped,Ships,66,Lule,,Sweden
+10327,25,100,2805,11/10/2004,Resolved,Planes,157,Kobenhavn,,Denmark
+10327,45,100,4782,11/10/2004,Resolved,Planes,84,Kobenhavn,,Denmark
+10327,25,45.86,1147,11/10/2004,Resolved,Ships,86,Kobenhavn,,Denmark
+10327,20,100,3469,11/10/2004,Resolved,Ships,86,Kobenhavn,,Denmark
+10327,21,96.31,2023,11/10/2004,Resolved,Ships,72,Kobenhavn,,Denmark
+10327,43,80,3440,11/10/2004,Resolved,Ships,100,Kobenhavn,,Denmark
+10327,37,86.61,3205,11/10/2004,Resolved,Ships,99,Kobenhavn,,Denmark
+10327,37,86.74,3209,11/10/2004,Resolved,Ships,54,Kobenhavn,,Denmark
+10328,34,100,3815,11/12/2004,Shipped,Vintage Cars,105,Bergamo,,Italy
+10328,47,87.54,4114,11/12/2004,Shipped,Planes,109,Bergamo,,Italy
+10328,48,58.92,2828,11/12/2004,Shipped,Planes,68,Bergamo,,Italy
+10328,20,72.98,1460,11/12/2004,Shipped,Vintage Cars,65,Bergamo,,Italy
+10328,35,76.43,2675,11/12/2004,Shipped,Planes,68,Bergamo,,Italy
+10328,43,60.86,2617,11/12/2004,Shipped,Planes,72,Bergamo,,Italy
+10328,24,81.17,1948,11/12/2004,Shipped,Vintage Cars,68,Bergamo,,Italy
+10328,34,51.93,1766,11/12/2004,Shipped,Vintage Cars,43,Bergamo,,Italy
+10328,27,100,2762,11/12/2004,Shipped,Planes,91,Bergamo,,Italy
+10328,41,100,4157,11/12/2004,Shipped,Ships,90,Bergamo,,Italy
+10328,37,100,4022,11/12/2004,Shipped,Planes,99,Bergamo,,Italy
+10328,33,100,4072,11/12/2004,Shipped,Planes,118,Bergamo,,Italy
+10328,33,64,2112,11/12/2004,Shipped,Planes,80,Bergamo,,Italy
+10328,39,85.87,3349,11/12/2004,Shipped,Planes,74,Bergamo,,Italy
+10329,42,100,4396,11/15/2004,Shipped,Motorcycles,95,NYC,NY,USA
+10329,20,100,3176,11/15/2004,Shipped,Motorcycles,118,NYC,NY,USA
+10329,26,100,5868,11/15/2004,Shipped,Motorcycles,193,NYC,NY,USA
+10329,41,71.47,2930,11/15/2004,Shipped,Classic Cars,194,NYC,NY,USA
+10329,24,100,3543,11/15/2004,Shipped,Motorcycles,150,NYC,NY,USA
+10329,46,83.63,3847,11/15/2004,Shipped,Classic Cars,117,NYC,NY,USA
+10329,33,100,3608,11/15/2004,Shipped,Classic Cars,79,NYC,NY,USA
+10329,39,64.74,2525,11/15/2004,Shipped,Classic Cars,115,NYC,NY,USA
+10329,29,100,2955,11/15/2004,Shipped,Classic Cars,77,NYC,NY,USA
+10329,38,100,5266,11/15/2004,Shipped,Motorcycles,60,NYC,NY,USA
+10329,38,59.1,2246,11/15/2004,Shipped,Classic Cars,80,NYC,NY,USA
+10329,30,87.78,2633,11/15/2004,Shipped,Motorcycles,112,NYC,NY,USA
+10329,37,94.43,3494,11/15/2004,Shipped,Motorcycles,76,NYC,NY,USA
+10329,45,63.91,2876,11/15/2004,Shipped,Motorcycles,99,NYC,NY,USA
+10329,44,86.13,3790,11/15/2004,Shipped,Planes,49,NYC,NY,USA
+10330,37,100,4405,11/16/2004,Shipped,Classic Cars,146,Makati City,,Philippines
+10330,29,69.63,2019,11/16/2004,Shipped,Motorcycles,62,Makati City,,Philippines
+10330,50,100,6101,11/16/2004,Shipped,Classic Cars,148,Makati City,,Philippines
+10330,42,81.03,3403,11/16/2004,Shipped,Motorcycles,69,Makati City,,Philippines
+10331,46,100,6434,11/17/2004,Shipped,Classic Cars,141,Philadelphia,PA,USA
+10332,46,95.13,4376,11/17/2004,Shipped,Vintage Cars,102,Manchester,,UK
+10332,27,89.89,2427,11/17/2004,Shipped,Vintage Cars,53,Manchester,,UK
+10331,44,100,4849,11/17/2004,Shipped,Classic Cars,124,Philadelphia,PA,USA
+10331,44,74.04,3258,11/17/2004,Shipped,Vintage Cars,170,Philadelphia,PA,USA
+10331,30,32.47,974,11/17/2004,Shipped,Classic Cars,142,Philadelphia,PA,USA
+10332,38,84.25,3202,11/17/2004,Shipped,Vintage Cars,60,Manchester,,UK
+10332,35,64.69,2264,11/17/2004,Shipped,Vintage Cars,127,Manchester,,UK
+10332,24,52.67,1264,11/17/2004,Shipped,Vintage Cars,168,Manchester,,UK
+10331,26,64.9,1687,11/17/2004,Shipped,Classic Cars,132,Philadelphia,PA,USA
+10332,26,100,2979,11/17/2004,Shipped,Vintage Cars,62,Manchester,,UK
+10332,40,39.8,1592,11/17/2004,Shipped,Vintage Cars,104,Manchester,,UK
+10331,27,100,4171,11/17/2004,Shipped,Classic Cars,169,Philadelphia,PA,USA
+10331,26,67.91,1766,11/17/2004,Shipped,Classic Cars,141,Philadelphia,PA,USA
+10332,50,100,7310,11/17/2004,Shipped,Vintage Cars,92,Manchester,,UK
+10332,21,100,3473,11/17/2004,Shipped,Classic Cars,71,Manchester,,UK
+10332,23,56.84,1307,11/17/2004,Shipped,Classic Cars,73,Manchester,,UK
+10332,20,87.96,1759,11/17/2004,Shipped,Classic Cars,50,Manchester,,UK
+10332,45,81.91,3686,11/17/2004,Shipped,Vintage Cars,33,Manchester,,UK
+10332,26,85.52,2224,11/17/2004,Shipped,Vintage Cars,44,Manchester,,UK
+10332,39,86.72,3382,11/17/2004,Shipped,Classic Cars,90,Manchester,,UK
+10332,44,42.26,1859,11/17/2004,Shipped,Classic Cars,117,Manchester,,UK
+10331,27,42.24,1140,11/17/2004,Shipped,Classic Cars,37,Philadelphia,PA,USA
+10332,45,34.19,1539,11/17/2004,Shipped,Classic Cars,85,Manchester,,UK
+10331,25,100,3079,11/17/2004,Shipped,Classic Cars,61,Philadelphia,PA,USA
+10332,31,37.18,1153,11/17/2004,Shipped,Classic Cars,107,Manchester,,UK
+10331,21,100,3136,11/17/2004,Shipped,Classic Cars,140,Philadelphia,PA,USA
+10332,41,77.24,3167,11/17/2004,Shipped,Vintage Cars,41,Manchester,,UK
+10331,41,100,5715,11/17/2004,Shipped,Classic Cars,80,Philadelphia,PA,USA
+10331,28,100,4103,11/17/2004,Shipped,Motorcycles,40,Philadelphia,PA,USA
+10331,32,100,5027,11/17/2004,Shipped,Motorcycles,102,Philadelphia,PA,USA
+10331,20,100,3658,11/17/2004,Shipped,Motorcycles,81,Philadelphia,PA,USA
+10333,26,100,3003,11/18/2004,Shipped,Classic Cars,214,San Francisco,CA,USA
+10333,33,99.21,3274,11/18/2004,Shipped,Trucks and Buses,136,San Francisco,CA,USA
+10333,29,40.25,1167,11/18/2004,Shipped,Trucks and Buses,116,San Francisco,CA,USA
+10333,31,90.17,2795,11/18/2004,Shipped,Vintage Cars,101,San Francisco,CA,USA
+10333,46,100,11337,11/18/2004,Shipped,Vintage Cars,99,San Francisco,CA,USA
+10333,24,79.86,1917,11/18/2004,Shipped,Vintage Cars,50,San Francisco,CA,USA
+10333,39,100,4424,11/18/2004,Shipped,Vintage Cars,97,San Francisco,CA,USA
+10333,33,73.69,2432,11/18/2004,Shipped,Trucks and Buses,64,San Francisco,CA,USA
+10334,26,100,3188,11/19/2004,On Hold,Classic Cars,147,Lule,,Sweden
+10334,46,100,5815,11/19/2004,On Hold,Trucks and Buses,122,Lule,,Sweden
+10334,34,61.38,2087,11/19/2004,On Hold,Trucks and Buses,60,Lule,,Sweden
+10334,20,100,2879,11/19/2004,On Hold,Classic Cars,169,Lule,,Sweden
+10334,49,100,6763,11/19/2004,On Hold,Trucks and Buses,121,Lule,,Sweden
+10334,42,100,5528,11/19/2004,On Hold,Trucks and Buses,127,Lule,,Sweden
+10335,33,37.13,1225,11/19/2004,Shipped,Classic Cars,35,San Rafael,CA,USA
+10335,44,100,4746,11/19/2004,Shipped,Trucks and Buses,96,San Rafael,CA,USA
+10335,40,60.6,2424,11/19/2004,Shipped,Trucks and Buses,54,San Rafael,CA,USA
+10336,33,57.22,1888,11/20/2004,Shipped,Classic Cars,207,Paris,,France
+10336,33,100,4059,11/20/2004,Shipped,Classic Cars,151,Paris,,France
+10336,49,63.38,3106,11/20/2004,Shipped,Classic Cars,173,Paris,,France
+10336,38,100,6373,11/20/2004,Shipped,Trucks and Buses,118,Paris,,France
+10336,49,100,7461,11/20/2004,Shipped,Classic Cars,163,Paris,,France
+10336,48,100,5778,11/20/2004,Shipped,Vintage Cars,136,Paris,,France
+10336,21,100,2230,11/20/2004,Shipped,Trains,100,Paris,,France
+10336,45,100,5972,11/20/2004,Shipped,Classic Cars,57,Paris,,France
+10336,31,100,4619,11/20/2004,Shipped,Classic Cars,118,Paris,,France
+10336,31,84.71,2626,11/20/2004,Shipped,Trains,62,Paris,,France
+10336,23,100,3142,11/20/2004,Shipped,Trucks and Buses,115,Paris,,France
+10336,46,100,9559,11/20/2004,Shipped,Classic Cars,101,Paris,,France
+10337,25,48.05,1201,11/21/2004,Shipped,Classic Cars,136,NYC,NY,USA
+10337,36,100,5679,11/21/2004,Shipped,Classic Cars,143,NYC,NY,USA
+10337,29,100,4498,11/21/2004,Shipped,Vintage Cars,87,NYC,NY,USA
+10337,29,71.97,2087,11/21/2004,Shipped,Ships,122,NYC,NY,USA
+10337,21,100,2297,11/21/2004,Shipped,Trains,58,NYC,NY,USA
+10337,36,70.3,2531,11/21/2004,Shipped,Ships,86,NYC,NY,USA
+10337,31,89.38,2771,11/21/2004,Shipped,Ships,100,NYC,NY,USA
+10337,36,71.89,2588,11/21/2004,Shipped,Ships,99,NYC,NY,USA
+10337,42,97.16,4081,11/21/2004,Shipped,Ships,54,NYC,NY,USA
+10338,41,100,5625,11/22/2004,Shipped,Planes,157,Charleroi,,Belgium
+10338,28,82.58,2312,11/22/2004,Shipped,Ships,86,Charleroi,,Belgium
+10338,45,100,5526,11/22/2004,Shipped,Vintage Cars,105,Charleroi,,Belgium
+10339,40,68.92,2757,11/23/2004,Shipped,Motorcycles,118,Minato-ku,Tokyo,Japan
+10339,39,76.67,2990,11/23/2004,Shipped,Motorcycles,193,Minato-ku,Tokyo,Japan
+10339,27,100,2811,11/23/2004,Shipped,Planes,84,Minato-ku,Tokyo,Japan
+10339,30,62.16,1865,11/23/2004,Shipped,Motorcycles,60,Minato-ku,Tokyo,Japan
+10339,27,84.39,2279,11/23/2004,Shipped,Motorcycles,112,Minato-ku,Tokyo,Japan
+10339,21,50.65,1064,11/23/2004,Shipped,Planes,109,Minato-ku,Tokyo,Japan
+10339,55,100,6214,11/23/2004,Shipped,Planes,68,Minato-ku,Tokyo,Japan
+10339,55,100,10758,11/23/2004,Shipped,Vintage Cars,88,Minato-ku,Tokyo,Japan
+10339,29,99.69,2891,11/23/2004,Shipped,Vintage Cars,65,Minato-ku,Tokyo,Japan
+10339,42,59.36,2493,11/23/2004,Shipped,Vintage Cars,83,Minato-ku,Tokyo,Japan
+10339,45,96.92,4361,11/23/2004,Shipped,Planes,68,Minato-ku,Tokyo,Japan
+10339,22,100,2816,11/23/2004,Shipped,Ships,66,Minato-ku,Tokyo,Japan
+10339,55,71.25,3919,11/23/2004,Shipped,Ships,90,Minato-ku,Tokyo,Japan
+10339,50,74.35,3718,11/23/2004,Shipped,Ships,72,Minato-ku,Tokyo,Japan
+10339,50,57.86,2893,11/23/2004,Shipped,Planes,74,Minato-ku,Tokyo,Japan
+10339,27,76.31,2060,11/23/2004,Shipped,Planes,49,Minato-ku,Tokyo,Japan
+10341,41,100,7738,11/24/2004,Shipped,Motorcycles,95,Salzburg,,Austria
+10341,45,79.65,3584,11/24/2004,Shipped,Classic Cars,194,Salzburg,,Austria
+10341,55,100,8119,11/24/2004,Shipped,Motorcycles,150,Salzburg,,Austria
+10341,44,95.93,4221,11/24/2004,Shipped,Classic Cars,117,Salzburg,,Austria
+10341,36,93.56,3368,11/24/2004,Shipped,Classic Cars,79,Salzburg,,Austria
+10341,55,75.2,4136,11/24/2004,Shipped,Classic Cars,115,Salzburg,,Austria
+10342,40,100,6454,11/24/2004,Shipped,Classic Cars,141,Melbourne,Victoria,Australia
+10343,36,100,5849,11/24/2004,Shipped,Classic Cars,124,Reims,,France
+10342,55,65.45,3600,11/24/2004,Shipped,Classic Cars,77,Melbourne,Victoria,Australia
+10342,22,100,3161,11/24/2004,Shipped,Classic Cars,142,Melbourne,Victoria,Australia
+10343,25,52.32,1308,11/24/2004,Shipped,Classic Cars,132,Reims,,France
+10342,30,100,5030,11/24/2004,Shipped,Classic Cars,169,Melbourne,Victoria,Australia
+10342,25,66.74,1669,11/24/2004,Shipped,Classic Cars,80,Melbourne,Victoria,Australia
+10342,55,100,6548,11/24/2004,Shipped,Classic Cars,146,Melbourne,Victoria,Australia
+10343,44,84.88,3735,11/24/2004,Shipped,Classic Cars,141,Reims,,France
+10342,26,55.95,1455,11/24/2004,Shipped,Motorcycles,62,Melbourne,Victoria,Australia
+10342,38,100,6276,11/24/2004,Shipped,Classic Cars,148,Melbourne,Victoria,Australia
+10343,27,36.21,978,11/24/2004,Shipped,Classic Cars,50,Reims,,France
+10340,55,79.98,4399,11/24/2004,Shipped,Motorcycles,76,Barcelona,,Spain
+10341,32,100,3307,11/24/2004,Shipped,Motorcycles,69,Salzburg,,Austria
+10342,39,40.4,1576,11/24/2004,Shipped,Classic Cars,37,Melbourne,Victoria,Australia
+10342,48,62.45,2998,11/24/2004,Shipped,Classic Cars,61,Melbourne,Victoria,Australia
+10342,42,100,5014,11/24/2004,Shipped,Classic Cars,140,Melbourne,Victoria,Australia
+10340,40,84.77,3391,11/24/2004,Shipped,Planes,72,Barcelona,,Spain
+10343,30,100,3099,11/24/2004,Shipped,Classic Cars,80,Reims,,France
+10340,55,100,6483,11/24/2004,Shipped,Motorcycles,99,Barcelona,,Spain
+10343,29,100,3713,11/24/2004,Shipped,Motorcycles,40,Reims,,France
+10340,39,59.16,2307,11/24/2004,Shipped,Vintage Cars,68,Barcelona,,Spain
+10341,31,71.02,2202,11/24/2004,Shipped,Motorcycles,102,Salzburg,,Austria
+10340,40,50.62,2025,11/24/2004,Shipped,Vintage Cars,43,Barcelona,,Spain
+10341,38,100,4682,11/24/2004,Shipped,Motorcycles,81,Salzburg,,Austria
+10340,30,88.6,2658,11/24/2004,Shipped,Planes,91,Barcelona,,Spain
+10340,55,87.75,4826,11/24/2004,Shipped,Planes,99,Barcelona,,Spain
+10340,29,100,4095,11/24/2004,Shipped,Planes,118,Barcelona,,Spain
+10341,34,100,3644,11/24/2004,Shipped,Planes,80,Salzburg,,Austria
+10344,45,100,7650,11/25/2004,Shipped,Vintage Cars,170,Marseille,,France
+10344,40,56.91,2276,11/25/2004,Shipped,Vintage Cars,60,Marseille,,France
+10344,30,100,3928,11/25/2004,Shipped,Vintage Cars,127,Marseille,,France
+10344,21,100,2203,11/25/2004,Shipped,Vintage Cars,92,Marseille,,France
+10344,26,63.43,1649,11/25/2004,Shipped,Classic Cars,71,Marseille,,France
+10344,29,59.53,1726,11/25/2004,Shipped,Classic Cars,73,Marseille,,France
+10344,20,35.18,704,11/25/2004,Shipped,Vintage Cars,33,Marseille,,France
+10345,43,53.76,2312,11/25/2004,Shipped,Vintage Cars,44,Nantes,,France
+10347,30,100,3945,11/29/2004,Shipped,Classic Cars,214,Melbourne,Victoria,Australia
+10347,27,100,4428,11/29/2004,Shipped,Classic Cars,147,Melbourne,Victoria,Australia
+10347,29,100,3586,11/29/2004,Shipped,Trucks and Buses,136,Melbourne,Victoria,Australia
+10347,42,49.6,2083,11/29/2004,Shipped,Trucks and Buses,116,Melbourne,Victoria,Australia
+10346,42,36.11,1517,11/29/2004,Shipped,Vintage Cars,102,Las Vegas,NV,USA
+10347,21,58.95,1238,11/29/2004,Shipped,Vintage Cars,53,Melbourne,Victoria,Australia
+10347,50,100,6835,11/29/2004,Shipped,Trucks and Buses,60,Melbourne,Victoria,Australia
+10347,21,100,4815,11/29/2004,Shipped,Vintage Cars,168,Melbourne,Victoria,Australia
+10347,48,100,4814,11/29/2004,Shipped,Vintage Cars,101,Melbourne,Victoria,Australia
+10347,34,64.96,2209,11/29/2004,Shipped,Vintage Cars,62,Melbourne,Victoria,Australia
+10347,45,100,4948,11/29/2004,Shipped,Vintage Cars,104,Melbourne,Victoria,Australia
+10347,26,100,2657,11/29/2004,Shipped,Vintage Cars,99,Melbourne,Victoria,Australia
+10347,45,100,5885,11/29/2004,Shipped,Trucks and Buses,121,Melbourne,Victoria,Australia
+10346,25,100,2877,11/29/2004,Shipped,Classic Cars,90,Las Vegas,NV,USA
+10346,24,87.24,2094,11/29/2004,Shipped,Classic Cars,117,Las Vegas,NV,USA
+10346,24,100,3326,11/29/2004,Shipped,Classic Cars,85,Las Vegas,NV,USA
+10346,26,95.88,2493,11/29/2004,Shipped,Classic Cars,107,Las Vegas,NV,USA
+10346,22,97.44,2144,11/29/2004,Shipped,Vintage Cars,41,Las Vegas,NV,USA
+10349,26,100,4409,12/1/2004,Shipped,Classic Cars,173,NYC,NY,USA
+10349,48,100,5233,12/1/2004,Shipped,Trucks and Buses,118,NYC,NY,USA
+10349,38,100,6720,12/1/2004,Shipped,Classic Cars,163,NYC,NY,USA
+10349,38,100,5223,12/1/2004,Shipped,Trucks and Buses,122,NYC,NY,USA
+10349,48,100,7397,12/1/2004,Shipped,Classic Cars,169,NYC,NY,USA
+10349,34,100,4395,12/1/2004,Shipped,Classic Cars,143,NYC,NY,USA
+10349,48,47.4,2275,12/1/2004,Shipped,Classic Cars,57,NYC,NY,USA
+10349,36,37.13,1337,12/1/2004,Shipped,Classic Cars,35,NYC,NY,USA
+10349,23,100,3183,12/1/2004,Shipped,Classic Cars,118,NYC,NY,USA
+10349,33,46.53,1535,12/1/2004,Shipped,Trucks and Buses,54,NYC,NY,USA
+10350,26,75.47,1962,12/2/2004,Shipped,Classic Cars,136,Madrid,,Spain
+10350,43,64.97,2794,12/2/2004,Shipped,Ships,86,Madrid,,Spain
+10350,44,100,5191,12/2/2004,Shipped,Vintage Cars,136,Madrid,,Spain
+10350,41,93.04,3815,12/2/2004,Shipped,Trains,100,Madrid,,Spain
+10350,30,100,3023,12/2/2004,Shipped,Vintage Cars,87,Madrid,,Spain
+10350,34,50.33,1711,12/2/2004,Shipped,Ships,122,Madrid,,Spain
+10350,30,100,3021,12/2/2004,Shipped,Vintage Cars,88,Madrid,,Spain
+10350,25,60.34,1509,12/2/2004,Shipped,Vintage Cars,83,Madrid,,Spain
+10350,27,100,4406,12/2/2004,Shipped,Trains,62,Madrid,,Spain
+10350,31,71.4,2213,12/2/2004,Shipped,Trucks and Buses,115,Madrid,,Spain
+10350,44,100,6491,12/2/2004,Shipped,Trains,58,Madrid,,Spain
+10350,46,76.67,3527,12/2/2004,Shipped,Ships,66,Madrid,,Spain
+10350,28,100,2924,12/2/2004,Shipped,Ships,86,Madrid,,Spain
+10350,29,75.35,2185,12/2/2004,Shipped,Ships,72,Madrid,,Spain
+10350,31,77.34,2398,12/2/2004,Shipped,Ships,100,Madrid,,Spain
+10350,25,100,2855,12/2/2004,Shipped,Ships,99,Madrid,,Spain
+10350,20,100,2244,12/2/2004,Shipped,Ships,54,Madrid,,Spain
+10351,39,99.52,3881,12/3/2004,Shipped,Planes,157,London,,UK
+10351,20,100,3375,12/3/2004,Shipped,Vintage Cars,105,London,,UK
+10351,25,74.68,1867,12/3/2004,Shipped,Planes,68,London,,UK
+10351,38,68.38,2598,12/3/2004,Shipped,Vintage Cars,65,London,,UK
+10351,34,59.37,2019,12/3/2004,Shipped,Planes,68,London,,UK
+10352,23,100,2353,12/3/2004,Shipped,Ships,90,Brickhaven,MA,USA
+10352,49,100,4935,12/3/2004,Shipped,Planes,99,Brickhaven,MA,USA
+10352,22,75.51,1661,12/3/2004,Shipped,Planes,74,Brickhaven,MA,USA
+10352,49,52.64,2579,12/3/2004,Shipped,Planes,49,Brickhaven,MA,USA
+10353,27,100,3516,12/4/2004,Shipped,Planes,84,Glendale,CT,USA
+10353,28,71.73,2008,12/4/2004,Shipped,Planes,109,Glendale,CT,USA
+10353,35,89.9,3147,12/4/2004,Shipped,Planes,72,Glendale,CT,USA
+10353,46,81.17,3734,12/4/2004,Shipped,Motorcycles,99,Glendale,CT,USA
+10353,40,44.51,1780,12/4/2004,Shipped,Vintage Cars,68,Glendale,CT,USA
+10353,40,82.21,3288,12/4/2004,Shipped,Vintage Cars,43,Glendale,CT,USA
+10353,39,100,5044,12/4/2004,Shipped,Planes,91,Glendale,CT,USA
+10353,48,68.8,3302,12/4/2004,Shipped,Planes,118,Glendale,CT,USA
+10353,43,81.95,3524,12/4/2004,Shipped,Planes,80,Glendale,CT,USA
+10355,23,100,3178,12/7/2004,Shipped,Classic Cars,146,Madrid,,Spain
+10355,31,53.47,1658,12/7/2004,Shipped,Motorcycles,62,Madrid,,Spain
+10355,25,100,4204,12/7/2004,Shipped,Classic Cars,148,Madrid,,Spain
+10355,41,70.65,2897,12/7/2004,Shipped,Motorcycles,69,Madrid,,Spain
+10355,36,38.52,1387,12/7/2004,Shipped,Classic Cars,37,Madrid,,Spain
+10355,44,62.45,2748,12/7/2004,Shipped,Classic Cars,61,Madrid,,Spain
+10355,32,100,5303,12/7/2004,Shipped,Classic Cars,140,Madrid,,Spain
+10355,28,95.39,2671,12/7/2004,Shipped,Classic Cars,80,Madrid,,Spain
+10355,38,39.83,1514,12/7/2004,Shipped,Motorcycles,40,Madrid,,Spain
+10355,40,100,4327,12/7/2004,Shipped,Motorcycles,102,Madrid,,Spain
+10356,43,97.6,4197,12/9/2004,Shipped,Classic Cars,141,Paris,,France
+10356,50,50.18,2509,12/9/2004,Shipped,Vintage Cars,102,Paris,,France
+10356,22,72.41,1593,12/9/2004,Shipped,Vintage Cars,53,Paris,,France
+10356,27,64.69,1747,12/9/2004,Shipped,Classic Cars,142,Paris,,France
+10356,29,100,3630,12/9/2004,Shipped,Vintage Cars,127,Paris,,France
+10356,30,100,4462,12/9/2004,Shipped,Vintage Cars,168,Paris,,France
+10356,48,100,9720,12/9/2004,Shipped,Vintage Cars,33,Paris,,France
+10356,26,31.86,828,12/9/2004,Shipped,Vintage Cars,44,Paris,,France
+10356,26,100,3938,12/9/2004,Shipped,Motorcycles,81,Paris,,France
+10357,32,100,5692,12/10/2004,Shipped,Classic Cars,214,San Rafael,CA,USA
+10357,43,100,5781,12/10/2004,Shipped,Classic Cars,147,San Rafael,CA,USA
+10357,49,100,5960,12/10/2004,Shipped,Trucks and Buses,136,San Rafael,CA,USA
+10358,49,55.34,2712,12/10/2004,Shipped,Classic Cars,151,Madrid,,Spain
+10358,42,64.16,2695,12/10/2004,Shipped,Trucks and Buses,118,Madrid,,Spain
+10357,39,98,3822,12/10/2004,Shipped,Trucks and Buses,116,San Rafael,CA,USA
+10358,20,100,2428,12/10/2004,Shipped,Classic Cars,163,Madrid,,Spain
+10358,20,36.42,728,12/10/2004,Shipped,Trucks and Buses,122,Madrid,,Spain
+10357,41,61.99,2542,12/10/2004,Shipped,Trucks and Buses,60,San Rafael,CA,USA
+10357,41,87.13,3572,12/10/2004,Shipped,Vintage Cars,101,San Rafael,CA,USA
+10357,49,70.58,3458,12/10/2004,Shipped,Vintage Cars,62,San Rafael,CA,USA
+10357,44,100,5161,12/10/2004,Shipped,Vintage Cars,104,San Rafael,CA,USA
+10358,32,93.49,2992,12/10/2004,Shipped,Classic Cars,169,Madrid,,Spain
+10357,25,100,2604,12/10/2004,Shipped,Vintage Cars,99,San Rafael,CA,USA
+10358,25,100,2528,12/10/2004,Shipped,Classic Cars,143,Madrid,,Spain
+10357,28,100,3560,12/10/2004,Shipped,Trucks and Buses,121,San Rafael,CA,USA
+10358,30,100,5303,12/10/2004,Shipped,Vintage Cars,50,Madrid,,Spain
+10358,44,60.76,2673,12/10/2004,Shipped,Classic Cars,57,Madrid,,Spain
+10358,41,100,5685,12/10/2004,Shipped,Trucks and Buses,127,Madrid,,Spain
+10358,36,82.94,2986,12/10/2004,Shipped,Classic Cars,35,Madrid,,Spain
+10358,41,100,6847,12/10/2004,Shipped,Vintage Cars,97,Madrid,,Spain
+10358,41,100,4428,12/10/2004,Shipped,Trucks and Buses,96,Madrid,,Spain
+10358,36,100,5670,12/10/2004,Shipped,Trucks and Buses,64,Madrid,,Spain
+10358,27,100,3761,12/10/2004,Shipped,Classic Cars,101,Madrid,,Spain
+10359,48,54.68,2625,12/15/2004,Shipped,Classic Cars,136,Reims,,France
+10359,42,100,4764,12/15/2004,Shipped,Classic Cars,207,Reims,,France
+10359,49,62.09,3042,12/15/2004,Shipped,Classic Cars,173,Reims,,France
+10359,22,100,2603,12/15/2004,Shipped,Classic Cars,118,Reims,,France
+10359,36,100,6359,12/15/2004,Shipped,Trucks and Buses,54,Reims,,France
+10359,22,100,4301,12/15/2004,Shipped,Trains,62,Reims,,France
+10359,46,100,4897,12/15/2004,Shipped,Trucks and Buses,115,Reims,,France
+10359,25,64.93,1623,12/15/2004,Shipped,Trains,58,Reims,,France
+10361,20,72.55,1451,12/17/2004,Shipped,Motorcycles,95,Chatswood,NSW,Australia
+10361,26,51.15,1330,12/17/2004,Shipped,Motorcycles,118,Chatswood,NSW,Australia
+10361,34,100,3872,12/17/2004,Shipped,Vintage Cars,65,Chatswood,NSW,Australia
+10361,26,100,3711,12/17/2004,Shipped,Planes,68,Chatswood,NSW,Australia
+10361,25,62.46,1562,12/17/2004,Shipped,Planes,72,Chatswood,NSW,Australia
+10361,49,72.33,3544,12/17/2004,Shipped,Vintage Cars,68,Chatswood,NSW,Australia
+10361,33,82.59,2725,12/17/2004,Shipped,Vintage Cars,43,Chatswood,NSW,Australia
+10361,20,60.54,1211,12/17/2004,Shipped,Planes,91,Chatswood,NSW,Australia
+10361,24,45.39,1089,12/17/2004,Shipped,Ships,90,Chatswood,NSW,Australia
+10361,26,100,2755,12/17/2004,Shipped,Planes,99,Chatswood,NSW,Australia
+10361,44,72.42,3186,12/17/2004,Shipped,Planes,118,Chatswood,NSW,Australia
+10361,44,100,5002,12/17/2004,Shipped,Planes,80,Chatswood,NSW,Australia
+10361,35,100,4277,12/17/2004,Shipped,Planes,74,Chatswood,NSW,Australia
+10361,23,95.2,2190,12/17/2004,Shipped,Planes,49,Chatswood,NSW,Australia
+10362,22,100,3664,1/5/2005,Shipped,Motorcycles,193,Burlingame,CA,USA
+10362,22,100,3877,1/5/2005,Shipped,Motorcycles,150,Burlingame,CA,USA
+10362,23,49.67,1142,1/5/2005,Shipped,Motorcycles,60,Burlingame,CA,USA
+10362,50,96.92,4846,1/5/2005,Shipped,Motorcycles,112,Burlingame,CA,USA
+10363,33,85.39,2818,1/6/2005,Shipped,Classic Cars,194,Espoo,,Finland
+10363,34,96.73,3289,1/6/2005,Shipped,Classic Cars,117,Espoo,,Finland
+10363,34,81.62,2775,1/6/2005,Shipped,Classic Cars,79,Espoo,,Finland
+10363,46,88.45,4069,1/6/2005,Shipped,Classic Cars,115,Espoo,,Finland
+10363,22,100,3687,1/6/2005,Shipped,Classic Cars,77,Espoo,,Finland
+10363,46,60.3,2774,1/6/2005,Shipped,Classic Cars,80,Espoo,,Finland
+10363,24,100,4143,1/6/2005,Shipped,Classic Cars,146,Espoo,,Finland
+10363,32,89.12,2852,1/6/2005,Shipped,Motorcycles,62,Espoo,,Finland
+10363,28,58.18,1629,1/6/2005,Shipped,Classic Cars,148,Espoo,,Finland
+10363,21,100,3596,1/6/2005,Shipped,Motorcycles,76,Espoo,,Finland
+10363,43,61.23,2633,1/6/2005,Shipped,Motorcycles,69,Espoo,,Finland
+10363,21,100,2448,1/6/2005,Shipped,Classic Cars,61,Espoo,,Finland
+10363,31,94.58,2932,1/6/2005,Shipped,Classic Cars,140,Espoo,,Finland
+10363,43,100,5154,1/6/2005,Shipped,Classic Cars,80,Espoo,,Finland
+10363,50,100,6577,1/6/2005,Shipped,Motorcycles,99,Espoo,,Finland
+10364,48,48.28,2317,1/6/2005,Shipped,Motorcycles,40,Marseille,,France
+10365,30,87.06,2612,1/7/2005,Shipped,Classic Cars,141,New Bedford,MA,USA
+10365,22,100,3425,1/7/2005,Shipped,Motorcycles,102,New Bedford,MA,USA
+10365,44,100,4984,1/7/2005,Shipped,Motorcycles,81,New Bedford,MA,USA
+10366,34,100,4208,1/10/2005,Shipped,Classic Cars,142,Charleroi,,Belgium
+10366,49,100,6145,1/10/2005,Shipped,Classic Cars,132,Charleroi,,Belgium
+10366,34,100,6276,1/10/2005,Shipped,Classic Cars,169,Charleroi,,Belgium
+10367,49,56.3,2759,1/12/2005,Resolved,Classic Cars,124,Pasadena,CA,USA
+10367,37,100,4704,1/12/2005,Resolved,Vintage Cars,170,Pasadena,CA,USA
+10367,45,100,8885,1/12/2005,Resolved,Vintage Cars,60,Pasadena,CA,USA
+10367,27,100,4196,1/12/2005,Resolved,Vintage Cars,127,Pasadena,CA,USA
+10367,32,94.79,3033,1/12/2005,Resolved,Vintage Cars,168,Pasadena,CA,USA
+10367,46,100,4808,1/12/2005,Resolved,Classic Cars,141,Pasadena,CA,USA
+10367,43,62.72,2697,1/12/2005,Resolved,Vintage Cars,92,Pasadena,CA,USA
+10367,44,85.25,3751,1/12/2005,Resolved,Classic Cars,71,Pasadena,CA,USA
+10367,21,60.37,1268,1/12/2005,Resolved,Classic Cars,73,Pasadena,CA,USA
+10367,38,38.5,1463,1/12/2005,Resolved,Classic Cars,50,Pasadena,CA,USA
+10367,23,36.29,835,1/12/2005,Resolved,Vintage Cars,33,Pasadena,CA,USA
+10367,28,30.59,857,1/12/2005,Resolved,Vintage Cars,44,Pasadena,CA,USA
+10367,36,100,5018,1/12/2005,Resolved,Classic Cars,37,Pasadena,CA,USA
+10368,40,100,4107,1/19/2005,Shipped,Classic Cars,90,San Rafael,CA,USA
+10368,31,100,4223,1/19/2005,Shipped,Classic Cars,117,San Rafael,CA,USA
+10368,46,79.62,3663,1/19/2005,Shipped,Classic Cars,85,San Rafael,CA,USA
+10368,20,99.58,1992,1/19/2005,Shipped,Classic Cars,107,San Rafael,CA,USA
+10368,46,37.34,1718,1/19/2005,Shipped,Vintage Cars,41,San Rafael,CA,USA
+10369,41,100,4515,1/20/2005,Shipped,Classic Cars,214,Brickhaven,MA,USA
+10370,35,65.63,2297,1/20/2005,Shipped,Classic Cars,147,North Sydney,NSW,Australia
+10370,49,100,8470,1/20/2005,Shipped,Trucks and Buses,136,North Sydney,NSW,Australia
+10370,27,100,3911,1/20/2005,Shipped,Trucks and Buses,116,North Sydney,NSW,Australia
+10369,44,100,9240,1/20/2005,Shipped,Vintage Cars,102,Brickhaven,MA,USA
+10369,32,98.63,3156,1/20/2005,Shipped,Vintage Cars,53,Brickhaven,MA,USA
+10370,22,100,3949,1/20/2005,Shipped,Trucks and Buses,122,North Sydney,NSW,Australia
+10370,22,96.86,2131,1/20/2005,Shipped,Trucks and Buses,60,North Sydney,NSW,Australia
+10369,42,100,4581,1/20/2005,Shipped,Vintage Cars,101,Brickhaven,MA,USA
+10369,28,44.21,1238,1/20/2005,Shipped,Vintage Cars,62,Brickhaven,MA,USA
+10369,21,94.22,1979,1/20/2005,Shipped,Vintage Cars,104,Brickhaven,MA,USA
+10370,27,56.85,1535,1/20/2005,Shipped,Classic Cars,169,North Sydney,NSW,Australia
+10369,45,73.08,3289,1/20/2005,Shipped,Vintage Cars,99,Brickhaven,MA,USA
+10370,29,57.53,1668,1/20/2005,Shipped,Trucks and Buses,121,North Sydney,NSW,Australia
+10370,20,100,2730,1/20/2005,Shipped,Vintage Cars,50,North Sydney,NSW,Australia
+10369,40,86.92,3477,1/20/2005,Shipped,Vintage Cars,97,Brickhaven,MA,USA
+10370,25,100,3160,1/20/2005,Shipped,Trucks and Buses,64,North Sydney,NSW,Australia
+10371,32,100,3561,1/23/2005,Shipped,Classic Cars,207,San Rafael,CA,USA
+10371,49,35.71,1750,1/23/2005,Shipped,Trucks and Buses,118,San Rafael,CA,USA
+10371,25,100,2602,1/23/2005,Shipped,Classic Cars,163,San Rafael,CA,USA
+10371,25,97.27,2432,1/23/2005,Shipped,Classic Cars,57,San Rafael,CA,USA
+10371,20,100,3449,1/23/2005,Shipped,Trucks and Buses,127,San Rafael,CA,USA
+10371,45,100,5546,1/23/2005,Shipped,Classic Cars,35,San Rafael,CA,USA
+10371,28,50.32,1409,1/23/2005,Shipped,Classic Cars,118,San Rafael,CA,USA
+10371,26,100,4044,1/23/2005,Shipped,Trucks and Buses,96,San Rafael,CA,USA
+10371,20,66.47,1329,1/23/2005,Shipped,Trucks and Buses,54,San Rafael,CA,USA
+10371,30,99.55,2987,1/23/2005,Shipped,Trains,62,San Rafael,CA,USA
+10371,48,56.55,2714,1/23/2005,Shipped,Trucks and Buses,115,San Rafael,CA,USA
+10371,34,100,4301,1/23/2005,Shipped,Classic Cars,101,San Rafael,CA,USA
+10372,40,100,5862,1/26/2005,Shipped,Classic Cars,151,Minato-ku,Tokyo,Japan
+10372,34,100,5942,1/26/2005,Shipped,Classic Cars,173,Minato-ku,Tokyo,Japan
+10372,28,100,3863,1/26/2005,Shipped,Vintage Cars,136,Minato-ku,Tokyo,Japan
+10372,25,84.71,2118,1/26/2005,Shipped,Trains,100,Minato-ku,Tokyo,Japan
+10372,48,100,7032,1/26/2005,Shipped,Classic Cars,143,Minato-ku,Tokyo,Japan
+10372,41,86.89,3562,1/26/2005,Shipped,Vintage Cars,87,Minato-ku,Tokyo,Japan
+10372,37,100,3911,1/26/2005,Shipped,Ships,122,Minato-ku,Tokyo,Japan
+10372,24,58.58,1406,1/26/2005,Shipped,Trains,58,Minato-ku,Tokyo,Japan
+10372,44,100,4497,1/26/2005,Shipped,Ships,86,Minato-ku,Tokyo,Japan
+10373,39,100,4046,1/31/2005,Shipped,Classic Cars,136,Oulu,,Finland
+10373,28,57.55,1611,1/31/2005,Shipped,Planes,157,Oulu,,Finland
+10373,22,86.74,1908,1/31/2005,Shipped,Ships,86,Oulu,,Finland
+10373,50,60.49,3025,1/31/2005,Shipped,Vintage Cars,105,Oulu,,Finland
+10373,38,70.44,2677,1/31/2005,Shipped,Planes,68,Oulu,,Finland
+10373,33,57.32,1892,1/31/2005,Shipped,Vintage Cars,88,Oulu,,Finland
+10373,46,66,3036,1/31/2005,Shipped,Vintage Cars,65,Oulu,,Finland
+10373,23,100,2394,1/31/2005,Shipped,Vintage Cars,83,Oulu,,Finland
+10373,39,73,2847,1/31/2005,Shipped,Planes,68,Oulu,,Finland
+10373,44,100,4628,1/31/2005,Shipped,Ships,66,Oulu,,Finland
+10373,32,84.41,2701,1/31/2005,Shipped,Ships,90,Oulu,,Finland
+10373,41,70.33,2884,1/31/2005,Shipped,Ships,72,Oulu,,Finland
+10373,34,96.34,3276,1/31/2005,Shipped,Ships,100,Oulu,,Finland
+10373,37,100,4026,1/31/2005,Shipped,Ships,99,Oulu,,Finland
+10373,45,55.62,2503,1/31/2005,Shipped,Planes,74,Oulu,,Finland
+10373,25,64.97,1624,1/31/2005,Shipped,Planes,49,Oulu,,Finland
+10373,29,100,3979,1/31/2005,Shipped,Ships,54,Oulu,,Finland
+10374,39,100,5288,2/2/2005,Shipped,Motorcycles,118,South Brisbane,Queensland,Australia
+10374,22,100,3834,2/2/2005,Shipped,Motorcycles,193,South Brisbane,Queensland,Australia
+10374,42,69.27,2909,2/2/2005,Shipped,Planes,84,South Brisbane,Queensland,Australia
+10374,22,53.3,1173,2/2/2005,Shipped,Motorcycles,60,South Brisbane,Queensland,Australia
+10374,38,100,4197,2/2/2005,Shipped,Motorcycles,112,South Brisbane,Queensland,Australia
+10374,46,94.1,4329,2/2/2005,Shipped,Planes,109,South Brisbane,Queensland,Australia
+10375,21,34.91,733,2/3/2005,Shipped,Motorcycles,95,Nantes,,France
+10375,45,76,3420,2/3/2005,Shipped,Classic Cars,194,Nantes,,France
+10375,49,78.92,3867,2/3/2005,Shipped,Motorcycles,150,Nantes,,France
+10375,23,100,2443,2/3/2005,Shipped,Motorcycles,76,Nantes,,France
+10375,20,100,2046,2/3/2005,Shipped,Motorcycles,69,Nantes,,France
+10375,43,100,10040,2/3/2005,Shipped,Planes,72,Nantes,,France
+10375,37,100,6353,2/3/2005,Shipped,Motorcycles,99,Nantes,,France
+10375,44,82.26,3619,2/3/2005,Shipped,Vintage Cars,68,Nantes,,France
+10375,41,100,4702,2/3/2005,Shipped,Motorcycles,102,Nantes,,France
+10375,49,65.8,3224,2/3/2005,Shipped,Vintage Cars,43,Nantes,,France
+10375,49,100,5407,2/3/2005,Shipped,Motorcycles,81,Nantes,,France
+10375,37,81.87,3029,2/3/2005,Shipped,Planes,91,Nantes,,France
+10375,33,100,3857,2/3/2005,Shipped,Planes,99,Nantes,,France
+10375,25,66.73,1668,2/3/2005,Shipped,Planes,118,Nantes,,France
+10375,44,100,5209,2/3/2005,Shipped,Planes,80,Nantes,,France
+10376,35,100,3987,2/8/2005,Shipped,Classic Cars,117,Glendale,CA,USA
+10377,24,67.83,1628,2/9/2005,Shipped,Classic Cars,79,Helsinki,,Finland
+10377,50,100,5182,2/9/2005,Shipped,Classic Cars,115,Helsinki,,Finland
+10377,35,100,5895,2/9/2005,Shipped,Classic Cars,141,Helsinki,,Finland
+10377,31,67.76,2101,2/9/2005,Shipped,Classic Cars,77,Helsinki,,Finland
+10377,36,100,4353,2/9/2005,Shipped,Classic Cars,142,Helsinki,,Finland
+10377,39,100,7265,2/9/2005,Shipped,Classic Cars,169,Helsinki,,Finland
+10378,34,42.64,1450,2/10/2005,Shipped,Classic Cars,124,Madrid,,Spain
+10379,39,100,5400,2/10/2005,Shipped,Vintage Cars,170,Madrid,,Spain
+10379,27,49.3,1331,2/10/2005,Shipped,Vintage Cars,60,Madrid,,Spain
+10379,29,100,5127,2/10/2005,Shipped,Classic Cars,132,Madrid,,Spain
+10378,22,100,2464,2/10/2005,Shipped,Classic Cars,80,Madrid,,Spain
+10378,43,96.49,4149,2/10/2005,Shipped,Classic Cars,146,Madrid,,Spain
+10379,32,70.83,2267,2/10/2005,Shipped,Classic Cars,141,Madrid,,Spain
+10378,28,100,4610,2/10/2005,Shipped,Motorcycles,62,Madrid,,Spain
+10378,49,67.14,3290,2/10/2005,Shipped,Classic Cars,148,Madrid,,Spain
+10379,32,100,3971,2/10/2005,Shipped,Classic Cars,50,Madrid,,Spain
+10378,41,100,5857,2/10/2005,Shipped,Classic Cars,37,Madrid,,Spain
+10378,46,41.54,1911,2/10/2005,Shipped,Classic Cars,61,Madrid,,Spain
+10378,33,53.27,1758,2/10/2005,Shipped,Classic Cars,140,Madrid,,Spain
+10378,41,100,4894,2/10/2005,Shipped,Classic Cars,80,Madrid,,Spain
+10378,40,82.46,3298,2/10/2005,Shipped,Motorcycles,40,Madrid,,Spain
+10380,27,93.16,2515,2/16/2005,Shipped,Vintage Cars,102,Madrid,,Spain
+10380,40,100,4932,2/16/2005,Shipped,Vintage Cars,127,Madrid,,Spain
+10380,21,47.18,991,2/16/2005,Shipped,Vintage Cars,168,Madrid,,Spain
+10380,32,100,3377,2/16/2005,Shipped,Vintage Cars,92,Madrid,,Spain
+10380,24,100,4536,2/16/2005,Shipped,Classic Cars,71,Madrid,,Spain
+10380,34,100,3442,2/16/2005,Shipped,Classic Cars,73,Madrid,,Spain
+10380,32,70.56,2258,2/16/2005,Shipped,Vintage Cars,33,Madrid,,Spain
+10380,27,68.35,1845,2/16/2005,Shipped,Vintage Cars,44,Madrid,,Spain
+10380,36,37.5,1350,2/16/2005,Shipped,Classic Cars,90,Madrid,,Spain
+10380,44,36.29,1597,2/16/2005,Shipped,Classic Cars,117,Madrid,,Spain
+10380,44,79.06,3479,2/16/2005,Shipped,Classic Cars,85,Madrid,,Spain
+10380,34,100,3953,2/16/2005,Shipped,Classic Cars,107,Madrid,,Spain
+10380,43,95.03,4086,2/16/2005,Shipped,Vintage Cars,41,Madrid,,Spain
+10381,36,100,8255,2/17/2005,Shipped,Classic Cars,214,San Francisco,CA,USA
+10381,37,100,6232,2/17/2005,Shipped,Classic Cars,147,San Francisco,CA,USA
+10382,34,100,3824,2/17/2005,Shipped,Classic Cars,207,San Rafael,CA,USA
+10381,20,100,2952,2/17/2005,Shipped,Trucks and Buses,136,San Francisco,CA,USA
+10382,37,100,4072,2/17/2005,Shipped,Classic Cars,151,San Rafael,CA,USA
+10382,34,95.35,3242,2/17/2005,Shipped,Classic Cars,173,San Rafael,CA,USA
+10382,32,66.58,2131,2/17/2005,Shipped,Trucks and Buses,118,San Rafael,CA,USA
+10381,48,98,4704,2/17/2005,Shipped,Trucks and Buses,116,San Francisco,CA,USA
+10381,25,52.83,1321,2/17/2005,Shipped,Vintage Cars,53,San Francisco,CA,USA
+10382,25,88,2200,2/17/2005,Shipped,Classic Cars,163,San Rafael,CA,USA
+10381,35,48.62,1702,2/17/2005,Shipped,Trucks and Buses,60,San Francisco,CA,USA
+10381,41,100,4320,2/17/2005,Shipped,Vintage Cars,101,San Francisco,CA,USA
+10381,40,68.08,2723,2/17/2005,Shipped,Vintage Cars,62,San Francisco,CA,USA
+10381,35,100,4288,2/17/2005,Shipped,Vintage Cars,104,San Francisco,CA,USA
+10382,50,100,8936,2/17/2005,Shipped,Vintage Cars,99,San Rafael,CA,USA
+10382,39,100,4891,2/17/2005,Shipped,Trucks and Buses,121,San Rafael,CA,USA
+10382,39,100,7827,2/17/2005,Shipped,Vintage Cars,50,San Rafael,CA,USA
+10382,20,100,2654,2/17/2005,Shipped,Trucks and Buses,127,San Rafael,CA,USA
+10382,33,100,4593,2/17/2005,Shipped,Vintage Cars,97,San Rafael,CA,USA
+10382,26,100,2708,2/17/2005,Shipped,Trucks and Buses,96,San Rafael,CA,USA
+10382,48,100,6800,2/17/2005,Shipped,Trucks and Buses,64,San Rafael,CA,USA
+10382,34,54.84,1865,2/17/2005,Shipped,Classic Cars,101,San Rafael,CA,USA
+10383,27,100,3844,2/22/2005,Shipped,Trucks and Buses,122,Madrid,,Spain
+10383,24,61.52,1476,2/22/2005,Shipped,Vintage Cars,136,Madrid,,Spain
+10383,47,100,6869,2/22/2005,Shipped,Classic Cars,169,Madrid,,Spain
+10383,26,100,3340,2/22/2005,Shipped,Trains,100,Madrid,,Spain
+10383,38,100,5341,2/22/2005,Shipped,Classic Cars,143,Madrid,,Spain
+10383,28,58.58,1640,2/22/2005,Shipped,Vintage Cars,87,Madrid,,Spain
+10383,22,91.76,2019,2/22/2005,Shipped,Classic Cars,57,Madrid,,Spain
+10383,40,100,6090,2/22/2005,Shipped,Classic Cars,35,Madrid,,Spain
+10383,21,93.91,1972,2/22/2005,Shipped,Classic Cars,118,Madrid,,Spain
+10383,32,53.18,1702,2/22/2005,Shipped,Trucks and Buses,54,Madrid,,Spain
+10383,44,36.07,1587,2/22/2005,Shipped,Trains,62,Madrid,,Spain
+10383,29,100,3087,2/22/2005,Shipped,Trucks and Buses,115,Madrid,,Spain
+10383,38,60.06,2282,2/22/2005,Shipped,Trains,58,Madrid,,Spain
+10384,34,100,4847,2/23/2005,Shipped,Classic Cars,136,San Francisco,CA,USA
+10384,28,80.54,2255,2/23/2005,Shipped,Ships,122,San Francisco,CA,USA
+10384,43,97.87,4208,2/23/2005,Shipped,Vintage Cars,88,San Francisco,CA,USA
+10384,49,100,6397,2/23/2005,Shipped,Ships,86,San Francisco,CA,USA
+10385,37,85.54,3165,2/28/2005,Shipped,Vintage Cars,83,San Rafael,CA,USA
+10385,25,77.34,1934,2/28/2005,Shipped,Ships,66,San Rafael,CA,USA
+10386,25,54.57,1364,3/1/2005,Resolved,Planes,157,Madrid,,Spain
+10386,21,74.77,1570,3/1/2005,Resolved,Planes,84,Madrid,,Spain
+10386,37,93.01,3441,3/1/2005,Resolved,Ships,86,Madrid,,Spain
+10386,22,57.55,1266,3/1/2005,Resolved,Vintage Cars,105,Madrid,,Spain
+10386,33,41.71,1376,3/1/2005,Resolved,Planes,109,Madrid,,Spain
+10386,39,55.96,2182,3/1/2005,Resolved,Planes,68,Madrid,,Spain
+10386,35,63.76,2232,3/1/2005,Resolved,Vintage Cars,65,Madrid,,Spain
+10386,41,73.32,3006,3/1/2005,Resolved,Planes,68,Madrid,,Spain
+10386,50,63.34,3167,3/1/2005,Resolved,Planes,72,Madrid,,Spain
+10386,29,85.76,2487,3/1/2005,Resolved,Ships,90,Madrid,,Spain
+10386,37,83.84,3102,3/1/2005,Resolved,Planes,99,Madrid,,Spain
+10386,37,100,5018,3/1/2005,Resolved,Ships,72,Madrid,,Spain
+10386,32,94.34,3019,3/1/2005,Resolved,Planes,80,Madrid,,Spain
+10386,45,92.08,4144,3/1/2005,Resolved,Ships,100,Madrid,,Spain
+10386,30,95.48,2864,3/1/2005,Resolved,Ships,99,Madrid,,Spain
+10386,44,86.4,3802,3/1/2005,Resolved,Planes,74,Madrid,,Spain
+10386,50,87.15,4358,3/1/2005,Resolved,Planes,49,Madrid,,Spain
+10386,43,100,5418,3/1/2005,Resolved,Ships,54,Madrid,,Spain
+10387,44,94.9,4176,3/2/2005,Shipped,Motorcycles,99,Singapore,,Singapore
+10388,42,76.36,3207,3/3/2005,Shipped,Motorcycles,95,New Bedford,MA,USA
+10388,50,44.51,2226,3/3/2005,Shipped,Motorcycles,118,New Bedford,MA,USA
+10388,21,86.77,1822,3/3/2005,Shipped,Motorcycles,193,New Bedford,MA,USA
+10389,26,99.04,2575,3/3/2005,Shipped,Classic Cars,194,Boras,,Sweden
+10388,44,100,5951,3/3/2005,Shipped,Motorcycles,150,New Bedford,MA,USA
+10389,25,72.38,1810,3/3/2005,Shipped,Classic Cars,117,Boras,,Sweden
+10389,36,70.26,2529,3/3/2005,Shipped,Classic Cars,79,Boras,,Sweden
+10389,47,100,5244,3/3/2005,Shipped,Classic Cars,115,Boras,,Sweden
+10389,49,79.22,3882,3/3/2005,Shipped,Classic Cars,77,Boras,,Sweden
+10389,39,100,6981,3/3/2005,Shipped,Motorcycles,60,Boras,,Sweden
+10389,45,100,4598,3/3/2005,Shipped,Motorcycles,112,Boras,,Sweden
+10389,49,81.4,3989,3/3/2005,Shipped,Motorcycles,76,Boras,,Sweden
+10388,35,100,3919,3/3/2005,Shipped,Vintage Cars,68,New Bedford,MA,USA
+10388,27,100,3211,3/3/2005,Shipped,Vintage Cars,43,New Bedford,MA,USA
+10388,46,100,10067,3/3/2005,Shipped,Planes,91,New Bedford,MA,USA
+10388,50,100,7155,3/3/2005,Shipped,Planes,118,New Bedford,MA,USA
+10390,36,93.77,3376,3/4/2005,Shipped,Classic Cars,141,San Rafael,CA,USA
+10390,34,43.05,1464,3/4/2005,Shipped,Classic Cars,142,San Rafael,CA,USA
+10390,31,98.99,3069,3/4/2005,Shipped,Vintage Cars,127,San Rafael,CA,USA
+10390,26,78.11,2031,3/4/2005,Shipped,Vintage Cars,168,San Rafael,CA,USA
+10390,40,100,5492,3/4/2005,Shipped,Classic Cars,80,San Rafael,CA,USA
+10390,50,100,7397,3/4/2005,Shipped,Classic Cars,146,San Rafael,CA,USA
+10390,36,100,5080,3/4/2005,Shipped,Motorcycles,62,San Rafael,CA,USA
+10390,49,100,6863,3/4/2005,Shipped,Classic Cars,148,San Rafael,CA,USA
+10390,35,65.13,2280,3/4/2005,Shipped,Motorcycles,69,San Rafael,CA,USA
+10390,37,100,4895,3/4/2005,Shipped,Classic Cars,37,San Rafael,CA,USA
+10390,46,52.84,2431,3/4/2005,Shipped,Classic Cars,61,San Rafael,CA,USA
+10390,45,100,6763,3/4/2005,Shipped,Classic Cars,140,San Rafael,CA,USA
+10390,30,82.42,2473,3/4/2005,Shipped,Classic Cars,80,San Rafael,CA,USA
+10390,41,44.56,1827,3/4/2005,Shipped,Motorcycles,40,San Rafael,CA,USA
+10390,45,48.98,2204,3/4/2005,Shipped,Motorcycles,102,San Rafael,CA,USA
+10390,22,100,3491,3/4/2005,Shipped,Motorcycles,81,San Rafael,CA,USA
+10391,24,100,2417,3/9/2005,Shipped,Classic Cars,214,North Sydney,NSW,Australia
+10391,37,46.9,1735,3/9/2005,Shipped,Classic Cars,147,North Sydney,NSW,Australia
+10391,39,63.2,2465,3/9/2005,Shipped,Trucks and Buses,136,North Sydney,NSW,Australia
+10391,29,85.1,2468,3/9/2005,Shipped,Trucks and Buses,116,North Sydney,NSW,Australia
+10391,35,100,5549,3/9/2005,Shipped,Vintage Cars,102,North Sydney,NSW,Australia
+10391,42,100,4998,3/9/2005,Shipped,Vintage Cars,53,North Sydney,NSW,Australia
+10391,44,38.5,1694,3/9/2005,Shipped,Trucks and Buses,60,North Sydney,NSW,Australia
+10391,32,45.25,1448,3/9/2005,Shipped,Vintage Cars,101,North Sydney,NSW,Australia
+10391,33,100,8345,3/9/2005,Shipped,Vintage Cars,33,North Sydney,NSW,Australia
+10391,24,100,4042,3/9/2005,Shipped,Vintage Cars,44,North Sydney,NSW,Australia
+10392,37,59.96,2219,3/10/2005,Shipped,Vintage Cars,62,Graz,,Austria
+10392,29,86.92,2521,3/10/2005,Shipped,Vintage Cars,104,Graz,,Austria
+10392,36,100,4036,3/10/2005,Shipped,Vintage Cars,99,Graz,,Austria
+10394,22,100,3353,3/15/2005,Shipped,Classic Cars,169,Madrid,,Spain
+10394,37,100,6377,3/15/2005,Shipped,Classic Cars,143,Madrid,,Spain
+10394,31,50.29,1559,3/15/2005,Shipped,Classic Cars,57,Madrid,,Spain
+10394,46,38.9,1789,3/15/2005,Shipped,Classic Cars,35,Madrid,,Spain
+10394,37,100,5208,3/15/2005,Shipped,Classic Cars,118,Madrid,,Spain
+10394,36,62.77,2260,3/15/2005,Shipped,Trucks and Buses,54,Madrid,,Spain
+10394,30,60.28,1808,3/15/2005,Shipped,Trains,62,Madrid,,Spain
+10395,32,100,3371,3/17/2005,Shipped,Classic Cars,136,Paris,,France
+10395,33,69.12,2281,3/17/2005,Shipped,Classic Cars,207,Paris,,France
+10395,46,100,5693,3/17/2005,Shipped,Trucks and Buses,115,Paris,,France
+10395,45,100,8977,3/17/2005,Shipped,Trains,58,Paris,,France
+10396,33,100,6109,3/23/2005,Shipped,Classic Cars,173,San Rafael,CA,USA
+10396,33,100,5274,3/23/2005,Shipped,Vintage Cars,136,San Rafael,CA,USA
+10396,24,89.75,2154,3/23/2005,Shipped,Trains,100,San Rafael,CA,USA
+10396,45,100,4739,3/23/2005,Shipped,Vintage Cars,87,San Rafael,CA,USA
+10396,49,100,5721,3/23/2005,Shipped,Ships,122,San Rafael,CA,USA
+10396,27,83.2,2246,3/23/2005,Shipped,Vintage Cars,88,San Rafael,CA,USA
+10396,37,90.57,3351,3/23/2005,Shipped,Vintage Cars,83,San Rafael,CA,USA
+10396,39,66.67,2600,3/23/2005,Shipped,Ships,66,San Rafael,CA,USA
+10397,32,80.55,2578,3/28/2005,Shipped,Ships,86,Toulouse,,France
+10397,22,66.5,1463,3/28/2005,Shipped,Ships,72,Toulouse,,France
+10397,48,100,5193,3/28/2005,Shipped,Ships,100,Toulouse,,France
+10397,36,100,3790,3/28/2005,Shipped,Ships,99,Toulouse,,France
+10397,34,62.24,2116,3/28/2005,Shipped,Ships,54,Toulouse,,France
+10398,33,100,4215,3/30/2005,Shipped,Planes,157,Reims,,France
+10398,34,76.88,2614,3/30/2005,Shipped,Planes,84,Reims,,France
+10398,28,72.26,2023,3/30/2005,Shipped,Ships,86,Reims,,France
+10398,45,100,4812,3/30/2005,Shipped,Vintage Cars,105,Reims,,France
+10398,43,100,5552,3/30/2005,Shipped,Planes,109,Reims,,France
+10398,28,57.55,1611,3/30/2005,Shipped,Planes,68,Reims,,France
+10398,34,71.67,2437,3/30/2005,Shipped,Vintage Cars,65,Reims,,France
+10398,41,68.24,2798,3/30/2005,Shipped,Planes,68,Reims,,France
+10398,45,78.25,3521,3/30/2005,Shipped,Planes,72,Reims,,France
+10398,22,67.41,1483,3/30/2005,Shipped,Vintage Cars,68,Reims,,France
+10398,49,36.66,1796,3/30/2005,Shipped,Vintage Cars,43,Reims,,France
+10398,47,87.69,4121,3/30/2005,Shipped,Planes,91,Reims,,France
+10398,36,100,3910,3/30/2005,Shipped,Ships,90,Reims,,France
+10398,22,86.76,1909,3/30/2005,Shipped,Planes,99,Reims,,France
+10398,23,100,2811,3/30/2005,Shipped,Planes,118,Reims,,France
+10398,29,65.6,1902,3/30/2005,Shipped,Planes,80,Reims,,France
+10398,36,87.36,3145,3/30/2005,Shipped,Planes,74,Reims,,France
+10398,34,40.22,1367,3/30/2005,Shipped,Planes,49,Reims,,France
+10400,64,100,9661,4/1/2005,Shipped,Classic Cars,136,San Jose,CA,USA
+10400,34,100,6434,4/1/2005,Shipped,Planes,157,San Jose,CA,USA
+10400,30,74.84,2245,4/1/2005,Shipped,Ships,86,San Jose,CA,USA
+10400,58,100,7307,4/1/2005,Shipped,Vintage Cars,105,San Jose,CA,USA
+10400,24,61.66,1480,4/1/2005,Shipped,Planes,68,San Jose,CA,USA
+10400,38,57.2,2174,4/1/2005,Shipped,Vintage Cars,65,San Jose,CA,USA
+10400,42,72.96,3064,4/1/2005,Shipped,Vintage Cars,83,San Jose,CA,USA
+10400,46,87.8,4039,4/1/2005,Shipped,Ships,90,San Jose,CA,USA
+10400,20,56.12,1122,4/1/2005,Shipped,Planes,49,San Jose,CA,USA
+10401,42,76.03,3193,4/3/2005,On Hold,Planes,84,Newark,NJ,USA
+10401,38,96.29,3659,4/3/2005,On Hold,Planes,109,Newark,NJ,USA
+10401,64,60.05,3843,4/3/2005,On Hold,Planes,68,Newark,NJ,USA
+10401,52,81.14,4219,4/3/2005,On Hold,Planes,72,Newark,NJ,USA
+10401,49,100,4993,4/3/2005,On Hold,Motorcycles,99,Newark,NJ,USA
+10401,62,77.73,4819,4/3/2005,On Hold,Vintage Cars,68,Newark,NJ,USA
+10401,56,35.35,1980,4/3/2005,On Hold,Vintage Cars,43,Newark,NJ,USA
+10401,11,100,1135,4/3/2005,On Hold,Planes,91,Newark,NJ,USA
+10401,85,88.75,7544,4/3/2005,On Hold,Planes,99,Newark,NJ,USA
+10401,21,96.11,2018,4/3/2005,On Hold,Planes,118,Newark,NJ,USA
+10401,77,92,7084,4/3/2005,On Hold,Planes,80,Newark,NJ,USA
+10401,28,72.55,2031,4/3/2005,On Hold,Planes,74,Newark,NJ,USA
+10402,45,100,5834,4/7/2005,Shipped,Motorcycles,118,Paris,,France
+10402,55,55.72,3065,4/7/2005,Shipped,Motorcycles,60,Paris,,France
+10402,59,87.6,5168,4/7/2005,Shipped,Motorcycles,76,Paris,,France
+10403,24,100,2435,4/8/2005,Shipped,Motorcycles,95,Liverpool,,UK
+10403,66,100,11887,4/8/2005,Shipped,Motorcycles,193,Liverpool,,UK
+10403,66,100,8649,4/8/2005,Shipped,Motorcycles,150,Liverpool,,UK
+10403,36,52.22,1880,4/8/2005,Shipped,Motorcycles,62,Liverpool,,UK
+10403,46,100,5288,4/8/2005,Shipped,Motorcycles,112,Liverpool,,UK
+10403,27,79.65,2151,4/8/2005,Shipped,Motorcycles,69,Liverpool,,UK
+10403,30,40.23,1207,4/8/2005,Shipped,Motorcycles,40,Liverpool,,UK
+10403,45,100,5189,4/8/2005,Shipped,Motorcycles,102,Liverpool,,UK
+10403,31,68.34,2119,4/8/2005,Shipped,Motorcycles,81,Liverpool,,UK
+10405,97,93.28,9048,4/14/2005,Shipped,Classic Cars,115,Strasbourg,,France
+10405,61,73.92,4509,4/14/2005,Shipped,Classic Cars,77,Strasbourg,,France
+10405,55,100,8289,4/14/2005,Shipped,Classic Cars,169,Strasbourg,,France
+10405,47,44.56,2094,4/14/2005,Shipped,Classic Cars,37,Strasbourg,,France
+10405,76,100,11740,4/14/2005,Shipped,Classic Cars,140,Strasbourg,,France
+10406,61,100,8375,4/15/2005,Disputed,Classic Cars,141,Kobenhavn,,Denmark
+10406,48,100,7169,4/15/2005,Disputed,Classic Cars,142,Kobenhavn,,Denmark
+10406,65,100,10469,4/15/2005,Disputed,Classic Cars,141,Kobenhavn,,Denmark
+10407,59,100,7048,4/22/2005,On Hold,Classic Cars,124,San Jose,CA,USA
+10407,76,100,14083,4/22/2005,On Hold,Vintage Cars,170,San Jose,CA,USA
+10407,42,72.65,3051,4/22/2005,On Hold,Vintage Cars,60,San Jose,CA,USA
+10407,41,100,6386,4/22/2005,On Hold,Classic Cars,132,San Jose,CA,USA
+10407,6,90.19,541,4/22/2005,On Hold,Vintage Cars,92,San Jose,CA,USA
+10407,66,66.99,4421,4/22/2005,On Hold,Classic Cars,71,San Jose,CA,USA
+10407,26,76.43,1987,4/22/2005,On Hold,Classic Cars,73,San Jose,CA,USA
+10407,64,40.25,2576,4/22/2005,On Hold,Classic Cars,50,San Jose,CA,USA
+10407,76,94.5,7182,4/22/2005,On Hold,Classic Cars,90,San Jose,CA,USA
+10407,59,98.65,5820,4/22/2005,On Hold,Classic Cars,117,San Jose,CA,USA
+10407,13,81.33,1057,4/22/2005,On Hold,Classic Cars,85,San Jose,CA,USA
+10407,43,86.73,3729,4/22/2005,On Hold,Classic Cars,107,San Jose,CA,USA
+10408,15,36.93,554,4/22/2005,Shipped,Vintage Cars,41,Minato-ku,Tokyo,Japan
+10409,6,100,786,4/23/2005,Shipped,Vintage Cars,127,Singapore,,Singapore
+10409,61,29.54,1802,4/23/2005,Shipped,Vintage Cars,33,Singapore,,Singapore
+10411,23,100,4140,5/1/2005,Shipped,Classic Cars,214,Montreal,Quebec,Canada
+10411,27,100,4428,5/1/2005,Shipped,Classic Cars,147,Montreal,Quebec,Canada
+10411,40,100,6232,5/1/2005,Shipped,Trucks and Buses,136,Montreal,Quebec,Canada
+10411,27,100,3213,5/1/2005,Shipped,Trucks and Buses,116,Montreal,Quebec,Canada
+10411,46,100,5236,5/1/2005,Shipped,Trucks and Buses,121,Montreal,Quebec,Canada
+10411,35,59.87,2095,5/1/2005,Shipped,Vintage Cars,50,Montreal,Quebec,Canada
+10411,26,100,2905,5/1/2005,Shipped,Trucks and Buses,96,Montreal,Quebec,Canada
+10411,27,69.16,1867,5/1/2005,Shipped,Trucks and Buses,64,Montreal,Quebec,Canada
+10411,34,100,3577,5/1/2005,Shipped,Classic Cars,101,Montreal,Quebec,Canada
+10412,54,100,5951,5/3/2005,Shipped,Trucks and Buses,118,Madrid,,Spain
+10412,41,100,6713,5/3/2005,Shipped,Classic Cars,163,Madrid,,Spain
+10412,56,98.18,5498,5/3/2005,Shipped,Trucks and Buses,122,Madrid,,Spain
+10412,47,61.99,2914,5/3/2005,Shipped,Trucks and Buses,60,Madrid,,Spain
+10412,60,100,11888,5/3/2005,Shipped,Classic Cars,169,Madrid,,Spain
+10412,21,52.6,1105,5/3/2005,Shipped,Classic Cars,57,Madrid,,Spain
+10412,70,100,8498,5/3/2005,Shipped,Trucks and Buses,127,Madrid,,Spain
+10412,30,36.07,1082,5/3/2005,Shipped,Classic Cars,35,Madrid,,Spain
+10412,31,100,4253,5/3/2005,Shipped,Classic Cars,118,Madrid,,Spain
+10412,19,48.7,925,5/3/2005,Shipped,Trucks and Buses,54,Madrid,,Spain
+10412,26,100,3461,5/3/2005,Shipped,Trucks and Buses,115,Madrid,,Spain
+10413,36,100,8678,5/5/2005,Shipped,Classic Cars,207,Bridgewater,CT,USA
+10413,47,100,8237,5/5/2005,Shipped,Classic Cars,151,Bridgewater,CT,USA
+10413,22,100,3388,5/5/2005,Shipped,Classic Cars,173,Bridgewater,CT,USA
+10413,49,100,6897,5/5/2005,Shipped,Classic Cars,143,Bridgewater,CT,USA
+10413,24,49.71,1193,5/5/2005,Shipped,Trains,62,Bridgewater,CT,USA
+10413,51,63.85,3256,5/5/2005,Shipped,Trains,58,Bridgewater,CT,USA
+10414,19,100,2765,5/6/2005,On Hold,Classic Cars,136,Boston,MA,USA
+10414,44,73.98,3255,5/6/2005,On Hold,Ships,86,Boston,MA,USA
+10414,41,100,4872,5/6/2005,On Hold,Vintage Cars,136,Boston,MA,USA
+10414,48,100,5808,5/6/2005,On Hold,Trains,100,Boston,MA,USA
+10414,16,75.48,1208,5/6/2005,On Hold,Vintage Cars,87,Boston,MA,USA
+10414,23,100,3335,5/6/2005,On Hold,Ships,122,Boston,MA,USA
+10414,60,100,6107,5/6/2005,On Hold,Vintage Cars,88,Boston,MA,USA
+10414,51,76.31,3892,5/6/2005,On Hold,Vintage Cars,83,Boston,MA,USA
+10414,37,71.34,2640,5/6/2005,On Hold,Ships,66,Boston,MA,USA
+10414,34,100,3534,5/6/2005,On Hold,Ships,86,Boston,MA,USA
+10414,31,75.89,2353,5/6/2005,On Hold,Ships,72,Boston,MA,USA
+10414,28,100,3029,5/6/2005,On Hold,Ships,100,Boston,MA,USA
+10414,27,90.37,2440,5/6/2005,On Hold,Ships,99,Boston,MA,USA
+10414,47,65.52,3079,5/6/2005,On Hold,Ships,54,Boston,MA,USA
+10415,51,100,6209,5/9/2005,Disputed,Vintage Cars,105,Glen Waverly,Victoria,Australia
+10415,21,67.82,1424,5/9/2005,Disputed,Planes,68,Glen Waverly,Victoria,Australia
+10415,18,69.7,1255,5/9/2005,Disputed,Vintage Cars,65,Glen Waverly,Victoria,Australia
+10415,32,95.95,3070,5/9/2005,Disputed,Ships,90,Glen Waverly,Victoria,Australia
+10415,42,57.61,2420,5/9/2005,Disputed,Planes,49,Glen Waverly,Victoria,Australia
+10416,24,100,4352,5/10/2005,Shipped,Planes,157,Reggio Emilia,,Italy
+10416,15,98.84,1483,5/10/2005,Shipped,Planes,84,Reggio Emilia,,Italy
+10416,47,88.63,4166,5/10/2005,Shipped,Planes,109,Reggio Emilia,,Italy
+10416,32,87.6,2803,5/10/2005,Shipped,Motorcycles,76,Reggio Emilia,,Italy
+10416,18,75.06,1351,5/10/2005,Shipped,Planes,68,Reggio Emilia,,Italy
+10416,48,74.62,3582,5/10/2005,Shipped,Planes,72,Reggio Emilia,,Italy
+10416,45,100,4765,5/10/2005,Shipped,Motorcycles,99,Reggio Emilia,,Italy
+10416,26,61.22,1592,5/10/2005,Shipped,Vintage Cars,68,Reggio Emilia,,Italy
+10416,37,51.93,1921,5/10/2005,Shipped,Vintage Cars,43,Reggio Emilia,,Italy
+10416,23,91.34,2101,5/10/2005,Shipped,Planes,91,Reggio Emilia,,Italy
+10416,22,100,2457,5/10/2005,Shipped,Planes,99,Reggio Emilia,,Italy
+10416,41,100,5643,5/10/2005,Shipped,Planes,118,Reggio Emilia,,Italy
+10416,39,67.2,2621,5/10/2005,Shipped,Planes,80,Reggio Emilia,,Italy
+10416,43,62.19,2674,5/10/2005,Shipped,Planes,74,Reggio Emilia,,Italy
+10417,66,100,7516,5/13/2005,Disputed,Motorcycles,95,Madrid,,Spain
+10417,45,100,5887,5/13/2005,Disputed,Motorcycles,118,Madrid,,Spain
+10417,56,100,9218,5/13/2005,Disputed,Motorcycles,193,Madrid,,Spain
+10417,21,100,3448,5/13/2005,Disputed,Motorcycles,150,Madrid,,Spain
+10417,36,61.18,2202,5/13/2005,Disputed,Motorcycles,60,Madrid,,Spain
+10417,35,100,3550,5/13/2005,Disputed,Motorcycles,112,Madrid,,Spain
+10419,12,100,1961,5/17/2005,Shipped,Classic Cars,194,Salzburg,,Austria
+10419,10,100,1092,5/17/2005,Shipped,Classic Cars,117,Salzburg,,Austria
+10419,34,90.17,3066,5/17/2005,Shipped,Classic Cars,79,Salzburg,,Austria
+10419,32,100,3833,5/17/2005,Shipped,Classic Cars,115,Salzburg,,Austria
+10419,38,100,4464,5/17/2005,Shipped,Classic Cars,141,Salzburg,,Austria
+10419,37,100,5203,5/17/2005,Shipped,Classic Cars,124,Salzburg,,Austria
+10419,39,83.93,3273,5/17/2005,Shipped,Classic Cars,77,Salzburg,,Austria
+10419,34,100,4595,5/17/2005,Shipped,Classic Cars,142,Salzburg,,Austria
+10419,55,100,7696,5/17/2005,Shipped,Classic Cars,132,Salzburg,,Austria
+10419,35,100,5927,5/17/2005,Shipped,Classic Cars,169,Salzburg,,Austria
+10419,43,100,5589,5/17/2005,Shipped,Classic Cars,141,Salzburg,,Austria
+10419,15,42.67,640,5/17/2005,Shipped,Classic Cars,37,Salzburg,,Austria
+10419,55,52.66,2896,5/17/2005,Shipped,Classic Cars,61,Salzburg,,Austria
+10419,70,100,9240,5/17/2005,Shipped,Classic Cars,140,Salzburg,,Austria
+10420,37,100,5284,5/29/2005,In Process,Vintage Cars,170,Chatswood,NSW,Australia
+10420,36,63.57,2289,5/29/2005,In Process,Vintage Cars,60,Chatswood,NSW,Australia
+10420,45,100,4977,5/29/2005,In Process,Vintage Cars,127,Chatswood,NSW,Australia
+10421,35,100,5434,5/29/2005,In Process,Vintage Cars,168,San Rafael,CA,USA
+10420,66,92.95,6135,5/29/2005,In Process,Vintage Cars,92,Chatswood,NSW,Australia
+10420,36,57.73,2078,5/29/2005,In Process,Classic Cars,71,Chatswood,NSW,Australia
+10420,60,64.67,3880,5/29/2005,In Process,Classic Cars,73,Chatswood,NSW,Australia
+10420,37,60.37,2234,5/29/2005,In Process,Classic Cars,50,Chatswood,NSW,Australia
+10420,45,26.88,1210,5/29/2005,In Process,Vintage Cars,33,Chatswood,NSW,Australia
+10421,40,45.7,1828,5/29/2005,In Process,Vintage Cars,44,San Rafael,CA,USA
+10420,39,100,3934,5/29/2005,In Process,Classic Cars,90,Chatswood,NSW,Australia
+10420,55,96.3,5297,5/29/2005,In Process,Classic Cars,117,Chatswood,NSW,Australia
+10420,35,96.74,3386,5/29/2005,In Process,Classic Cars,85,Chatswood,NSW,Australia
+10420,26,100,2617,5/29/2005,In Process,Classic Cars,107,Chatswood,NSW,Australia
+10420,15,43.49,652,5/29/2005,In Process,Vintage Cars,41,Chatswood,NSW,Australia
+10422,51,95.55,4873,5/30/2005,In Process,Vintage Cars,102,Allentown,PA,USA
+10422,25,51.75,1294,5/30/2005,In Process,Vintage Cars,53,Allentown,PA,USA
+10423,10,88.14,881,5/30/2005,In Process,Vintage Cars,101,Bruxelles,,Belgium
+10423,31,53.72,1665,5/30/2005,In Process,Vintage Cars,62,Bruxelles,,Belgium
+10423,21,84.82,1781,5/30/2005,In Process,Vintage Cars,104,Bruxelles,,Belgium
+10423,21,89.29,1875,5/30/2005,In Process,Vintage Cars,99,Bruxelles,,Belgium
+10423,28,78.89,2209,5/30/2005,In Process,Vintage Cars,97,Bruxelles,,Belgium
+10424,50,100,12001,5/31/2005,In Process,Classic Cars,214,Madrid,,Spain
+10425,38,100,5895,5/31/2005,In Process,Classic Cars,147,Nantes,,France
+10424,49,100,7969,5/31/2005,In Process,Trucks and Buses,136,Madrid,,Spain
+10425,33,100,4693,5/31/2005,In Process,Trucks and Buses,118,Nantes,,France
+10424,54,100,7182,5/31/2005,In Process,Trucks and Buses,116,Madrid,,Spain
+10425,28,100,5318,5/31/2005,In Process,Classic Cars,163,Nantes,,France
+10425,38,99.41,3778,5/31/2005,In Process,Trucks and Buses,122,Nantes,,France
+10425,19,49.22,935,5/31/2005,In Process,Trucks and Buses,60,Nantes,,France
+10425,28,100,3793,5/31/2005,In Process,Classic Cars,169,Nantes,,France
+10425,38,100,4325,5/31/2005,In Process,Trucks and Buses,121,Nantes,,France
+10424,26,59.87,1557,5/31/2005,In Process,Vintage Cars,50,Madrid,,Spain
+10425,55,46.82,2575,5/31/2005,In Process,Classic Cars,57,Nantes,,France
+10425,49,100,5511,5/31/2005,In Process,Trucks and Buses,127,Nantes,,France
+10425,31,33.24,1030,5/31/2005,In Process,Classic Cars,35,Nantes,,France
+10425,41,86.68,3554,5/31/2005,In Process,Trucks and Buses,96,Nantes,,France
+10425,11,43.83,482,5/31/2005,In Process,Trucks and Buses,54,Nantes,,France
+10424,44,61.41,2702,5/31/2005,In Process,Trucks and Buses,64,Madrid,,Spain
+10425,18,100,1896,5/31/2005,In Process,Trucks and Buses,115,Nantes,,France
+10424,46,80.92,3722,5/31/2005,In Process,Classic Cars,101,Madrid,,Spain
