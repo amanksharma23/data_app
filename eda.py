@@ -64,7 +64,7 @@ if uploaded_file is not None:
     trend1,trend2 = st.columns((1.5,1.5))
     
     with row_spc1:
-        metric_trend1 =  row_spc1.selectbox("Select the metric for trend analysis", options= metrics)
+        metric_trend1 =  row_spc1.multiselect("Select the metric for trend analysis", options= metrics)
 
     trend2,row_spc21 = st.columns((4.9,.1))
 
