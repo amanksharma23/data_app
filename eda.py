@@ -7,9 +7,13 @@ from edafunc import preprocessing
 from edafunc import pca_maker
 
 st.set_page_config(layout="wide")
-row0_1,row0_2,name_spc = st.columns((3, 1,1))
+
+
+logo,row0_1,row0_2,name_spc = st.columns((.5,2.5, 1,1))
+with logo:
+    st.image('logo2.png', width=100)
 with row0_1:
-    st.title('Welcome to your :blue[Analysis] tool :golf:')
+    st.title('Exploratory Data :blue[Analysis] Tool')
 with name_spc:
     st.title("")
     st.markdown(':red[Streamlit App] by [Aman Sharma](https://www.linkedin.com/in/aman-kumar-sharma2000/)')
@@ -97,9 +101,7 @@ if uploaded_file is not None:
     
 
 
-else:
-    row0_1.subheader("Please upload a .csv file")
-    if row_space.checkbox('Check to use Example Dataset'):
+elif row_space.checkbox('Check to use Example Dataset'):
         
         df = load_data()
 
@@ -163,4 +165,3 @@ else:
             pca_2 = pca_rs.selectbox("Second Principle Component", options=pca_cols)
                 
             pca.plotly_chart(px.scatter(data_frame=pca_data, x=pca_1, y=pca_2,color=cat_col, template="plotly", height=500, width=500), use_container_width=True)
-        
