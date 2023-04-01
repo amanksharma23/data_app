@@ -5,19 +5,12 @@ from datetime import datetime, timedelta
 def preprocessing(df):
     df = df.dropna(subset = ['Expiry Date'])
     df['Expiry Date'] = pd.to_datetime(df['Expiry Date'])
-    df['Created On'] = pd.to_datetime(df['Created On'])
     df['today'] = pd.datetime.today().strftime('%Y-%m-%d')
     df['expiry days'] = (pd.to_datetime(df['Expiry Date']) - pd.to_datetime(df['today']) ).dt.days.astype(int)
 
     bins = [-10000,-1,30,60,90,120,150,2000]
     labels = ['Already expired','0-30 days', '31-60 days', '61-90 days', '91-120 days', '120-150 days', '150+ days']
     df['Expiry'] = pd.cut(df['expiry days'], bins, labels=labels)
-
-
-    df1 = df.iloc[:,:7]
-    df2 = df[df.columns[-2:]]
-    final_df = pd.concat([df1,df2], axis =1)
-
 
     metrics = []
     dimensions = []
@@ -46,4 +39,4 @@ def preprocessing(df):
     else:
         metrics_data
 
-    return final_df, final_df.columns, list(final_df['Expiry'].unique()),list(metrics_data.columns), list(dimensions_data.columns)
+    return df, df.columns, list(df['Expiry'].unique()),list(metrics_data.columns), list(dimensions_data.columns)
